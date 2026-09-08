@@ -6,8 +6,8 @@ story (replies land in your DMs). Twelve hours later a second story reveals the
 full photo, the posting date, the place if you have recorded one, and marks
 where the crop came from.
 
-The reveal also shows a small bar chart of how many replies were right and how
-many were off, counted from the story replies in your DMs.
+The reveal also shows a small bar chart with the share of replies that were
+right, counted from the story replies in your DMs. Only percentages are shown.
 
 Everything runs on GitHub Actions, for free, and uses only the official
 Instagram API. No interactive stickers are involved because the API cannot

@@ -84,9 +84,9 @@ DEFAULT_CONFIG = {
             "note_reveal": "Der Ausschnitt von heute Morgen ist markiert.",
             "cta_reveal": "Wie nah warst du dran?",
             "hint_reveal": "Morgen geht es weiter",
-            "answers_total": "{total} Antworten",
-            "answers_correct": "{n} richtig",
-            "answers_wrong": "{n} daneben",
+            "answers_title": "So lagt ihr",
+            "answers_correct": "{pct} % richtig",
+            "answers_wrong": "{pct} % daneben",
             "months": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli",
                        "August", "September", "Oktober", "November", "Dezember"],
             "date_format": "{day}. {month} {year}",
@@ -105,9 +105,9 @@ DEFAULT_CONFIG = {
             "note_reveal": "This morning's crop is marked.",
             "cta_reveal": "How close were you?",
             "hint_reveal": "Next one tomorrow",
-            "answers_total": "{total} replies",
-            "answers_correct": "{n} right",
-            "answers_wrong": "{n} off",
+            "answers_title": "How you did",
+            "answers_correct": "{pct} % right",
+            "answers_wrong": "{pct} % off",
             "months": ["January", "February", "March", "April", "May", "June", "July",
                        "August", "September", "October", "November", "December"],
             "date_format": "{day} {month} {year}",
@@ -341,8 +341,9 @@ def answers_chart(canvas, answers, y):
     """Single stacked bar: correct (accent) vs wrong (muted), direct-labelled."""
     draw = ImageDraw.Draw(canvas)
     total, correct = answers["total"], answers["correct"]
+    pct = round(100 * correct / total)
     f_small, f_label = font("regular", 30), font("bold", 32)
-    draw.text((MARGIN, y), texts()["answers_total"].format(total=total), font=f_small, fill=MUTED)
+    draw.text((MARGIN, y), texts()["answers_title"], font=f_small, fill=MUTED)
     y += 50
     bar_h, x0, x1 = 22, MARGIN, W - MARGIN
     layer = Image.new("RGBA", canvas.size, (0, 0, 0, 0))
@@ -356,8 +357,8 @@ def answers_chart(canvas, answers, y):
     canvas.alpha_composite(layer)
     y += bar_h + 26
     x = MARGIN
-    for color, label in ((accent(), texts()["answers_correct"].format(n=correct)),
-                         ((255, 255, 255, 140), texts()["answers_wrong"].format(n=total - correct))):
+    for color, label in ((accent(), texts()["answers_correct"].format(pct=pct)),
+                         ((255, 255, 255, 140), texts()["answers_wrong"].format(pct=100 - pct))):
         draw.ellipse([x, y + 9, x + 18, y + 27], fill=color)
         draw.text((x + 32, y), label, font=f_label, fill=WHITE)
         x += 32 + draw.textlength(label, font=f_label) + 48
