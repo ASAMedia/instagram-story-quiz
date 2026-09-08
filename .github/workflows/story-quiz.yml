@@ -1,0 +1,108 @@
+name: Instagram story quiz
+
+on:
+  schedule:
+    # GitHub cron runs in UTC. 07:00 UTC = 09:00 Berlin in summer, 08:00 in winter.
+    - cron: "0 7 * * *"    # question
+    - cron: "0 19 * * *"   # reveal, 12 hours later
+    - cron: "0 3 * * 1"    # weekly token refresh
+  workflow_dispatch:
+    inputs:
+      job:
+        description: Which step to run
+        type: choice
+        options: [question, reveal, refresh, locations]
+        default: question
+
+permissions:
+  contents: write
+
+concurrency:
+  group: story-quiz
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+      PUBLIC_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/docs
+      # Pause switch: Settings -> Secrets and variables -> Actions -> Variables.
+      # QUIZ_PAUSED=true stops new questions; QUIZ_PAUSED_UNTIL=2026-09-14 pauses
+      # through that date. A manual "Run workflow" always ignores the pause.
+      QUIZ_PAUSED: ${{ vars.QUIZ_PAUSED }}
+      QUIZ_PAUSED_UNTIL: ${{ vars.QUIZ_PAUSED_UNTIL }}
+      QUIZ_FORCE: ${{ github.event_name == 'workflow_dispatch' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Decide which step to run
+        id: which
+        run: |
+          case "${{ github.event_name }}:${{ github.event.schedule }}" in
+            workflow_dispatch:*) job="${{ inputs.job }}" ;;
+            *"0 7 * * *")        job=question ;;
+            *"0 19 * * *")       job=reveal ;;
+            *"0 3 * * 1")        job=refresh ;;
+            *)                   echo "unknown trigger"; exit 1 ;;
+          esac
+          echo "job=$job" >> "$GITHUB_OUTPUT"
+          git config user.name "story-quiz-bot"
+          git config user.email "story-quiz-bot@users.noreply.github.com"
+
+      - name: Import location tags for all posts
+        if: steps.which.outputs.job == 'locations'
+        run: |
+          python import_locations.py
+          git add locations.json
+          git commit -m "Import location tags" || echo "nothing to commit"
+          git pull --rebase
+          git push
+
+      - name: Render image and update state
+        if: steps.which.outputs.job == 'question' || steps.which.outputs.job == 'reveal'
+        run: python story_quiz.py make ${{ steps.which.outputs.job }}
+
+      - name: Push image so Instagram can fetch it
+        if: steps.which.outputs.job == 'question' || steps.which.outputs.job == 'reveal'
+        run: |
+          git add docs state locations.json
+          git commit -m "Prepare ${{ steps.which.outputs.job }} $(date -u +%F)" || echo "nothing to commit"
+          git pull --rebase
+          git push
+
+      - name: Publish story
+        if: steps.which.outputs.job == 'question' || steps.which.outputs.job == 'reveal'
+        run: python story_quiz.py publish ${{ steps.which.outputs.job }}
+
+      - name: Save publish state
+        if: steps.which.outputs.job == 'question' || steps.which.outputs.job == 'reveal'
+        run: |
+          git add state
+          git commit -m "Published ${{ steps.which.outputs.job }} $(date -u +%F)" || echo "nothing to commit"
+          git pull --rebase
+          git push
+
+      - name: Refresh access token
+        if: steps.which.outputs.job == 'refresh'
+        id: refresh
+        run: python story_quiz.py refresh
+
+      - name: Store refreshed token as repository secret
+        if: steps.which.outputs.job == 'refresh'
+        env:
+          GH_TOKEN: ${{ secrets.SECRETS_WRITER_PAT }}
+          NEW_TOKEN: ${{ steps.refresh.outputs.token }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::warning::SECRETS_WRITER_PAT is not set, the refreshed token was not saved. Update IG_ACCESS_TOKEN manually before it expires."
+            exit 0
+          fi
+          printf '%s' "$NEW_TOKEN" | gh secret set IG_ACCESS_TOKEN --repo "${{ github.repository }}"
