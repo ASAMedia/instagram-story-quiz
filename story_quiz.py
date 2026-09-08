@@ -30,7 +30,7 @@ import random
 import re
 import sys
 import time
-from datetime import datetime
+from datetime import datetime, timezone
 from io import BytesIO
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -84,6 +84,9 @@ DEFAULT_CONFIG = {
             "note_reveal": "Der Ausschnitt von heute Morgen ist markiert.",
             "cta_reveal": "Wie nah warst du dran?",
             "hint_reveal": "Morgen geht es weiter",
+            "answers_total": "{total} Antworten",
+            "answers_correct": "{n} richtig",
+            "answers_wrong": "{n} daneben",
             "months": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli",
                        "August", "September", "Oktober", "November", "Dezember"],
             "date_format": "{day}. {month} {year}",
@@ -102,6 +105,9 @@ DEFAULT_CONFIG = {
             "note_reveal": "This morning's crop is marked.",
             "cta_reveal": "How close were you?",
             "hint_reveal": "Next one tomorrow",
+            "answers_total": "{total} replies",
+            "answers_correct": "{n} right",
+            "answers_wrong": "{n} off",
             "months": ["January", "February", "March", "April", "May", "June", "July",
                        "August", "September", "October", "November", "December"],
             "date_format": "{day} {month} {year}",
@@ -156,7 +162,7 @@ def token():
     return value
 
 
-def api(method, path, **params):
+def api(method, path, fatal=True, **params):
     params["access_token"] = token()
     url = path if path.startswith("http") else f"{GRAPH}/{path}"
     resp = requests.request(method, url, params=params, timeout=60)
@@ -165,7 +171,10 @@ def api(method, path, **params):
     except ValueError:
         data = {"raw": resp.text}
     if resp.status_code >= 400 or "error" in data:
-        sys.exit(f"Instagram API error on {path}: {json.dumps(data, indent=2)}")
+        message = f"Instagram API error on {path}: {json.dumps(data, indent=2)}"
+        if fatal:
+            sys.exit(message)
+        raise RuntimeError(message)
     return data
 
 
@@ -328,6 +337,33 @@ def chip(canvas, label, value, x, y):
     return x + w
 
 
+def answers_chart(canvas, answers, y):
+    """Single stacked bar: correct (accent) vs wrong (muted), direct-labelled."""
+    draw = ImageDraw.Draw(canvas)
+    total, correct = answers["total"], answers["correct"]
+    f_small, f_label = font("regular", 30), font("bold", 32)
+    draw.text((MARGIN, y), texts()["answers_total"].format(total=total), font=f_small, fill=MUTED)
+    y += 50
+    bar_h, x0, x1 = 22, MARGIN, W - MARGIN
+    layer = Image.new("RGBA", canvas.size, (0, 0, 0, 0))
+    d = ImageDraw.Draw(layer)
+    d.rounded_rectangle([x0, y, x1, y + bar_h], bar_h // 2, fill=(255, 255, 255, 105))
+    if correct:
+        split = x0 + round((x1 - x0) * correct / total)
+        d.rounded_rectangle([x0, y, split, y + bar_h], bar_h // 2, fill=accent())
+        if correct < total:  # 2 px surface gap between the two segments
+            d.rectangle([split - 1, y, split + 1, y + bar_h], fill=(18, 18, 22, 255))
+    canvas.alpha_composite(layer)
+    y += bar_h + 26
+    x = MARGIN
+    for color, label in ((accent(), texts()["answers_correct"].format(n=correct)),
+                         ((255, 255, 255, 140), texts()["answers_wrong"].format(n=total - correct))):
+        draw.ellipse([x, y + 9, x + 18, y + 27], fill=color)
+        draw.text((x + 32, y), label, font=f_label, fill=WHITE)
+        x += 32 + draw.textlength(label, font=f_label) + 48
+    return y + 40
+
+
 def header(canvas, handle, avatar, eyebrow, round_no):
     """Avatar + handle on the left, eyebrow label on the right, below the safe zone."""
     draw = ImageDraw.Draw(canvas)
@@ -385,7 +421,7 @@ def render_question(photo, crop_box, out_path, handle="", avatar=None, round_no=
     canvas.convert("RGB").save(out_path, "JPEG", quality=92)
 
 
-def render_reveal(photo, crop_box, timestamp, place, out_path, handle="", avatar=None, round_no=0):
+def render_reveal(photo, crop_box, timestamp, place, out_path, handle="", avatar=None, round_no=0, answers=None):
     t = texts()
     canvas = background(photo)
     draw = ImageDraw.Draw(canvas)
@@ -400,7 +436,8 @@ def render_reveal(photo, crop_box, timestamp, place, out_path, handle="", avatar
 
     card_w = W - 2 * MARGIN
     card_top = y + 44
-    card_max_h = SAFE_BOTTOM - 360 - card_top   # leaves room for chips + footer
+    show_chart = bool(answers and answers.get("total"))
+    card_max_h = SAFE_BOTTOM - (500 if show_chart else 360) - card_top   # room for chips (+ chart) + footer
     img = fit(photo, card_w, card_max_h)
 
     # spotlight: dim everything outside this morning's crop, then outline it
@@ -419,6 +456,8 @@ def render_reveal(photo, crop_box, timestamp, place, out_path, handle="", avatar
     right = chip(canvas, t["chip_date"], format_date(timestamp), MARGIN, chip_y)
     if place:
         chip(canvas, t["chip_place"], place, right + 20, chip_y)
+    if show_chart:
+        answers_chart(canvas, answers, chip_y + 128 + 22)
 
     footer(canvas, t["cta_reveal"], t["hint_reveal"])
     canvas.convert("RGB").save(out_path, "JPEG", quality=92)
@@ -525,6 +564,81 @@ def profile():
 
 
 # --------------------------------------------------------------------------- #
+# replies to the question story
+# --------------------------------------------------------------------------- #
+
+STOPWORDS = {"und", "the", "and", "der", "die", "das", "bei", "von", "auf", "dem", "den", "des", "im", "in", "am"}
+
+
+def normalize(text):
+    text = text.lower()
+    for a, b in (("ä", "ae"), ("ö", "oe"), ("ü", "ue"), ("ß", "ss"), ("é", "e"), ("è", "e"), ("à", "a")):
+        text = text.replace(a, b)
+    return text
+
+
+def accepted_terms(state):
+    """Words that make a reply count as right: place words, caption hashtags, year, month."""
+    terms = set()
+    for word in re.split(r"[^a-z0-9]+", normalize(state.get("place") or "")):
+        if len(word) >= 3 and word not in STOPWORDS:
+            terms.add(word)
+    for tag in re.findall(r"#(\w+)", normalize(state.get("caption") or "")):
+        if len(tag) >= 4:
+            terms.add(tag)
+    dt = parse_ts(state["timestamp"])
+    terms.add(str(dt.year))
+    for lang in config()["texts"].values():
+        terms.add(normalize(lang["months"][dt.month - 1]))
+    return terms
+
+
+def is_correct(reply, terms):
+    text = normalize(reply)
+    return any(term in text for term in terms)
+
+
+def count_answers(state):
+    """Count replies (one per person) that arrived after the question went out.
+
+    Returns {"total": n, "correct": k} or None when messages cannot be read
+    (missing permission, connected tools disabled). Reply texts are never
+    stored, only the two numbers.
+    """
+    since = state.get("question_published_at")
+    if not since:
+        return None
+    terms = accepted_terms(state)
+    try:
+        me = api("GET", "me", fields="username", fatal=False)["username"]
+        total = correct = 0
+        page = api("GET", "me/conversations", platform="instagram", fields="id,updated_time", limit=50, fatal=False)
+        while True:
+            for conv in page.get("data", []):
+                if conv.get("updated_time", "") < since:
+                    continue
+                messages = api("GET", conv["id"], fields="messages{id,created_time,from,message}", fatal=False)
+                for msg in messages.get("messages", {}).get("data", []):  # newest first
+                    if msg.get("created_time", "") < since or msg.get("from", {}).get("username") == me:
+                        continue
+                    text = msg.get("message") or ""
+                    if len(re.sub(r"[^a-z0-9]", "", normalize(text))) < 2:
+                        continue  # emoji or reaction only
+                    total += 1
+                    correct += is_correct(text, terms)
+                    break  # one answer per person: the latest reply
+            next_url = page.get("paging", {}).get("next")
+            if not next_url or all(c.get("updated_time", "") < since for c in page.get("data", [])):
+                break
+            page = api("GET", next_url, fatal=False)
+    except Exception as exc:
+        print(f"Could not read replies, reveal goes out without the chart: {exc}")
+        return None
+    print(f"Replies: {total}, right: {correct}")
+    return {"total": total, "correct": correct}
+
+
+# --------------------------------------------------------------------------- #
 # commands
 # --------------------------------------------------------------------------- #
 
@@ -619,10 +733,12 @@ def make_reveal():
     if state.get("stage") != "question_published":
         sys.exit(f"Nothing to reveal (stage is {state.get('stage')!r})")
     _, handle, avatar = profile()
+    answers = count_answers(state)
     photo = download(state["media_url"])
     out = DOCS / f"{state['date']}-reveal.jpg"
     render_reveal(photo, state["crop_box"], state["timestamp"], state.get("place"), out,
-                  handle, avatar, state.get("round", 0))
+                  handle, avatar, state.get("round", 0), answers)
+    state["answers"] = answers
     state["stage"] = "reveal_prepared"
     state["reveal_image"] = out.name
     save_json(STATE_FILE, state)
@@ -669,6 +785,7 @@ def publish(kind):
     if kind == "question":
         state["stage"] = "question_published"
         state["question_story_id"] = story_id
+        state["question_published_at"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+0000")
         save_json(STATE_FILE, state)
     else:
         save_json(STATE_FILE, {"stage": "idle", "last": {**state, "reveal_story_id": story_id}})
@@ -694,7 +811,8 @@ def demo(path, handle="", avatar_path="", place="Lissabon"):
     crop_box = random_crop_box(photo)
     DOCS.mkdir(exist_ok=True)
     render_question(photo, crop_box, DOCS / "demo-question.jpg", handle, avatar, 12)
-    render_reveal(photo, crop_box, "2019-05-12T14:03:00+0000", place, DOCS / "demo-reveal.jpg", handle, avatar, 12)
+    render_reveal(photo, crop_box, "2019-05-12T14:03:00+0000", place, DOCS / "demo-reveal.jpg", handle, avatar, 12,
+                  answers={"total": 12, "correct": 7})
     print("Wrote docs/demo-question.jpg and docs/demo-reveal.jpg")
 
 

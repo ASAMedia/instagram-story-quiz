@@ -6,6 +6,9 @@ story (replies land in your DMs). Twelve hours later a second story reveals the
 full photo, the posting date, the place if you have recorded one, and marks
 where the crop came from.
 
+The reveal also shows a small bar chart of how many replies were right and how
+many were off, counted from the story replies in your DMs.
+
 Everything runs on GitHub Actions, for free, and uses only the official
 Instagram API. No interactive stickers are involved because the API cannot
 attach them.
@@ -43,8 +46,10 @@ be reverted.
    an Instagram tester. Accept the invitation in the Instagram app under
    Settings, Website permissions, Tester invites.
 5. Click **Generate token** next to your account, log in, and grant the
-   permissions `instagram_business_basic` and
-   `instagram_business_content_publish`. Copy the long-lived token. It is valid
+   permissions `instagram_business_basic`,
+   `instagram_business_content_publish` and
+   `instagram_business_manage_messages` (the last one is needed to count the
+   replies for the chart). Copy the long-lived token. It is valid
    for 60 days and the workflow refreshes it automatically if the optional
    refresh step below is done.
 
@@ -90,6 +95,25 @@ and commit and push `locations.json`.
 
 In the Actions tab pick the workflow, click **Run workflow**, choose `question`.
 Check your story. Then run it again with `reveal`.
+
+## The answers chart
+
+In the evening the script reads the conversations that changed since the
+question went out, takes the latest reply per person, and counts it as right
+when it contains a word of the place name, one of the caption's hashtags, the
+year, or the month. Emoji-only replies are ignored. Only the two numbers are
+kept in `state/current.json`; reply texts are never stored or committed.
+
+Requirements:
+
+- the token must include `instagram_business_manage_messages` (regenerate it
+  in the Meta dashboard and update the secret if your first token did not);
+- in the Instagram app, under Settings, Messages and story replies, Message
+  controls, the option that lets connected tools access messages must be on.
+  Instagram calls it "Connected tools" or "Allow access to messages".
+
+If replies cannot be read, the reveal simply goes out without the chart and
+the run log says why.
 
 ## Pausing and manual runs
 
