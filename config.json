@@ -1,6 +1,8 @@
 {
   "timezone": "Europe/Berlin",
   "language": "de",
+  "question_hour": 9,
+  "reveal_hour": 21,
   "crop_fraction_min": 0.28,
   "crop_fraction_max": 0.45,
   "avoid_repeat_last_n": 60

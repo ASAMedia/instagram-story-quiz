@@ -68,6 +68,8 @@ DEFAULT_CONFIG = {
     "crop_fraction_min": 0.28,
     "crop_fraction_max": 0.45,
     "avoid_repeat_last_n": 60,
+    "question_hour": 9,     # local hour (timezone above) from which the question may go out
+    "reveal_hour": 21,      # local hour from which the reveal may go out
     "handle": "",
     "texts": {
         "de": {
@@ -195,8 +197,16 @@ def font(weight, size):
     return _font_cache[key]
 
 
+def local_now():
+    return datetime.now(ZoneInfo(config()["timezone"]))
+
+
 def today():
-    return datetime.now(ZoneInfo(config()["timezone"])).strftime("%Y-%m-%d")
+    return local_now().strftime("%Y-%m-%d")
+
+
+def forced():
+    return os.environ.get("QUIZ_FORCE", "").strip().lower() in ("1", "true", "yes")
 
 
 def parse_ts(iso):
@@ -669,7 +679,7 @@ def random_crop_box(image, candidates=8):
 
 def paused():
     """Pause switch, read from the environment (GitHub repository variables)."""
-    if os.environ.get("QUIZ_FORCE", "").strip().lower() in ("1", "true", "yes"):
+    if forced():
         return False
     until = os.environ.get("QUIZ_PAUSED_UNTIL", "").strip()
     if until and today() <= until:
@@ -677,6 +687,11 @@ def paused():
     if os.environ.get("QUIZ_PAUSED", "").strip().lower() in ("1", "true", "yes", "on"):
         return "paused (QUIZ_PAUSED)"
     return False
+
+
+def done_today(state):
+    """True when a question for today already exists (in any stage)."""
+    return state.get("date") == today() or state.get("last", {}).get("date") == today()
 
 
 def make_question():
@@ -687,6 +702,13 @@ def make_question():
     if state.get("stage") == "question_prepared":
         print("A question is already prepared and not published yet; reusing it.")
         return
+    if not forced():
+        if done_today(state):
+            print("Today's question already exists; nothing to do.")
+            return
+        if local_now().hour < config()["question_hour"]:
+            print(f"Too early for the question ({local_now():%H:%M} local); waiting for the next slot.")
+            return
     cfg = config()
     history = load_json(HISTORY_FILE, [])
     recent = set(history[-cfg["avoid_repeat_last_n"]:])
@@ -732,7 +754,11 @@ def make_reveal():
         print("A reveal is already prepared; reusing it.")
         return
     if state.get("stage") != "question_published":
-        sys.exit(f"Nothing to reveal (stage is {state.get('stage')!r})")
+        print(f"Nothing to reveal (stage is {state.get('stage')!r})")
+        return
+    if not forced() and local_now().hour < config()["reveal_hour"]:
+        print(f"Too early for the reveal ({local_now():%H:%M} local); waiting for the next slot.")
+        return
     _, handle, avatar = profile()
     answers = count_answers(state)
     photo = download(state["media_url"])

@@ -16,13 +16,19 @@ attach them.
 ## How it works
 
 ```
-07:00 UTC  make question  -> docs/<date>-question.jpg + state/current.json
-           git push       -> image becomes public on raw.githubusercontent.com
-           publish        -> story goes live
-19:00 UTC  make reveal    -> docs/<date>-reveal.jpg
-           git push, publish
-Mon 03:00  refresh        -> renews the 60-day access token
+09:00 Berlin  make question  -> docs/<date>-question.jpg + state/current.json
+              git push       -> image becomes public on raw.githubusercontent.com
+              publish        -> story goes live
+21:00 Berlin  make reveal    -> docs/<date>-reveal.jpg (+ answers chart)
+              git push, publish
+Mon 03:00 UTC refresh        -> renews the 60-day access token, stores it encrypted
+1st of month  locations      -> location tags for posts added since last time
 ```
+
+The cron slots are in UTC, so each story has two slots (summer and winter
+time) and the script waits for the configured Berlin hour
+(`question_hour` and `reveal_hour` in `config.json`) and skips a slot whose
+work is already done.
 
 `state/current.json` remembers which post and which crop were chosen so the
 reveal matches the question. `state/history.json` keeps the last picks so a post
@@ -68,13 +74,22 @@ account, no App Review is needed.
 3. Under Settings, Actions, General, allow workflows **read and write**
    permissions so the bot can commit the images.
 
-### 4. Optional: automatic token refresh
+### 4. Automatic token refresh
 
-The default workflow token cannot write repository secrets. Create a
-fine-grained personal access token with **Secrets: read and write** for this
-one repository and store it as the secret `SECRETS_WRITER_PAT`. Without it, the
-weekly refresh job just prints a warning and you have to paste a fresh token
-into `IG_ACCESS_TOKEN` every 60 days.
+The Instagram token expires after 60 days. Every Monday the workflow refreshes
+it and stores the new token encrypted in `state/token.enc`, so nothing ever
+expires as long as the workflow keeps running. It needs one secret, an
+encryption key you create once. Run this from a terminal on your PC (the key
+never leaves your machine and GitHub):
+
+```bash
+gh secret set TOKEN_KEY --repo ASAMedia/instagram-story-quiz --body "$(openssl rand -hex 32)"
+```
+
+Then run the workflow once with `refresh` to store the first encrypted token.
+From then on the `IG_ACCESS_TOKEN` secret is only a fallback. If you ever
+paste a new token into that secret (for example with extra permissions), the
+workflow notices and switches to it on its own.
 
 ### 5. Fill in the places
 
@@ -138,10 +153,10 @@ after another. If you still want a quiet day or week, there are three levels.
 
 ## Adjusting things
 
-- **Posting times**: edit the three `cron` lines in
-  `.github/workflows/story-quiz.yml`. They are in UTC and do not follow daylight
-  saving time. The case statement in the "Decide which step to run" step has to
-  match the same strings.
+- **Posting times**: set `question_hour` and `reveal_hour` in `config.json`
+  (local Berlin hours). If you move them by more than an hour, also move the
+  matching `cron` lines in `.github/workflows/story-quiz.yml` so that a slot
+  falls at or shortly after the new hour in both summer and winter time.
 - **Texts and language**: `config.json` has `"language": "de"`. Set it to `"en"`
   or override any string under `"texts"`. The defaults live at the top of
   `story_quiz.py`.

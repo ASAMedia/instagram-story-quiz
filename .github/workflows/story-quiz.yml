@@ -2,10 +2,15 @@ name: Instagram story quiz
 
 on:
   schedule:
-    # GitHub cron runs in UTC. 07:00 UTC = 09:00 Berlin in summer, 08:00 in winter.
-    - cron: "0 7 * * *"    # question
-    - cron: "0 19 * * *"   # reveal, 12 hours later
+    # GitHub cron runs in UTC. Two slots per story cover summer and winter time;
+    # the script only acts once the configured Berlin hour has been reached and
+    # the step has not been done today (see question_hour / reveal_hour in config.json).
+    - cron: "0 7 * * *"    # question, 09:00 Berlin in summer
+    - cron: "0 8 * * *"    # question, 09:00 Berlin in winter
+    - cron: "0 19 * * *"   # reveal, 21:00 Berlin in summer
+    - cron: "0 20 * * *"   # reveal, 21:00 Berlin in winter
     - cron: "0 3 * * 1"    # weekly token refresh
+    - cron: "0 4 1 * *"    # monthly location import for new posts
   workflow_dispatch:
     inputs:
       job:
@@ -25,7 +30,6 @@ jobs:
   run:
     runs-on: ubuntu-latest
     env:
-      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
       PUBLIC_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/docs
       # Pause switch: Settings -> Secrets and variables -> Actions -> Variables.
       # QUIZ_PAUSED=true stops new questions; QUIZ_PAUSED_UNTIL=2026-09-14 pauses
@@ -49,17 +53,38 @@ jobs:
         id: which
         run: |
           case "${{ github.event_name }}:${{ github.event.schedule }}" in
-            workflow_dispatch:*) job="${{ inputs.job }}" ;;
-            *"0 7 * * *")        job=question ;;
-            *"0 19 * * *")       job=reveal ;;
-            *"0 3 * * 1")        job=refresh ;;
-            *)                   echo "unknown trigger"; exit 1 ;;
+            workflow_dispatch:*)          job="${{ inputs.job }}" ;;
+            *"0 7 * * *"|*"0 8 * * *")    job=question ;;
+            *"0 19 * * *"|*"0 20 * * *")  job=reveal ;;
+            *"0 3 * * 1")                 job=refresh ;;
+            *"0 4 1 * *")                 job=locations ;;
+            *)                            echo "unknown trigger"; exit 1 ;;
           esac
           echo "job=$job" >> "$GITHUB_OUTPUT"
           git config user.name "story-quiz-bot"
           git config user.email "story-quiz-bot@users.noreply.github.com"
 
-      - name: Import location tags for all posts
+      - name: Load access token
+        # Uses the token the refresh job stored encrypted in state/token.enc.
+        # Falls back to the IG_ACCESS_TOKEN secret, and switches back to the
+        # secret automatically when you paste a new token into it.
+        env:
+          SECRET_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          TOKEN_KEY: ${{ secrets.TOKEN_KEY }}
+        run: |
+          token="$SECRET_TOKEN"
+          fingerprint=$(printf '%s' "$SECRET_TOKEN" | sha256sum | cut -c1-16)
+          if [ -n "$TOKEN_KEY" ] && [ -f state/token.enc ] && [ "$(cat state/token.src 2>/dev/null)" = "$fingerprint" ]; then
+            token=$(openssl enc -d -aes-256-cbc -pbkdf2 -k "$TOKEN_KEY" -in state/token.enc)
+            echo "Using the stored refreshed token"
+          else
+            echo "Using the IG_ACCESS_TOKEN secret"
+          fi
+          echo "::add-mask::$token"
+          echo "IG_ACCESS_TOKEN=$token" >> "$GITHUB_ENV"
+          echo "SECRET_FINGERPRINT=$fingerprint" >> "$GITHUB_ENV"
+
+      - name: Import location tags for new posts
         if: steps.which.outputs.job == 'locations'
         run: |
           python import_locations.py
@@ -97,14 +122,20 @@ jobs:
         id: refresh
         run: python story_quiz.py refresh
 
-      - name: Store refreshed token as repository secret
+      - name: Store refreshed token, encrypted, in the repository
         if: steps.which.outputs.job == 'refresh'
         env:
-          GH_TOKEN: ${{ secrets.SECRETS_WRITER_PAT }}
+          TOKEN_KEY: ${{ secrets.TOKEN_KEY }}
           NEW_TOKEN: ${{ steps.refresh.outputs.token }}
         run: |
-          if [ -z "$GH_TOKEN" ]; then
-            echo "::warning::SECRETS_WRITER_PAT is not set, the refreshed token was not saved. Update IG_ACCESS_TOKEN manually before it expires."
-            exit 0
+          if [ -z "$TOKEN_KEY" ]; then
+            echo "::error::TOKEN_KEY secret is not set, the refreshed token could not be saved. Paste a fresh token into IG_ACCESS_TOKEN before it expires, or set TOKEN_KEY (see README)."
+            exit 1
           fi
-          printf '%s' "$NEW_TOKEN" | gh secret set IG_ACCESS_TOKEN --repo "${{ github.repository }}"
+          mkdir -p state
+          printf '%s' "$NEW_TOKEN" | openssl enc -aes-256-cbc -pbkdf2 -k "$TOKEN_KEY" -out state/token.enc
+          printf '%s' "$SECRET_FINGERPRINT" > state/token.src
+          git add state/token.enc state/token.src
+          git commit -m "Refresh access token" || echo "nothing to commit"
+          git pull --rebase
+          git push
