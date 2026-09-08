@@ -494,20 +494,21 @@ def lookup_post_location(shortcode):
 
 
 def lookup_place(post):
-    """Place for a post: locations.json first, then the public post page (cached)."""
+    """Place for a post: locations.json first, otherwise the public post page.
+
+    Only import_locations.py writes locations.json; the daily run keeps the
+    place in state/current.json instead, so the two never edit the same file.
+    """
     locations = load_json(LOCATIONS_FILE, {})
     code = shortcode_of(post.get("permalink", ""))
     for key in (post["id"], code):
         if key in locations:
             return locations[key] or ""
     try:
-        place = lookup_post_location(code)
+        return lookup_post_location(code) or ""
     except Exception as exc:
         print(f"Location lookup for {code} failed: {exc}")
         return ""
-    locations[code] = place
-    save_json(LOCATIONS_FILE, locations)
-    return place or ""
 
 
 def profile():

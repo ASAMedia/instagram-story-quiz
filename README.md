@@ -130,14 +130,10 @@ after another. If you still want a quiet day or week, there are three levels.
   `handle` in `config.json` to override the name shown. Typography is Inter,
   bundled in `fonts/` (SIL Open Font License).
 - **Places**: the official API does not expose location tags, but the public
-  post page does. The daily run looks up the tag of the chosen post once and
-  caches it in `locations.json`. To fill the file for all posts up front, run
-  this once on your PC after the token exists (about 30 minutes for 850 posts,
-  it pauses two seconds between posts and can be resumed any time):
-
-  ```bash
-  python import_locations.py
-  ```
+  post page does. The daily run reads the tag of the chosen post from
+  `locations.json`, or from the post page if the post is not in the file yet.
+  The `locations` workflow option fills the file for all posts (about 30
+  minutes for 850 posts, two seconds per post, resumable after a rate limit).
 
   Entries can be edited by hand, for example to turn "Kitz-Ski" into
   "Kitzbühel, Österreich". Posts stored as `null` have no tag and only reveal

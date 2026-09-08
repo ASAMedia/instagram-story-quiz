@@ -35,6 +35,8 @@ jobs:
       QUIZ_FORCE: ${{ github.event_name == 'workflow_dispatch' }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # branch tip at run start, not the commit pinned when the run was queued
 
       - uses: actions/setup-python@v5
         with:
@@ -73,7 +75,7 @@ jobs:
       - name: Push image so Instagram can fetch it
         if: steps.which.outputs.job == 'question' || steps.which.outputs.job == 'reveal'
         run: |
-          git add docs state locations.json
+          git add docs state
           git commit -m "Prepare ${{ steps.which.outputs.job }} $(date -u +%F)" || echo "nothing to commit"
           git pull --rebase
           git push
