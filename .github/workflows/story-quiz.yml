@@ -2,15 +2,14 @@ name: Instagram story quiz
 
 on:
   schedule:
-    # GitHub cron runs in UTC. Two slots per story cover summer and winter time;
-    # the script only acts once the configured Berlin hour has been reached and
-    # the step has not been done today (see question_hour / reveal_hour in config.json).
-    - cron: "0 7 * * *"    # question, 09:00 Berlin in summer
-    - cron: "0 8 * * *"    # question, 09:00 Berlin in winter
-    - cron: "0 19 * * *"   # reveal, 21:00 Berlin in summer
-    - cron: "0 20 * * *"   # reveal, 21:00 Berlin in winter
-    - cron: "0 3 * * 1"    # weekly token refresh
-    - cron: "0 4 1 * *"    # monthly location import for new posts
+    # GitHub runs cron jobs late, often by hours when they sit at the top of an
+    # hour. So each story gets a slot every 20 minutes at off-peak minutes over
+    # a wide window (UTC). The script acts in the first slot at or after the
+    # configured Berlin hour and skips the rest in seconds.
+    - cron: "7,27,47 7-12 * * *"    # question window, 09:00 Berlin onwards
+    - cron: "7,27,47 19-23 * * *"   # reveal window, 21:00 Berlin onwards
+    - cron: "17 3 * * 1"            # weekly token refresh
+    - cron: "37 4 1 * *"            # monthly location import for new posts
   workflow_dispatch:
     inputs:
       job:
@@ -54,10 +53,10 @@ jobs:
         run: |
           case "${{ github.event_name }}:${{ github.event.schedule }}" in
             workflow_dispatch:*)          job="${{ inputs.job }}" ;;
-            *"0 7 * * *"|*"0 8 * * *")    job=question ;;
-            *"0 19 * * *"|*"0 20 * * *")  job=reveal ;;
-            *"0 3 * * 1")                 job=refresh ;;
-            *"0 4 1 * *")                 job=locations ;;
+            *"7-12 * * *")                job=question ;;
+            *"19-23 * * *")               job=reveal ;;
+            *"17 3 * * 1")                job=refresh ;;
+            *"37 4 1 * *")                job=locations ;;
             *)                            echo "unknown trigger"; exit 1 ;;
           esac
           echo "job=$job" >> "$GITHUB_OUTPUT"

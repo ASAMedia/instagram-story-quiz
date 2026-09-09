@@ -25,10 +25,12 @@ Mon 03:00 UTC refresh        -> renews the 60-day access token, stores it encryp
 1st of month  locations      -> location tags for posts added since last time
 ```
 
-The cron slots are in UTC, so each story has two slots (summer and winter
-time) and the script waits for the configured Berlin hour
-(`question_hour` and `reveal_hour` in `config.json`) and skips a slot whose
-work is already done.
+GitHub starts scheduled workflows late, often by hours when they are set to
+the top of an hour. So each story has a slot every 20 minutes over a window
+of several hours, at off-peak minutes. The script acts in the first slot at or
+after the configured Berlin hour (`question_hour` and `reveal_hour` in
+`config.json`) and skips the remaining slots in seconds. This also covers the
+change between summer and winter time.
 
 `state/current.json` remembers which post and which crop were chosen so the
 reveal matches the question. `state/history.json` keeps the last picks so a post
@@ -154,9 +156,9 @@ after another. If you still want a quiet day or week, there are three levels.
 ## Adjusting things
 
 - **Posting times**: set `question_hour` and `reveal_hour` in `config.json`
-  (local Berlin hours). If you move them by more than an hour, also move the
-  matching `cron` lines in `.github/workflows/story-quiz.yml` so that a slot
-  falls at or shortly after the new hour in both summer and winter time.
+  (local Berlin hours). The cron windows in `.github/workflows/story-quiz.yml`
+  must start at or before that hour in UTC (Berlin is UTC+1 in winter, UTC+2
+  in summer); move them if you shift the hours a lot.
 - **Texts and language**: `config.json` has `"language": "de"`. Set it to `"en"`
   or override any string under `"texts"`. The defaults live at the top of
   `story_quiz.py`.
@@ -205,4 +207,7 @@ its picture without ever hiding it.
 - The API only sees posts made after the account became a professional
   account plus older feed posts. Reels and videos are skipped; carousels are
   used (one random image out of the set).
-- Scheduled GitHub workflows can start a few minutes late during busy periods.
+- Scheduled GitHub workflows start late, sometimes by hours. The 20-minute
+  slot windows absorb that; expect the story within roughly half an hour of
+  the configured time on a normal day. If it matters more, an external cron
+  service can trigger the workflow through the GitHub API instead.
