@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-09-09",
-  "round": 2,
-  "post_id": "17919109654935445",
-  "media_id": "17919109654935445",
-  "media_url": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/621156171_18094684234935445_4672294535605765544_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=XX8_HgvXCOQQ7kNvwFj1-X_&_nc_oc=AdrMDfCZ3BNu15To8PEVzrfO7L7CIdRYnUWsRQB4MY0uBZVt14VzGIxfnptGpJAk8dc&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=PfyJaNvB9e3VMP5ds5YioA&_nc_tpa=Q5bMBQKwGZ1AxzZhZXWEb9fOJRhcdw77iur0HrwNODNwCTUZoJjpvA6kBkvTwgEVOeP6E8zGZd3EmYR1&oh=00_AQKG5fnUi3UIVoRophhNI-tEo9nb3WZcWVoTwzmikHNqHA&oe=6AA6F088",
-  "permalink": "https://www.instagram.com/p/CUbwr-zjaOh/",
-  "timestamp": "2021-09-30T05:18:17+0000",
-  "caption": "*\n\n#österreichurlaub #wandernmachtglücklich #tirol #almen #wanderlust #bergsteigen #seefeld #alpen #outdoorphotography #bluesky #berglandschaft #rotmoosalm #rotmoostal #seefeldintirol #seefeldtirol #handyfotografie #weitwinkel #smartphonephotography #xiaomiminote #naturerleben #naturephotography #be",
-  "place": "Rotmoosalm",
-  "crop_box": [
-    534,
-    633,
-    947,
-    956
-  ],
-  "question_image": "2026-09-09-question.jpg",
-  "question_story_id": "18120294859919982",
-  "question_published_at": "2026-09-09T07:08:22+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-09-09-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-09-09",
+    "round": 2,
+    "post_id": "17919109654935445",
+    "media_id": "17919109654935445",
+    "media_url": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/621156171_18094684234935445_4672294535605765544_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=XX8_HgvXCOQQ7kNvwFj1-X_&_nc_oc=AdrMDfCZ3BNu15To8PEVzrfO7L7CIdRYnUWsRQB4MY0uBZVt14VzGIxfnptGpJAk8dc&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=PfyJaNvB9e3VMP5ds5YioA&_nc_tpa=Q5bMBQKwGZ1AxzZhZXWEb9fOJRhcdw77iur0HrwNODNwCTUZoJjpvA6kBkvTwgEVOeP6E8zGZd3EmYR1&oh=00_AQKG5fnUi3UIVoRophhNI-tEo9nb3WZcWVoTwzmikHNqHA&oe=6AA6F088",
+    "permalink": "https://www.instagram.com/p/CUbwr-zjaOh/",
+    "timestamp": "2021-09-30T05:18:17+0000",
+    "caption": "*\n\n#österreichurlaub #wandernmachtglücklich #tirol #almen #wanderlust #bergsteigen #seefeld #alpen #outdoorphotography #bluesky #berglandschaft #rotmoosalm #rotmoostal #seefeldintirol #seefeldtirol #handyfotografie #weitwinkel #smartphonephotography #xiaomiminote #naturerleben #naturephotography #be",
+    "place": "Rotmoosalm",
+    "crop_box": [
+      534,
+      633,
+      947,
+      956
+    ],
+    "question_image": "2026-09-09-question.jpg",
+    "question_story_id": "18120294859919982",
+    "question_published_at": "2026-09-09T07:08:22+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-09-09-reveal.jpg",
+    "reveal_story_id": "18414729301153457"
+  }
 }
