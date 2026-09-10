@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-09-09",
-    "round": 2,
-    "post_id": "17919109654935445",
-    "media_id": "17919109654935445",
-    "media_url": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/621156171_18094684234935445_4672294535605765544_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=XX8_HgvXCOQQ7kNvwFj1-X_&_nc_oc=AdrMDfCZ3BNu15To8PEVzrfO7L7CIdRYnUWsRQB4MY0uBZVt14VzGIxfnptGpJAk8dc&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=PfyJaNvB9e3VMP5ds5YioA&_nc_tpa=Q5bMBQKwGZ1AxzZhZXWEb9fOJRhcdw77iur0HrwNODNwCTUZoJjpvA6kBkvTwgEVOeP6E8zGZd3EmYR1&oh=00_AQKG5fnUi3UIVoRophhNI-tEo9nb3WZcWVoTwzmikHNqHA&oe=6AA6F088",
-    "permalink": "https://www.instagram.com/p/CUbwr-zjaOh/",
-    "timestamp": "2021-09-30T05:18:17+0000",
-    "caption": "*\n\n#österreichurlaub #wandernmachtglücklich #tirol #almen #wanderlust #bergsteigen #seefeld #alpen #outdoorphotography #bluesky #berglandschaft #rotmoosalm #rotmoostal #seefeldintirol #seefeldtirol #handyfotografie #weitwinkel #smartphonephotography #xiaomiminote #naturerleben #naturephotography #be",
-    "place": "Rotmoosalm",
-    "crop_box": [
-      534,
-      633,
-      947,
-      956
-    ],
-    "question_image": "2026-09-09-question.jpg",
-    "question_story_id": "18120294859919982",
-    "question_published_at": "2026-09-09T07:08:22+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-09-09-reveal.jpg",
-    "reveal_story_id": "18414729301153457"
-  }
+  "stage": "question_prepared",
+  "date": "2026-09-10",
+  "round": 3,
+  "post_id": "18000942908001645",
+  "media_id": "18187485517302663",
+  "media_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/656284924_18303392902302663_6464514465966793261_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rrPFNaUJhhAQ7kNvwHy4-fN&_nc_oc=AdrK5zqTKRKEDQ1ayKlvnm6S5nRxQmHXhLa8MwBm49AuhRhyulIpTjMlXvRbka4sSC4&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CEw6d3TEteXRe6nwU0Bdtg&_nc_tpa=Q5bMBQILPNqeN1jjPsD9ve7vogGnjrFao5r8FkaXJFtw42P41_ZBVt_5G--pAaOc0-v9_jx5Ko9cG0lm&oh=00_AQLP9MW8xnWJgzENHfLtS1A5wszyr5CzV9wMTZfx30xYdg&oe=6AA865E1",
+  "permalink": "https://www.instagram.com/p/CwayT7RMt1W/",
+  "timestamp": "2023-08-26T18:52:16+0000",
+  "caption": "2023-07-15 Industriepalast zu Schloss Troja",
+  "place": "Prag",
+  "crop_box": [
+    462,
+    719,
+    950,
+    1100
+  ],
+  "question_image": "2026-09-10-question.jpg"
 }
