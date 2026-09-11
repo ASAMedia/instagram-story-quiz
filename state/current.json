@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-09-10",
-    "round": 3,
-    "post_id": "18000942908001645",
-    "media_id": "18187485517302663",
-    "media_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/656284924_18303392902302663_6464514465966793261_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rrPFNaUJhhAQ7kNvwHy4-fN&_nc_oc=AdrK5zqTKRKEDQ1ayKlvnm6S5nRxQmHXhLa8MwBm49AuhRhyulIpTjMlXvRbka4sSC4&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CEw6d3TEteXRe6nwU0Bdtg&_nc_tpa=Q5bMBQILPNqeN1jjPsD9ve7vogGnjrFao5r8FkaXJFtw42P41_ZBVt_5G--pAaOc0-v9_jx5Ko9cG0lm&oh=00_AQLP9MW8xnWJgzENHfLtS1A5wszyr5CzV9wMTZfx30xYdg&oe=6AA865E1",
-    "permalink": "https://www.instagram.com/p/CwayT7RMt1W/",
-    "timestamp": "2023-08-26T18:52:16+0000",
-    "caption": "2023-07-15 Industriepalast zu Schloss Troja",
-    "place": "Prag",
-    "crop_box": [
-      462,
-      719,
-      950,
-      1100
-    ],
-    "question_image": "2026-09-10-question.jpg",
-    "question_story_id": "18110509676090221",
-    "question_published_at": "2026-09-10T12:11:56+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-09-10-reveal.jpg",
-    "reveal_story_id": "17963449734077186"
-  }
+  "stage": "question_prepared",
+  "date": "2026-09-11",
+  "round": 4,
+  "post_id": "17946356060609543",
+  "media_id": "17985984733941754",
+  "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/653362612_18100496287941754_7714537426810241365_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=1xVvFLT7idUQ7kNvwEMZdxS&_nc_oc=AdpKSe4kumtqs05XGTLdGAXX4Tl-NI8sFs4z9xsGplIvsUmyblY75XNu5ZjMSlAlLXE&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Q8IbdyG7Xrsz8LGHcFq7wA&_nc_tpa=Q5bMBQLG5THwSAHyzdWQn1XD7LXn2zQpDGDcvrPvaLzdrtmNtFpA1tto2Whh450cy49dHcQeWXH4dDYo&oh=00_AQLlCgzn0FSm-e5SwdHGJhfplyBSOxr-tTFCs0CRNSwntQ&oe=6AA99FE6",
+  "permalink": "https://www.instagram.com/p/CqVWpTnj2xg/",
+  "timestamp": "2023-03-28T13:05:57+0000",
+  "caption": "Letzter Tag im Lungau und Abfahrt zurück in die Heimat. Direkt neben der Piste waren auch ein paar Lamas anzutreffen. \n17.02.2023\n\n#aineck #lungau #salzburgerland #lamas #salzburgerlungau #skifahren #abfahrt #katschberg #panorma",
+  "place": "Lungau",
+  "crop_box": [
+    101,
+    746,
+    720,
+    1230
+  ],
+  "question_image": "2026-09-11-question.jpg"
 }
