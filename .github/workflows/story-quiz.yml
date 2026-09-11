@@ -1,12 +1,17 @@
 name: Instagram story quiz
 
 on:
+  # Punctual trigger from an external cron service (see README, "Punctual
+  # posting"): POST /repos/<owner>/<repo>/dispatches with {"event_type": "question"}.
+  # Pause switch and posting hours apply, exactly like the schedule.
+  repository_dispatch:
+    types: [question, reveal, refresh, locations]
+  # GitHub's own schedule is only a fallback: it runs late by hours and skips
+  # most slots. Each story gets a slot every 20 minutes at off-peak minutes over
+  # a wide window (UTC); the script acts in the first slot at or after the
+  # configured Berlin hour and skips the rest in seconds.
   schedule:
-    # GitHub runs cron jobs late, often by hours when they sit at the top of an
-    # hour. So each story gets a slot every 20 minutes at off-peak minutes over
-    # a wide window (UTC). The script acts in the first slot at or after the
-    # configured Berlin hour and skips the rest in seconds.
-    - cron: "7,27,47 7-12 * * *"    # question window, 09:00 Berlin onwards
+    - cron: "7,27,47 6-12 * * *"    # question window, 08:00 Berlin onwards
     - cron: "7,27,47 19-23 * * *"   # reveal window, 21:00 Berlin onwards
     - cron: "17 3 * * 1"            # weekly token refresh
     - cron: "37 4 1 * *"            # monthly location import for new posts
@@ -53,7 +58,8 @@ jobs:
         run: |
           case "${{ github.event_name }}:${{ github.event.schedule }}" in
             workflow_dispatch:*)          job="${{ inputs.job }}" ;;
-            *"7-12 * * *")                job=question ;;
+            repository_dispatch:*)        job="${{ github.event.action }}" ;;
+            *"6-12 * * *")                job=question ;;
             *"19-23 * * *")               job=reveal ;;
             *"17 3 * * 1")                job=refresh ;;
             *"37 4 1 * *")                job=locations ;;

@@ -16,7 +16,7 @@ attach them.
 ## How it works
 
 ```
-09:00 Berlin  make question  -> docs/<date>-question.jpg + state/current.json
+08:00 Berlin  make question  -> docs/<date>-question.jpg + state/current.json
               git push       -> image becomes public on raw.githubusercontent.com
               publish        -> story goes live
 21:00 Berlin  make reveal    -> docs/<date>-reveal.jpg (+ answers chart)
@@ -25,12 +25,12 @@ Mon 03:00 UTC refresh        -> renews the 60-day access token, stores it encryp
 1st of month  locations      -> location tags for posts added since last time
 ```
 
-GitHub starts scheduled workflows late, often by hours when they are set to
-the top of an hour. So each story has a slot every 20 minutes over a window
-of several hours, at off-peak minutes. The script acts in the first slot at or
-after the configured Berlin hour (`question_hour` and `reveal_hour` in
-`config.json`) and skips the remaining slots in seconds. This also covers the
-change between summer and winter time.
+The times come from an external cron service that starts the workflow to the
+minute (see "Punctual posting" below). GitHub's own schedule is only a
+fallback, because GitHub runs scheduled workflows hours late and skips most of
+them. The script acts in the first run at or after the configured Berlin hour
+(`question_hour` and `reveal_hour` in `config.json`) and skips any further run
+that day in seconds, so duplicate triggers are harmless.
 
 `state/current.json` remembers which post and which crop were chosen so the
 reveal matches the question. `state/history.json` keeps the last picks so a post
@@ -108,7 +108,31 @@ python import_locations.py
 
 and commit and push `locations.json`.
 
-### 6. Test it
+### 6. Punctual posting
+
+GitHub's scheduler is not punctual, so an external cron service starts the
+workflow. The free service <https://cron-job.org> works well and understands
+time zones.
+
+1. On GitHub create a fine-grained personal access token (Settings, Developer
+   settings, Personal access tokens, Fine-grained): repository access only
+   `instagram-story-quiz`, permission **Contents: Read and write**, expiry as
+   long as allowed. Copy it.
+2. On cron-job.org create a job:
+   - URL: `https://api.github.com/repos/ASAMedia/instagram-story-quiz/dispatches`
+   - Schedule: every day at 08:00, time zone Europe/Berlin
+   - Advanced, request method: `POST`
+   - Headers: `Authorization: Bearer <the token>`,
+     `Accept: application/vnd.github+json`
+   - Request body: `{"event_type": "question"}`
+3. Duplicate the job for 21:00 with body `{"event_type": "reveal"}`.
+
+GitHub answers `204 No Content` when the trigger worked. The pause switch and
+the posting hours in `config.json` apply to these triggers just like to the
+schedule; only the manual **Run workflow** button ignores them. When the token
+expires, GitHub emails you; create a new one and update it on cron-job.org.
+
+### 7. Test it
 
 In the Actions tab pick the workflow, click **Run workflow**, choose `question`.
 Check your story. Then run it again with `reveal`.
