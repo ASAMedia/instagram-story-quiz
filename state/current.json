@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-09-13",
-  "round": 6,
-  "post_id": "17957707270499562",
-  "media_id": "17957707270499562",
-  "media_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/621188001_18135645340499562_1002764111494035077_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mIyqxhBQXDEQ7kNvwEXKocd&_nc_oc=AdqYPaB_YbYdPS08FRpmITDiXSd5PQZy3xsnm8gVidE6UpB9p8SGB2h4hMh2arqPhZs&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=gyQF3sIWLXFw-mld9Cl5Tw&_nc_tpa=Q5bMBQLfSMlm7nQ2kyXBAj3W2fPB4Ghh31EXfxNekYFJ2NGjvv6CAfjxccTMnfzK_5wO2QoIB3ZqDSgI&oh=00_AQJfCDXZXJivtUt2wci_996E6n2EKd0FiFgkbhIHPJRr8A&oe=6AAC5C4E",
-  "permalink": "https://www.instagram.com/p/CUjq8J4DB9X/",
-  "timestamp": "2021-10-03T07:01:59+0000",
-  "caption": "*\n\n#österreichurlaub #wandernmachtglücklich #tirol #almen #wanderlust #bergsteigen #seefeld #alpen #outdoorphotography #bluesky #berglandschaft #rotmoosalm #rotmoostal #seefeldintirol #leutasch #leutaschklamm #weitwinkel #dronephotography #djimavicair2 #gaistal #zugspitze #naturerleben #naturephotog",
-  "place": "Gaistal",
-  "crop_box": [
-    196,
-    571,
-    655,
-    930
-  ],
-  "question_image": "2026-09-13-question.jpg",
-  "question_story_id": "17885200284618124",
-  "question_published_at": "2026-09-13T12:41:44+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-09-13-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-09-13",
+    "round": 6,
+    "post_id": "17957707270499562",
+    "media_id": "17957707270499562",
+    "media_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/621188001_18135645340499562_1002764111494035077_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mIyqxhBQXDEQ7kNvwEXKocd&_nc_oc=AdqYPaB_YbYdPS08FRpmITDiXSd5PQZy3xsnm8gVidE6UpB9p8SGB2h4hMh2arqPhZs&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=gyQF3sIWLXFw-mld9Cl5Tw&_nc_tpa=Q5bMBQLfSMlm7nQ2kyXBAj3W2fPB4Ghh31EXfxNekYFJ2NGjvv6CAfjxccTMnfzK_5wO2QoIB3ZqDSgI&oh=00_AQJfCDXZXJivtUt2wci_996E6n2EKd0FiFgkbhIHPJRr8A&oe=6AAC5C4E",
+    "permalink": "https://www.instagram.com/p/CUjq8J4DB9X/",
+    "timestamp": "2021-10-03T07:01:59+0000",
+    "caption": "*\n\n#österreichurlaub #wandernmachtglücklich #tirol #almen #wanderlust #bergsteigen #seefeld #alpen #outdoorphotography #bluesky #berglandschaft #rotmoosalm #rotmoostal #seefeldintirol #leutasch #leutaschklamm #weitwinkel #dronephotography #djimavicair2 #gaistal #zugspitze #naturerleben #naturephotog",
+    "place": "Gaistal",
+    "crop_box": [
+      196,
+      571,
+      655,
+      930
+    ],
+    "question_image": "2026-09-13-question.jpg",
+    "question_story_id": "17885200284618124",
+    "question_published_at": "2026-09-13T12:41:44+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-09-13-reveal.jpg",
+    "reveal_story_id": "18116089036750832"
+  }
 }
