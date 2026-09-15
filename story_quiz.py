@@ -21,7 +21,8 @@ Environment
                       https://raw.githubusercontent.com/<user>/<repo>/main/docs
   QUIZ_PAUSED         "true" pauses new questions (an open round is still revealed)
   QUIZ_PAUSED_UNTIL   YYYY-MM-DD: pause new questions up to and including that day
-  QUIZ_FORCE          "true" ignores the pause (set for manual workflow runs)
+  QUIZ_FORCE_JOB      "question" or "reveal": ignore pause and posting hour for that
+                      step (set for manual workflow runs)
 """
 
 import json
@@ -205,8 +206,9 @@ def today():
     return local_now().strftime("%Y-%m-%d")
 
 
-def forced():
-    return os.environ.get("QUIZ_FORCE", "").strip().lower() in ("1", "true", "yes")
+def forced(kind):
+    """True when a manual run asked for exactly this step."""
+    return os.environ.get("QUIZ_FORCE_JOB", "").strip().lower() == kind
 
 
 def parse_ts(iso):
@@ -679,7 +681,7 @@ def random_crop_box(image, candidates=8):
 
 def paused():
     """Pause switch, read from the environment (GitHub repository variables)."""
-    if forced():
+    if forced("question"):
         return False
     until = os.environ.get("QUIZ_PAUSED_UNTIL", "").strip()
     if until and today() <= until:
@@ -702,7 +704,11 @@ def make_question():
     if state.get("stage") == "question_prepared":
         print("A question is already prepared and not published yet; reusing it.")
         return
-    if not forced():
+    if state.get("stage") in ("question_published", "reveal_prepared"):
+        # never bury a question whose reveal has not gone out yet
+        print(f"The question from {state.get('date')} has not been revealed yet; run the reveal first.")
+        return
+    if not forced("question"):
         if done_today(state):
             print("Today's question already exists; nothing to do.")
             return
@@ -756,8 +762,10 @@ def make_reveal():
     if state.get("stage") != "question_published":
         print(f"Nothing to reveal (stage is {state.get('stage')!r})")
         return
-    if not forced() and local_now().hour < config()["reveal_hour"]:
-        print(f"Too early for the reveal ({local_now():%H:%M} local); waiting for the next slot.")
+    due = datetime.strptime(state["date"], "%Y-%m-%d").replace(
+        hour=config()["reveal_hour"], tzinfo=ZoneInfo(config()["timezone"]))
+    if not forced("reveal") and local_now() < due:
+        print(f"Too early for the reveal ({local_now():%H:%M} local, due {due:%d.%m. %H:%M}); waiting for the next slot.")
         return
     _, handle, avatar = profile()
     answers = count_answers(state)

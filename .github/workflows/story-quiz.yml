@@ -40,7 +40,6 @@ jobs:
       # through that date. A manual "Run workflow" always ignores the pause.
       QUIZ_PAUSED: ${{ vars.QUIZ_PAUSED }}
       QUIZ_PAUSED_UNTIL: ${{ vars.QUIZ_PAUSED_UNTIL }}
-      QUIZ_FORCE: ${{ github.event_name == 'workflow_dispatch' }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -98,29 +97,11 @@ jobs:
           git pull --rebase
           git push
 
-      - name: Render image and update state
+      - name: Story run (catch up a due reveal, then today's question)
         if: steps.which.outputs.job == 'question' || steps.which.outputs.job == 'reveal'
-        run: python story_quiz.py make ${{ steps.which.outputs.job }}
-
-      - name: Push image so Instagram can fetch it
-        if: steps.which.outputs.job == 'question' || steps.which.outputs.job == 'reveal'
-        run: |
-          git add docs state
-          git commit -m "Prepare ${{ steps.which.outputs.job }} $(date -u +%F)" || echo "nothing to commit"
-          git pull --rebase
-          git push
-
-      - name: Publish story
-        if: steps.which.outputs.job == 'question' || steps.which.outputs.job == 'reveal'
-        run: python story_quiz.py publish ${{ steps.which.outputs.job }}
-
-      - name: Save publish state
-        if: steps.which.outputs.job == 'question' || steps.which.outputs.job == 'reveal'
-        run: |
-          git add state
-          git commit -m "Published ${{ steps.which.outputs.job }} $(date -u +%F)" || echo "nothing to commit"
-          git pull --rebase
-          git push
+        env:
+          QUIZ_FORCE_JOB: ${{ github.event_name == 'workflow_dispatch' && inputs.job || '' }}
+        run: bash run_cycle.sh
 
       - name: Refresh access token
         if: steps.which.outputs.job == 'refresh'

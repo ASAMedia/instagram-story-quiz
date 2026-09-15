@@ -28,9 +28,12 @@ Mon 03:00 UTC refresh        -> renews the 60-day access token, stores it encryp
 The times come from an external cron service that starts the workflow to the
 minute (see "Punctual posting" below). GitHub's own schedule is only a
 fallback, because GitHub runs scheduled workflows hours late and skips most of
-them. The script acts in the first run at or after the configured Berlin hour
-(`question_hour` and `reveal_hour` in `config.json`) and skips any further run
-that day in seconds, so duplicate triggers are harmless.
+them. Every story run does the same two things in order: publish the reveal if one
+is due (from the question's day at `reveal_hour` onward, even if the run comes
+after midnight), then publish today's question if it is `question_hour` or
+later and none exists yet. A question is never posted while the previous one
+is still unrevealed. Each step is a no-op when there is nothing to do, so
+duplicate or late triggers are harmless.
 
 `state/current.json` remembers which post and which crop were chosen so the
 reveal matches the question. `state/history.json` keeps the last picks so a post
