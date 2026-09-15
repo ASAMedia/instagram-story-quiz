@@ -44,6 +44,7 @@ DOCS = ROOT / "docs"
 FONTS = ROOT / "fonts"
 STATE_DIR = ROOT / "state"
 STATE_FILE = STATE_DIR / "current.json"
+NEXT_FILE = STATE_DIR / "next.json"      # optional queued state, swapped in after a reveal
 HISTORY_FILE = STATE_DIR / "history.json"
 LOCATIONS_FILE = ROOT / "locations.json"
 CONFIG_FILE = ROOT / "config.json"
@@ -824,6 +825,9 @@ def publish(kind):
         save_json(STATE_FILE, state)
     else:
         save_json(STATE_FILE, {"stage": "idle", "last": {**state, "reveal_story_id": story_id}})
+        if NEXT_FILE.exists():   # a queued question (recovery) takes over
+            NEXT_FILE.replace(STATE_FILE)
+            print("Queued state from state/next.json is now current")
     print(f"Published {kind} story {story_id}")
 
 
