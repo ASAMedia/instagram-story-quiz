@@ -1,26 +1,21 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-09-14",
-  "round": 7,
-  "post_id": "18061728790334804",
-  "media_id": "17879902193738107",
-  "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/649250392_18041840351738107_6035119321780210249_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=WDcMjDAcwMAQ7kNvwG13Guz&_nc_oc=AdoDk4vbGQbkNih1XsY1XWa9UhLE0ej1005H5YxqXh1I5PqYT6gXiEHyg9L5FSt1sXc&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=U4Wv0NTGsMOvmTBTJzBWnA&_nc_tpa=Q5bMBQLL0kkffIUuleGHU-x98bP4DEqjPUm0GlOIhEGgkX-GWOYGDYfqWa2ET0CSMaqFkY2xy9pQly0v&oh=00_AQKAe5SADimjgzSjaPlJogoTi-SjZyGy7DOFCPKvWMUchA&oe=6AADD416",
-  "permalink": "https://www.instagram.com/p/CivJ75RjEFy/",
-  "timestamp": "2022-09-20T17:24:00+0000",
-  "caption": "Auf dem Weg in die ehemalige Hauptstadt Italiens (1865 - 1871) Florenz mit Zwischenstopp in Bologna.\n16.08.2022\n\n#bologna #toscana #bellaitalia #abendstimmung #prato #firenze #italy #italytravel #unterwegsmitfreunden",
-  "place": "Bologna",
+  "stage": "question_published",
+  "date": "2026-09-15",
+  "round": 8,
+  "post_id": "18358517599136293",
+  "media_id": "17891748768103152",
+  "media_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/652730886_17949478143103152_6322586103564470166_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Nwaq-iP7AuwQ7kNvwHer5uT&_nc_oc=AdpcbOKCo2UrZ1FP43airc9HzclPUyT5H2-9v9a7bZsvRnjkUM9k8M7vd8L9W80krc0&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=B0nvJ0wYE-e3MGK6EVySMQ&_nc_tpa=Q5bMBQL6j5ykVDAkIisH8sbrT8T346q8HCBZnegeJt8TwwbiKscICwERtI0z36MFU4a4viDkmwiUrL9d&oh=00_AQKqZ-HcXhiyBTihn2PI5Oc1Mzd5o3nC6NG8LxsW3srZpA&oe=6AAF1716",
+  "permalink": "https://www.instagram.com/p/DCCq2UctPTq/",
+  "timestamp": "2024-11-06T19:30:05+0000",
+  "caption": "#alpenpanorama pur nur 30min von Innsbruck entfernt auf der @innsbruck_muttereralm",
+  "place": "Mutterer Alm",
   "crop_box": [
-    297,
-    645,
-    1121,
-    1289
+    716,
+    406,
+    1271,
+    840
   ],
-  "question_image": "2026-09-14-question.jpg",
-  "question_story_id": "18136058233543407",
-  "question_published_at": "2026-09-14T13:54:01+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-09-14-reveal.jpg"
+  "question_image": "2026-09-15-question.jpg",
+  "question_story_id": "18070224935759849",
+  "question_published_at": "2026-09-15T12:38:01+0000"
 }
