@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-09-15",
-    "round": 8,
-    "post_id": "18358517599136293",
-    "media_id": "17891748768103152",
-    "media_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/652730886_17949478143103152_6322586103564470166_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Nwaq-iP7AuwQ7kNvwHer5uT&_nc_oc=AdpcbOKCo2UrZ1FP43airc9HzclPUyT5H2-9v9a7bZsvRnjkUM9k8M7vd8L9W80krc0&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=B0nvJ0wYE-e3MGK6EVySMQ&_nc_tpa=Q5bMBQL6j5ykVDAkIisH8sbrT8T346q8HCBZnegeJt8TwwbiKscICwERtI0z36MFU4a4viDkmwiUrL9d&oh=00_AQKqZ-HcXhiyBTihn2PI5Oc1Mzd5o3nC6NG8LxsW3srZpA&oe=6AAF1716",
-    "permalink": "https://www.instagram.com/p/DCCq2UctPTq/",
-    "timestamp": "2024-11-06T19:30:05+0000",
-    "caption": "#alpenpanorama pur nur 30min von Innsbruck entfernt auf der @innsbruck_muttereralm",
-    "place": "Mutterer Alm",
-    "crop_box": [
-      716,
-      406,
-      1271,
-      840
-    ],
-    "question_image": "2026-09-15-question.jpg",
-    "question_story_id": "18070224935759849",
-    "question_published_at": "2026-09-15T12:38:01+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-09-15-reveal.jpg",
-    "reveal_story_id": "18409801246091674"
-  }
+  "stage": "question_prepared",
+  "date": "2026-09-16",
+  "round": 9,
+  "post_id": "17853384373171101",
+  "media_id": "17853384373171101",
+  "media_url": "https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/623470067_18327126856171101_1676308429142145867_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=B6E-T4o5Kn4Q7kNvwH1dGxi&_nc_oc=AdqPN8D7Y-xrV4HTrsyf7xxV1JYJeAbQqnK_iebUYWPffyluuXTC1SOKD45HXfcwlWc&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CdOxt1PPRbLk55jK54ESyg&_nc_tpa=Q5bMBQJLFXRiBC6aayKH-Vrth77SKZfF8Fn1Wi2-RrtWap2J_3FpFECEBuO4mYErfbmJgmvm5XNwmEC1&oh=00_AQK1Voe6VIAeMqgNeWk7Ho-HcldS6quntQHOUeXMKnBMkg&oe=6AB03EBE",
+  "permalink": "https://www.instagram.com/p/BSvDKC3jaYT/",
+  "timestamp": "2017-04-11T06:33:14+0000",
+  "caption": "\"Every morning is a beautiful morning.\"\nTerri Guillemets\n#weimarbelvedere #park #morningdew",
+  "place": "",
+  "crop_box": [
+    350,
+    17,
+    792,
+    362
+  ],
+  "question_image": "2026-09-16-question.jpg"
 }
