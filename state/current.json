@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-09-17",
-  "round": 10,
-  "post_id": "17865523505635462",
-  "media_id": "17865523505635462",
-  "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/618074979_18063580877635462_6798553392330767783_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=a98Sv77nUm0Q7kNvwEFkzVz&_nc_oc=AdpphOZa_FZ6T2rr6bDGwX9KZYLVHMupmp2_lD0i0UXIgM6aHFqfZTaMog_9Szhakh0&_nc_zt=23&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=gma14njeaRQYGC0iuD7KFA&_nc_tpa=Q5bMBQLeujE-0HIfce915cbintOuFzNPegB48yUiE5OcN-8zDhuvWV3-sI0Qg-qg-XdwCsOU6pkVU1_P&oh=00_AQLFQ7WPhw2vK_CxFejo0FnFwh9WJfjYxtoUk0sNTT_tvQ&oe=6AB1A8CF",
-  "permalink": "https://www.instagram.com/p/CW8gAVmjaMM/",
-  "timestamp": "2021-12-01T15:30:14+0000",
-  "caption": "*\n#zillertal #gletscher #schnee #berggipfel #bergspitze #winterpanorama #österreich #skiurlaub #skiurlaubösterreich #pistengaudi #hintertuxergletscher #skifahren #bergliebe #unterwegsindernatur #handyfotografie #aufindieberge #wolkenhimmel #kaiserwetter\n\n @hintertux.at @hintertuxergletscher @zillert",
-  "place": "Hintertuxer Gletscher",
-  "crop_box": [
-    568,
-    728,
-    1392,
-    1372
-  ],
-  "question_image": "2026-09-17-question.jpg",
-  "question_story_id": "18077854526521100",
-  "question_published_at": "2026-09-17T11:31:11+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-09-17-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-09-17",
+    "round": 10,
+    "post_id": "17865523505635462",
+    "media_id": "17865523505635462",
+    "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/618074979_18063580877635462_6798553392330767783_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=a98Sv77nUm0Q7kNvwEFkzVz&_nc_oc=AdpphOZa_FZ6T2rr6bDGwX9KZYLVHMupmp2_lD0i0UXIgM6aHFqfZTaMog_9Szhakh0&_nc_zt=23&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=gma14njeaRQYGC0iuD7KFA&_nc_tpa=Q5bMBQLeujE-0HIfce915cbintOuFzNPegB48yUiE5OcN-8zDhuvWV3-sI0Qg-qg-XdwCsOU6pkVU1_P&oh=00_AQLFQ7WPhw2vK_CxFejo0FnFwh9WJfjYxtoUk0sNTT_tvQ&oe=6AB1A8CF",
+    "permalink": "https://www.instagram.com/p/CW8gAVmjaMM/",
+    "timestamp": "2021-12-01T15:30:14+0000",
+    "caption": "*\n#zillertal #gletscher #schnee #berggipfel #bergspitze #winterpanorama #österreich #skiurlaub #skiurlaubösterreich #pistengaudi #hintertuxergletscher #skifahren #bergliebe #unterwegsindernatur #handyfotografie #aufindieberge #wolkenhimmel #kaiserwetter\n\n @hintertux.at @hintertuxergletscher @zillert",
+    "place": "Hintertuxer Gletscher",
+    "crop_box": [
+      568,
+      728,
+      1392,
+      1372
+    ],
+    "question_image": "2026-09-17-question.jpg",
+    "question_story_id": "18077854526521100",
+    "question_published_at": "2026-09-17T11:31:11+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-09-17-reveal.jpg",
+    "reveal_story_id": "18095172149452595"
+  }
 }
