@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-09-16",
-    "round": 9,
-    "post_id": "17853384373171101",
-    "media_id": "17853384373171101",
-    "media_url": "https://scontent-hkg1-2.cdninstagram.com/v/t51.82787-15/623470067_18327126856171101_1676308429142145867_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=B6E-T4o5Kn4Q7kNvwH1dGxi&_nc_oc=AdqPN8D7Y-xrV4HTrsyf7xxV1JYJeAbQqnK_iebUYWPffyluuXTC1SOKD45HXfcwlWc&_nc_zt=23&_nc_ht=scontent-hkg1-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CdOxt1PPRbLk55jK54ESyg&_nc_tpa=Q5bMBQJLFXRiBC6aayKH-Vrth77SKZfF8Fn1Wi2-RrtWap2J_3FpFECEBuO4mYErfbmJgmvm5XNwmEC1&oh=00_AQK1Voe6VIAeMqgNeWk7Ho-HcldS6quntQHOUeXMKnBMkg&oe=6AB03EBE",
-    "permalink": "https://www.instagram.com/p/BSvDKC3jaYT/",
-    "timestamp": "2017-04-11T06:33:14+0000",
-    "caption": "\"Every morning is a beautiful morning.\"\nTerri Guillemets\n#weimarbelvedere #park #morningdew",
-    "place": "",
-    "crop_box": [
-      350,
-      17,
-      792,
-      362
-    ],
-    "question_image": "2026-09-16-question.jpg",
-    "question_story_id": "17947663998057647",
-    "question_published_at": "2026-09-16T11:23:23+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-09-16-reveal.jpg",
-    "reveal_story_id": "18029118581685120"
-  }
+  "stage": "question_prepared",
+  "date": "2026-09-17",
+  "round": 10,
+  "post_id": "17865523505635462",
+  "media_id": "17865523505635462",
+  "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/618074979_18063580877635462_6798553392330767783_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=a98Sv77nUm0Q7kNvwEFkzVz&_nc_oc=AdpphOZa_FZ6T2rr6bDGwX9KZYLVHMupmp2_lD0i0UXIgM6aHFqfZTaMog_9Szhakh0&_nc_zt=23&_nc_ht=scontent-dfw6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=gma14njeaRQYGC0iuD7KFA&_nc_tpa=Q5bMBQLeujE-0HIfce915cbintOuFzNPegB48yUiE5OcN-8zDhuvWV3-sI0Qg-qg-XdwCsOU6pkVU1_P&oh=00_AQLFQ7WPhw2vK_CxFejo0FnFwh9WJfjYxtoUk0sNTT_tvQ&oe=6AB1A8CF",
+  "permalink": "https://www.instagram.com/p/CW8gAVmjaMM/",
+  "timestamp": "2021-12-01T15:30:14+0000",
+  "caption": "*\n#zillertal #gletscher #schnee #berggipfel #bergspitze #winterpanorama #österreich #skiurlaub #skiurlaubösterreich #pistengaudi #hintertuxergletscher #skifahren #bergliebe #unterwegsindernatur #handyfotografie #aufindieberge #wolkenhimmel #kaiserwetter\n\n @hintertux.at @hintertuxergletscher @zillert",
+  "place": "Hintertuxer Gletscher",
+  "crop_box": [
+    568,
+    728,
+    1392,
+    1372
+  ],
+  "question_image": "2026-09-17-question.jpg"
 }
