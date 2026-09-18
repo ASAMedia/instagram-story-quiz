@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-09-18",
-  "round": 11,
-  "post_id": "17912562083523614",
-  "media_id": "17925189794507109",
-  "media_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/651439557_18106483817507109_1379086314101732515_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=AggRqy4C-gAQ7kNvwEnUA5d&_nc_oc=AdondWyMJkAV5bu2_t6Vnw3pKP9htqWVEAvw6Gg-yQI-1eJngaEgTj6DK39fRBz2pIA&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=D1CT92A9_80_MQh5f7QXyg&_nc_tpa=Q5bMBQJ7X_U2FT4sySlhkVUTf7O5kpFLQhWGkJghThRBCG-yzH_9shOVx6O4URhVnSNlFpofSASgZrlS&oh=00_AQIceeWMS4nR1PAR5YfY1-lVva4ACz_XyjhZep0uWaXOCQ&oe=6AB2E5A5",
-  "permalink": "https://www.instagram.com/p/CdqLgTbjRub/",
-  "timestamp": "2022-05-17T12:24:32+0000",
-  "caption": "Ausblick vom Mönchsberg in Richtung Jena.\nDurch den Kalksteinabbau bis 1967 entstand am Mönchsberg eine Steilwand zu deren Fuß Schüler der Freien Waldorfschule Jena aus dem Ortsteil Göschwitz vor einigen Jahren Steinkreise legten.\n\n#mönchsbergjena #jenaundumgebung #jenabeinacht #jenagöschwitz #jenal",
-  "place": "Jena",
-  "crop_box": [
-    86,
-    107,
-    705,
-    591
-  ],
-  "question_image": "2026-09-18-question.jpg",
-  "question_story_id": "17907297423510210",
-  "question_published_at": "2026-09-18T11:04:01+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-09-18-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-09-18",
+    "round": 11,
+    "post_id": "17912562083523614",
+    "media_id": "17925189794507109",
+    "media_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/651439557_18106483817507109_1379086314101732515_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=AggRqy4C-gAQ7kNvwEnUA5d&_nc_oc=AdondWyMJkAV5bu2_t6Vnw3pKP9htqWVEAvw6Gg-yQI-1eJngaEgTj6DK39fRBz2pIA&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=D1CT92A9_80_MQh5f7QXyg&_nc_tpa=Q5bMBQJ7X_U2FT4sySlhkVUTf7O5kpFLQhWGkJghThRBCG-yzH_9shOVx6O4URhVnSNlFpofSASgZrlS&oh=00_AQIceeWMS4nR1PAR5YfY1-lVva4ACz_XyjhZep0uWaXOCQ&oe=6AB2E5A5",
+    "permalink": "https://www.instagram.com/p/CdqLgTbjRub/",
+    "timestamp": "2022-05-17T12:24:32+0000",
+    "caption": "Ausblick vom Mönchsberg in Richtung Jena.\nDurch den Kalksteinabbau bis 1967 entstand am Mönchsberg eine Steilwand zu deren Fuß Schüler der Freien Waldorfschule Jena aus dem Ortsteil Göschwitz vor einigen Jahren Steinkreise legten.\n\n#mönchsbergjena #jenaundumgebung #jenabeinacht #jenagöschwitz #jenal",
+    "place": "Jena",
+    "crop_box": [
+      86,
+      107,
+      705,
+      591
+    ],
+    "question_image": "2026-09-18-question.jpg",
+    "question_story_id": "17907297423510210",
+    "question_published_at": "2026-09-18T11:04:01+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-09-18-reveal.jpg",
+    "reveal_story_id": "18018848123927835"
+  }
 }
