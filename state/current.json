@@ -1,5 +1,5 @@
 {
-  "stage": "question_prepared",
+  "stage": "question_published",
   "date": "2026-09-19",
   "round": 12,
   "post_id": "17891861542187883",
@@ -15,5 +15,7 @@
     1004,
     690
   ],
-  "question_image": "2026-09-19-question.jpg"
+  "question_image": "2026-09-19-question.jpg",
+  "question_story_id": "18472468546119546",
+  "question_published_at": "2026-09-19T10:48:09+0000"
 }
