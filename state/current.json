@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-09-20",
-  "round": 13,
-  "post_id": "18226807903199724",
-  "media_id": "17947178573133257",
-  "media_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/649554567_18075632330133257_2250737949372864005_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BDfN0f-kSlgQ7kNvwGaedoX&_nc_oc=AdqJMN77MKl3zu4X9bwXxC9j-gF66eZBV1RVyhVep63LWIz_DUW_BVwigzTq-2Q3te0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=qWsHar0rGv9zPN616PYkqg&_nc_tpa=Q5bMBQIbAlAn2LulNnbMjysVTayySzZEzHtSLXuFjR4OUcdhN0_yb-9CuoBF4kMsg2-V8Gp9HC4Tki-5&oh=00_AQKTThI9wonO-XrmY2DB8Ny67doPfw5dWifrjXT7cxvNYg&oe=6AB5818F",
-  "permalink": "https://www.instagram.com/p/Cj8e3WbDObi/",
-  "timestamp": "2022-10-20T18:08:24+0000",
-  "caption": "Von unserer Wohnung in Lissabon aus geht es in ein paar Minuten zum Praça do Comércio mit dem Tor Arco da Rua Augusta. Quer durch die Stadt über mehrere Plätze und vorbei an der verfallenen Kirche Convento do Carmo  kann man das etwas außerhalb gelegene Aqueduto das Águas Livres erreichen. \n29.08.20",
-  "place": "Lissabon",
-  "crop_box": [
-    469,
-    827,
-    1211,
-    1407
-  ],
-  "question_image": "2026-09-20-question.jpg",
-  "question_story_id": "18132935827560687",
-  "question_published_at": "2026-09-20T11:11:11+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-09-20-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-09-20",
+    "round": 13,
+    "post_id": "18226807903199724",
+    "media_id": "17947178573133257",
+    "media_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/649554567_18075632330133257_2250737949372864005_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BDfN0f-kSlgQ7kNvwGaedoX&_nc_oc=AdqJMN77MKl3zu4X9bwXxC9j-gF66eZBV1RVyhVep63LWIz_DUW_BVwigzTq-2Q3te0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=qWsHar0rGv9zPN616PYkqg&_nc_tpa=Q5bMBQIbAlAn2LulNnbMjysVTayySzZEzHtSLXuFjR4OUcdhN0_yb-9CuoBF4kMsg2-V8Gp9HC4Tki-5&oh=00_AQKTThI9wonO-XrmY2DB8Ny67doPfw5dWifrjXT7cxvNYg&oe=6AB5818F",
+    "permalink": "https://www.instagram.com/p/Cj8e3WbDObi/",
+    "timestamp": "2022-10-20T18:08:24+0000",
+    "caption": "Von unserer Wohnung in Lissabon aus geht es in ein paar Minuten zum Praça do Comércio mit dem Tor Arco da Rua Augusta. Quer durch die Stadt über mehrere Plätze und vorbei an der verfallenen Kirche Convento do Carmo  kann man das etwas außerhalb gelegene Aqueduto das Águas Livres erreichen. \n29.08.20",
+    "place": "Lissabon",
+    "crop_box": [
+      469,
+      827,
+      1211,
+      1407
+    ],
+    "question_image": "2026-09-20-question.jpg",
+    "question_story_id": "18132935827560687",
+    "question_published_at": "2026-09-20T11:11:11+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-09-20-reveal.jpg",
+    "reveal_story_id": "18145254220491156"
+  }
 }
