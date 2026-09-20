@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-09-19",
-    "round": 12,
-    "post_id": "17891861542187883",
-    "media_id": "17891861542187883",
-    "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/626846157_18419697364187883_1253729311368800133_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=_VoahUk4BKQQ7kNvwGjvPqU&_nc_oc=AdriyhehRwbrfIyu_nOhDn1uymg0Om3iUmBZ-xdskvOIr2XOS5xUH9_KXOWdamU7lWU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=niunz3aN6TAd6rbj3-sE3w&_nc_tpa=Q5bMBQK1BXtDAMzvOCqqOaTHv4amylhN4QU2bv0F3UVYWejKhp6ZSIk0A7mC6roQyOX_mkLPgc7NYT89&oh=00_AQKysHL9vbt2p7SaEAacfihp5R2lmY2Vts3B49-saSGQEQ&oe=6AB429E7",
-    "permalink": "https://www.instagram.com/p/BddfidnjNpT/",
-    "timestamp": "2018-01-02T20:40:14+0000",
-    "caption": "\"Life is like a landscape. You live in the midst of it but can describe it only from the vantage point of distance.\"\n~Charles Lindbergh\n\n#achensee #maurach #rofan #skiing #tirol #mountains #lifequotes #oneplus #oneplusone #unedited #charleslindbergh #quotes",
-    "place": "Rofan Seilbahn Achensee",
-    "crop_box": [
-      647,
-      411,
-      1004,
-      690
-    ],
-    "question_image": "2026-09-19-question.jpg",
-    "question_story_id": "18472468546119546",
-    "question_published_at": "2026-09-19T10:48:09+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-09-19-reveal.jpg",
-    "reveal_story_id": "18146546113570886"
-  }
+  "stage": "question_prepared",
+  "date": "2026-09-20",
+  "round": 13,
+  "post_id": "18226807903199724",
+  "media_id": "17947178573133257",
+  "media_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/649554567_18075632330133257_2250737949372864005_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BDfN0f-kSlgQ7kNvwGaedoX&_nc_oc=AdqJMN77MKl3zu4X9bwXxC9j-gF66eZBV1RVyhVep63LWIz_DUW_BVwigzTq-2Q3te0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=qWsHar0rGv9zPN616PYkqg&_nc_tpa=Q5bMBQIbAlAn2LulNnbMjysVTayySzZEzHtSLXuFjR4OUcdhN0_yb-9CuoBF4kMsg2-V8Gp9HC4Tki-5&oh=00_AQKTThI9wonO-XrmY2DB8Ny67doPfw5dWifrjXT7cxvNYg&oe=6AB5818F",
+  "permalink": "https://www.instagram.com/p/Cj8e3WbDObi/",
+  "timestamp": "2022-10-20T18:08:24+0000",
+  "caption": "Von unserer Wohnung in Lissabon aus geht es in ein paar Minuten zum Praça do Comércio mit dem Tor Arco da Rua Augusta. Quer durch die Stadt über mehrere Plätze und vorbei an der verfallenen Kirche Convento do Carmo  kann man das etwas außerhalb gelegene Aqueduto das Águas Livres erreichen. \n29.08.20",
+  "place": "Lissabon",
+  "crop_box": [
+    469,
+    827,
+    1211,
+    1407
+  ],
+  "question_image": "2026-09-20-question.jpg"
 }
