@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-09-21",
-  "round": 14,
-  "post_id": "17927411362828902",
-  "media_id": "17927411362828902",
-  "media_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/624056099_18104056117828902_227846421651418075_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=9uaQIZfirAEQ7kNvwF7FmZr&_nc_oc=AdqJ--Q1pePPzp3oiqiyoHHxGTyE6-ZA9l9Kj-vVydFI_XkO8meguh14rAsQpJpB73M&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=QKby3baPh_lKt2mYgSKS5g&_nc_tpa=Q5bMBQL2C1sGdIUJFnGJ3udjOLS0DweYdN1B23PB_LKxAPXs6Bj9yeEFFxGJB0RT5jeSPlO1NzPCQKUL&oh=00_AQIYSy1F6jtJai5uLb2_M8rtnMI5kbfMSDN1kLei7uymfQ&oe=6AB6F353",
-  "permalink": "https://www.instagram.com/p/CU16mfqDaQF/",
-  "timestamp": "2021-10-10T09:05:10+0000",
-  "caption": "*\n#reitherspitze #österreichurlaub #wandernmachtglücklich #tirol #almen #wanderlust #bergsteigen #seefeld #alpen #regenwolken #outdoorphotography #bewölkt #berglandschaft #nördlingerhütte  #seefeldintirol #bergmassiv  #gipfelglück #dronephotography #djimavicair2 #zugspitze #naturerleben #wanderweg #",
-  "place": "Reither Spitze",
-  "crop_box": [
-    860,
-    255,
-    1351,
-    639
-  ],
-  "question_image": "2026-09-21-question.jpg",
-  "question_story_id": "18040340051831526",
-  "question_published_at": "2026-09-21T12:39:41+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-09-21-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-09-21",
+    "round": 14,
+    "post_id": "17927411362828902",
+    "media_id": "17927411362828902",
+    "media_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/624056099_18104056117828902_227846421651418075_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=9uaQIZfirAEQ7kNvwF7FmZr&_nc_oc=AdqJ--Q1pePPzp3oiqiyoHHxGTyE6-ZA9l9Kj-vVydFI_XkO8meguh14rAsQpJpB73M&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=QKby3baPh_lKt2mYgSKS5g&_nc_tpa=Q5bMBQL2C1sGdIUJFnGJ3udjOLS0DweYdN1B23PB_LKxAPXs6Bj9yeEFFxGJB0RT5jeSPlO1NzPCQKUL&oh=00_AQIYSy1F6jtJai5uLb2_M8rtnMI5kbfMSDN1kLei7uymfQ&oe=6AB6F353",
+    "permalink": "https://www.instagram.com/p/CU16mfqDaQF/",
+    "timestamp": "2021-10-10T09:05:10+0000",
+    "caption": "*\n#reitherspitze #österreichurlaub #wandernmachtglücklich #tirol #almen #wanderlust #bergsteigen #seefeld #alpen #regenwolken #outdoorphotography #bewölkt #berglandschaft #nördlingerhütte  #seefeldintirol #bergmassiv  #gipfelglück #dronephotography #djimavicair2 #zugspitze #naturerleben #wanderweg #",
+    "place": "Reither Spitze",
+    "crop_box": [
+      860,
+      255,
+      1351,
+      639
+    ],
+    "question_image": "2026-09-21-question.jpg",
+    "question_story_id": "18040340051831526",
+    "question_published_at": "2026-09-21T12:39:41+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-09-21-reveal.jpg",
+    "reveal_story_id": "18143602351572432"
+  }
 }
