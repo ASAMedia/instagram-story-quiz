@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-09-23",
-  "round": 16,
-  "post_id": "17870844955005162",
-  "media_id": "17870844955005162",
-  "media_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/639683105_18559674739005162_6945264614369251552_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=s_rV-C2h7fMQ7kNvwHyulRu&_nc_oc=Adrbgg3KBJGp3sXKYoUhMrByQwPR99jP5LgIecsXJc2-90aEyqNDpmBEqvy3fcD2X1M&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=q7vQxS-BEwpD7vqMywAljg&_nc_tpa=Q5bMBQJMP91EdeyNL6BVvdoAc1hWQJ9oGBgmGqha9v0K5o1Bq56JZQ8iqZdEEjsbMOWoZYWv0h0ZTaXS&oh=00_AQJUPhKhF3kGxGEYIBD-VWfE-wXS6EXEot6u71Xr_Ui-mg&oe=6AB98BE5",
-  "permalink": "https://www.instagram.com/p/BQLVw_cD0wO/",
-  "timestamp": "2017-02-06T16:40:23+0000",
-  "caption": "Truly not the best weather today",
-  "place": "",
-  "crop_box": [
-    48,
-    682,
-    500,
-    1035
-  ],
-  "question_image": "2026-09-23-question.jpg",
-  "question_story_id": "17989366677111718",
-  "question_published_at": "2026-09-23T11:23:37+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-09-23-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-09-23",
+    "round": 16,
+    "post_id": "17870844955005162",
+    "media_id": "17870844955005162",
+    "media_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/639683105_18559674739005162_6945264614369251552_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=s_rV-C2h7fMQ7kNvwHyulRu&_nc_oc=Adrbgg3KBJGp3sXKYoUhMrByQwPR99jP5LgIecsXJc2-90aEyqNDpmBEqvy3fcD2X1M&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=q7vQxS-BEwpD7vqMywAljg&_nc_tpa=Q5bMBQJMP91EdeyNL6BVvdoAc1hWQJ9oGBgmGqha9v0K5o1Bq56JZQ8iqZdEEjsbMOWoZYWv0h0ZTaXS&oh=00_AQJUPhKhF3kGxGEYIBD-VWfE-wXS6EXEot6u71Xr_Ui-mg&oe=6AB98BE5",
+    "permalink": "https://www.instagram.com/p/BQLVw_cD0wO/",
+    "timestamp": "2017-02-06T16:40:23+0000",
+    "caption": "Truly not the best weather today",
+    "place": "",
+    "crop_box": [
+      48,
+      682,
+      500,
+      1035
+    ],
+    "question_image": "2026-09-23-question.jpg",
+    "question_story_id": "17989366677111718",
+    "question_published_at": "2026-09-23T11:23:37+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-09-23-reveal.jpg",
+    "reveal_story_id": "18094929962401436"
+  }
 }
