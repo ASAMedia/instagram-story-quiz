@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-09-24",
-  "round": 17,
-  "post_id": "17918773532434861",
-  "media_id": "17918773532434861",
-  "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/624077197_18070290572434861_8604465667045976155_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=dAzwjg5Dgq8Q7kNvwFkEi3I&_nc_oc=AdpE_YMjfeqejjcISlA61XZSEIrgMDd-_7T9daOO8wY44WMyRg0JYnkXl1x31_WvVXY&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=XrwbykZQ4PmG4sRFXpAB9Q&_nc_tpa=Q5bMBQJpf2px0K4hf9kdS25z-ypbuFHf3W1NAXKXNMohdsm6Z-znouGU00jDyQsp9_DobtDpjO9Wu_bg&oh=00_AQLRIvy-r8oFx-OAA8vGAaY-0XFn-2H-Cns6Xfn3sjqudg&oe=6ABAC8CA",
-  "permalink": "https://www.instagram.com/p/Cdx5mxFjGz3/",
-  "timestamp": "2022-05-20T12:22:03+0000",
-  "caption": "Weimar und der Berkarer Bahnhof von oben\n\n#flyhigh #falldeeper #weimarlove #weimar #weimarcity #weimarvonoben #unterwegsinthüringen #inthueringenzuhause #dronenfotografie",
-  "place": "Weimar",
-  "crop_box": [
-    68,
-    1065,
-    871,
-    1693
-  ],
-  "question_image": "2026-09-24-question.jpg",
-  "question_story_id": "17935701543125844",
-  "question_published_at": "2026-09-24T11:35:51+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-09-24-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-09-24",
+    "round": 17,
+    "post_id": "17918773532434861",
+    "media_id": "17918773532434861",
+    "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/624077197_18070290572434861_8604465667045976155_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=dAzwjg5Dgq8Q7kNvwFkEi3I&_nc_oc=AdpE_YMjfeqejjcISlA61XZSEIrgMDd-_7T9daOO8wY44WMyRg0JYnkXl1x31_WvVXY&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=XrwbykZQ4PmG4sRFXpAB9Q&_nc_tpa=Q5bMBQJpf2px0K4hf9kdS25z-ypbuFHf3W1NAXKXNMohdsm6Z-znouGU00jDyQsp9_DobtDpjO9Wu_bg&oh=00_AQLRIvy-r8oFx-OAA8vGAaY-0XFn-2H-Cns6Xfn3sjqudg&oe=6ABAC8CA",
+    "permalink": "https://www.instagram.com/p/Cdx5mxFjGz3/",
+    "timestamp": "2022-05-20T12:22:03+0000",
+    "caption": "Weimar und der Berkarer Bahnhof von oben\n\n#flyhigh #falldeeper #weimarlove #weimar #weimarcity #weimarvonoben #unterwegsinthüringen #inthueringenzuhause #dronenfotografie",
+    "place": "Weimar",
+    "crop_box": [
+      68,
+      1065,
+      871,
+      1693
+    ],
+    "question_image": "2026-09-24-question.jpg",
+    "question_story_id": "17935701543125844",
+    "question_published_at": "2026-09-24T11:35:51+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-09-24-reveal.jpg",
+    "reveal_story_id": "17883700938620692"
+  }
 }
