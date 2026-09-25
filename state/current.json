@@ -1,5 +1,5 @@
 {
-  "stage": "question_published",
+  "stage": "reveal_prepared",
   "date": "2026-09-25",
   "round": 18,
   "post_id": "17921865082787026",
@@ -17,5 +17,10 @@
   ],
   "question_image": "2026-09-25-question.jpg",
   "question_story_id": "17946331062322308",
-  "question_published_at": "2026-09-25T11:42:26+0000"
+  "question_published_at": "2026-09-25T11:42:26+0000",
+  "answers": {
+    "total": 0,
+    "correct": 0
+  },
+  "reveal_image": "2026-09-25-reveal.jpg"
 }
