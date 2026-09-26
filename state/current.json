@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-09-25",
-    "round": 18,
-    "post_id": "17921865082787026",
-    "media_id": "17921865082787026",
-    "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/621659195_18094063102787026_4101048705631424743_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8veU7Zr85csQ7kNvwHKnZab&_nc_oc=AdrUxUxh2aotbDGh8YohTO7ZUXCeWdVhUrbi-rStUFPJhnLTv9aH6lIU4bUbwAVV6-g&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ZzZkbKqA52o7mDULrk5A0g&_nc_tpa=Q5bMBQKSuZ6rNcv83nHfW7BC2rj2nLkJuUBelJBHrJr53T7sZkrh-eNaRT1bjERpfKGMnxUBFjx3gdus&oh=00_AQIvS3e6NQP_112WzYVPtHayPiakE0TR-aO9IHVPB8IEDg&oe=6ABC2C37",
-    "permalink": "https://www.instagram.com/p/CT6UgKujpDN/",
-    "timestamp": "2021-09-17T05:37:04+0000",
-    "caption": "*\n\n#lyonelfeiningergymnasium #gymnasium #schulemalanders #mellingen #weimarerland #unterwegsinthüringen #thueringen_entdecken #dronephotography #drohnenfotografie #djimavicair2 #droneshots #schulevonoben #wolkenhimmel #landschule\n\n@weimarerland @thueringen_entdecken.de",
-    "place": "Lyonel-Feininger-Gymnasium",
-    "crop_box": [
-      2,
-      478,
-      686,
-      1013
-    ],
-    "question_image": "2026-09-25-question.jpg",
-    "question_story_id": "17946331062322308",
-    "question_published_at": "2026-09-25T11:42:26+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-09-25-reveal.jpg",
-    "reveal_story_id": "18369465625213833"
-  }
+  "stage": "question_prepared",
+  "date": "2026-09-26",
+  "round": 19,
+  "post_id": "17918713161133114",
+  "media_id": "18086865013703475",
+  "media_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/523645554_18364077121146031_4497194342216511286_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ByqSfhC2wAsQ7kNvwGy7GXK&_nc_oc=Adq3WKvzLk_RsjMnCN2jkYFGXNp_6sIEo39-QRXmDlA5BUkpjpqGtBT-OlI1pxSbGrs&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=aeiEBaG0RNQDmYGbP-t1XA&_nc_tpa=Q5bMBQINVaKAdjrfCfNnwEALxIooEr707zFEWrcjNsSf37hzqh5SzVFBRO5t1RB1bTAC85gadZzl6kXq&oh=00_AQLkP3IQrlM-Z7hg1u3khQRDufTDX7VFdfTtX9fgci-d8A&oe=6ABD94CF",
+  "permalink": "https://www.instagram.com/p/DMiaWYKNk3R/",
+  "timestamp": "2025-07-25T16:35:51+0000",
+  "caption": "Nur noch 4 Monate bis zum nächsten Skifahren ⛷️\nIm Februar ging es nochmal zum @kitzsteinhorn_official",
+  "place": "Kitzsteinhorn, Kaprun, Austria",
+  "crop_box": [
+    184,
+    334,
+    907,
+    899
+  ],
+  "question_image": "2026-09-26-question.jpg"
 }
