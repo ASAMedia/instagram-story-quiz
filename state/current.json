@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-09-26",
-    "round": 19,
-    "post_id": "17918713161133114",
-    "media_id": "18086865013703475",
-    "media_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/523645554_18364077121146031_4497194342216511286_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ByqSfhC2wAsQ7kNvwGy7GXK&_nc_oc=Adq3WKvzLk_RsjMnCN2jkYFGXNp_6sIEo39-QRXmDlA5BUkpjpqGtBT-OlI1pxSbGrs&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=aeiEBaG0RNQDmYGbP-t1XA&_nc_tpa=Q5bMBQINVaKAdjrfCfNnwEALxIooEr707zFEWrcjNsSf37hzqh5SzVFBRO5t1RB1bTAC85gadZzl6kXq&oh=00_AQLkP3IQrlM-Z7hg1u3khQRDufTDX7VFdfTtX9fgci-d8A&oe=6ABD94CF",
-    "permalink": "https://www.instagram.com/p/DMiaWYKNk3R/",
-    "timestamp": "2025-07-25T16:35:51+0000",
-    "caption": "Nur noch 4 Monate bis zum nächsten Skifahren ⛷️\nIm Februar ging es nochmal zum @kitzsteinhorn_official",
-    "place": "Kitzsteinhorn, Kaprun, Austria",
-    "crop_box": [
-      184,
-      334,
-      907,
-      899
-    ],
-    "question_image": "2026-09-26-question.jpg",
-    "question_story_id": "18130846231766360",
-    "question_published_at": "2026-09-26T11:15:27+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-09-26-reveal.jpg",
-    "reveal_story_id": "17995554870013814"
-  }
+  "stage": "question_prepared",
+  "date": "2026-09-27",
+  "round": 20,
+  "post_id": "17951972381332362",
+  "media_id": "17973172126867115",
+  "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/652005645_18105265525867115_7141205258548420858_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ZkG8EUzUHLUQ7kNvwGtMT9g&_nc_oc=AdrYqVdspi01wprVTOEm56SlIYHrnfX7Cjr-gFegRCWLpS7J92aAv8B_NYARJCITZGo&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=j2eoQR3FSicjYTnZdhL1ZA&_nc_tpa=Q5bMBQI9U0SwpFce-nYrPNoY6p2GWXwuy4Bw4DtNM_UXDHr-12TxWf679OBfHb1RyMPwY-c1lPGQ7iKL&oh=00_AQKyR56gGi2_FAmAFA9za732toYQtA2JTojtzOJwmMcmpg&oe=6ABEC33F",
+  "permalink": "https://www.instagram.com/p/CkvdOhUjq7t/",
+  "timestamp": "2022-11-09T13:15:21+0000",
+  "caption": "Ausflug in die Halloren Schokoladenwelt.\nNeben der Entstehungsgeschichte der Marke Halloren, bekommt man auch Einblicke in die Produktion, sowie in die lecker aussehende Sammlung aus Schokoladen Werken. \n19.09.2022\n\n#hallorenschokoladenfabrik #halloren #hallorenkugeln #hallesaale #trabi #ddrgeschich",
+  "place": "Halloren Schokoladenwelt",
+  "crop_box": [
+    632,
+    409,
+    1350,
+    970
+  ],
+  "question_image": "2026-09-27-question.jpg"
 }
