@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-09-27",
-    "round": 20,
-    "post_id": "17951972381332362",
-    "media_id": "17973172126867115",
-    "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/652005645_18105265525867115_7141205258548420858_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ZkG8EUzUHLUQ7kNvwGtMT9g&_nc_oc=AdrYqVdspi01wprVTOEm56SlIYHrnfX7Cjr-gFegRCWLpS7J92aAv8B_NYARJCITZGo&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=j2eoQR3FSicjYTnZdhL1ZA&_nc_tpa=Q5bMBQI9U0SwpFce-nYrPNoY6p2GWXwuy4Bw4DtNM_UXDHr-12TxWf679OBfHb1RyMPwY-c1lPGQ7iKL&oh=00_AQKyR56gGi2_FAmAFA9za732toYQtA2JTojtzOJwmMcmpg&oe=6ABEC33F",
-    "permalink": "https://www.instagram.com/p/CkvdOhUjq7t/",
-    "timestamp": "2022-11-09T13:15:21+0000",
-    "caption": "Ausflug in die Halloren Schokoladenwelt.\nNeben der Entstehungsgeschichte der Marke Halloren, bekommt man auch Einblicke in die Produktion, sowie in die lecker aussehende Sammlung aus Schokoladen Werken. \n19.09.2022\n\n#hallorenschokoladenfabrik #halloren #hallorenkugeln #hallesaale #trabi #ddrgeschich",
-    "place": "Halloren Schokoladenwelt",
-    "crop_box": [
-      632,
-      409,
-      1350,
-      970
-    ],
-    "question_image": "2026-09-27-question.jpg",
-    "question_story_id": "18055647203803593",
-    "question_published_at": "2026-09-27T11:54:29+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-09-27-reveal.jpg",
-    "reveal_story_id": "18104091908637214"
-  }
+  "stage": "question_prepared",
+  "date": "2026-09-28",
+  "round": 21,
+  "post_id": "18186962113203299",
+  "media_id": "17891050463667808",
+  "media_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/650143319_18062107541667808_2607915389300915569_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=sD6gWh3F9KoQ7kNvwEhxLGC&_nc_oc=AdpGzSaK8bJa4tXDZmA5GI7p4vzSXMQfguI0U9vXy_2F0qjLi5NtikmmTRtFu83_z78&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=hAa0eL8KJv0Q6pAccaJVQA&_nc_tpa=Q5bMBQJuQ6tUw6tArWnMGjJKkWUNDY8Ig_Co6MpELTKjol_M9vDznb1HPLHsJeTOB17D_rg0pzJOpbvb&oh=00_AQPbjBL-LhNGtzZ25nkL_ZzRbfEF3RX-1aNrZe2ATejWlA&oe=6AC02DEE",
+  "permalink": "https://www.instagram.com/p/CgpHj-Tj7GY/",
+  "timestamp": "2022-07-30T16:05:01+0000",
+  "caption": "Mache Lostplace Orte mitten in der Stadt lohnen sich für einen Besuch\n\n#weimarerland #erfurtcity #lostplaces #stadtliebe #thueringenentdecken",
+  "place": "Erfurt",
+  "crop_box": [
+    330,
+    790,
+    880,
+    1220
+  ],
+  "question_image": "2026-09-28-question.jpg"
 }
