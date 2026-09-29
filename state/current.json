@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-09-28",
-    "round": 21,
-    "post_id": "18186962113203299",
-    "media_id": "17891050463667808",
-    "media_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/650143319_18062107541667808_2607915389300915569_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=sD6gWh3F9KoQ7kNvwEhxLGC&_nc_oc=AdpGzSaK8bJa4tXDZmA5GI7p4vzSXMQfguI0U9vXy_2F0qjLi5NtikmmTRtFu83_z78&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=hAa0eL8KJv0Q6pAccaJVQA&_nc_tpa=Q5bMBQJuQ6tUw6tArWnMGjJKkWUNDY8Ig_Co6MpELTKjol_M9vDznb1HPLHsJeTOB17D_rg0pzJOpbvb&oh=00_AQPbjBL-LhNGtzZ25nkL_ZzRbfEF3RX-1aNrZe2ATejWlA&oe=6AC02DEE",
-    "permalink": "https://www.instagram.com/p/CgpHj-Tj7GY/",
-    "timestamp": "2022-07-30T16:05:01+0000",
-    "caption": "Mache Lostplace Orte mitten in der Stadt lohnen sich für einen Besuch\n\n#weimarerland #erfurtcity #lostplaces #stadtliebe #thueringenentdecken",
-    "place": "Erfurt",
-    "crop_box": [
-      330,
-      790,
-      880,
-      1220
-    ],
-    "question_image": "2026-09-28-question.jpg",
-    "question_story_id": "18334738462275532",
-    "question_published_at": "2026-09-28T13:42:33+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-09-28-reveal.jpg",
-    "reveal_story_id": "18147971779566211"
-  }
+  "stage": "question_prepared",
+  "date": "2026-09-29",
+  "round": 22,
+  "post_id": "17975112140772079",
+  "media_id": "18025322120136483",
+  "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/657617461_18077054825136483_1806157976068673857_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=HDtzJ9w9vcoQ7kNvwH7V5BX&_nc_oc=AdqFyCtNrJ-LzllYFcUoVyzkTmX5HtxoCnz3P8zPnnMuHunHt_fCjS7bR7nsutFSs3A&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=IyZJr6Xy5y7V5HK0f2h6rQ&_nc_tpa=Q5bMBQJ2bWKasYI9j_yqZDAFLZ_mhudAPwzfGtNQ5wRxnwm3Xf-2ez8mlgbk0KOFUpaMMYQRyuIYnFMD&oh=00_AQMZQ0C0T4Gijy0ThzwakYBV5vaumYcjZZRJJbiBerREug&oe=6AC1A047",
+  "permalink": "https://www.instagram.com/p/C__aYRysSEy/",
+  "timestamp": "2024-09-16T20:05:46+0000",
+  "caption": "Wanderung von Reith nach Au und ein Besuch des Staubfalls im Heutal an der Bayrisch/Österreichischen Grenze",
+  "place": "Heutal",
+  "crop_box": [
+    517,
+    473,
+    1012,
+    860
+  ],
+  "question_image": "2026-09-29-question.jpg"
 }
