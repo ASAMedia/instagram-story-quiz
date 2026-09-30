@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-09-29",
-    "round": 22,
-    "post_id": "17975112140772079",
-    "media_id": "18025322120136483",
-    "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/657617461_18077054825136483_1806157976068673857_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=HDtzJ9w9vcoQ7kNvwH7V5BX&_nc_oc=AdqFyCtNrJ-LzllYFcUoVyzkTmX5HtxoCnz3P8zPnnMuHunHt_fCjS7bR7nsutFSs3A&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=IyZJr6Xy5y7V5HK0f2h6rQ&_nc_tpa=Q5bMBQJ2bWKasYI9j_yqZDAFLZ_mhudAPwzfGtNQ5wRxnwm3Xf-2ez8mlgbk0KOFUpaMMYQRyuIYnFMD&oh=00_AQMZQ0C0T4Gijy0ThzwakYBV5vaumYcjZZRJJbiBerREug&oe=6AC1A047",
-    "permalink": "https://www.instagram.com/p/C__aYRysSEy/",
-    "timestamp": "2024-09-16T20:05:46+0000",
-    "caption": "Wanderung von Reith nach Au und ein Besuch des Staubfalls im Heutal an der Bayrisch/Österreichischen Grenze",
-    "place": "Heutal",
-    "crop_box": [
-      517,
-      473,
-      1012,
-      860
-    ],
-    "question_image": "2026-09-29-question.jpg",
-    "question_story_id": "17905463967483033",
-    "question_published_at": "2026-09-29T12:40:51+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-09-29-reveal.jpg",
-    "reveal_story_id": "18068833883777460"
-  }
+  "stage": "question_prepared",
+  "date": "2026-09-30",
+  "round": 23,
+  "post_id": "17951074645714085",
+  "media_id": "18189199459080147",
+  "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/662361892_18388686454080147_8130190455490367358_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=HRcfgfhehIMQ7kNvwGr5E93&_nc_oc=AdrjqnZIjp9jDDxe5GZ9PPr56BgTq_c9uGAmR9rI1JjHTOqcuwM1eTtxIQtcAMP0LZA&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=iWe0woRUnQoHq0h64vE6KQ&_nc_tpa=Q5bMBQI2WkaNzYtZxBEfTKvNnONMr9n_7TtWj9YqPFu99rMDNLj9nORAz3A49p8DmZwb_4KcYhVq0lR6&oh=00_AQObdvN2uaoO2tKIN-IeZhwtwydae0coJ_ruyFFiXEZ-1g&oe=6AC2E9E8",
+  "permalink": "https://www.instagram.com/p/CZzRA5Jjg1F/",
+  "timestamp": "2022-02-10T15:00:16+0000",
+  "caption": "Always nice to be in this place, especially during sunset 🌆\n\nSwipe to see before/after▶️\n\n#lostplaces #lostplacesgermany #weimarerland #jena #sunset #verloreneorte #verfalleneorte #nachteule  #grafitti #lostintime  #nachtundtag #himmelundhölle #verlassengelassen #verlasseneortedeutschland",
+  "place": "Jena",
+  "crop_box": [
+    94,
+    182,
+    555,
+    542
+  ],
+  "question_image": "2026-09-30-question.jpg"
 }
