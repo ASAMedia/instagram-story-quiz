@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-09-30",
-    "round": 23,
-    "post_id": "17951074645714085",
-    "media_id": "18189199459080147",
-    "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/662361892_18388686454080147_8130190455490367358_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=HRcfgfhehIMQ7kNvwGr5E93&_nc_oc=AdrjqnZIjp9jDDxe5GZ9PPr56BgTq_c9uGAmR9rI1JjHTOqcuwM1eTtxIQtcAMP0LZA&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=iWe0woRUnQoHq0h64vE6KQ&_nc_tpa=Q5bMBQI2WkaNzYtZxBEfTKvNnONMr9n_7TtWj9YqPFu99rMDNLj9nORAz3A49p8DmZwb_4KcYhVq0lR6&oh=00_AQObdvN2uaoO2tKIN-IeZhwtwydae0coJ_ruyFFiXEZ-1g&oe=6AC2E9E8",
-    "permalink": "https://www.instagram.com/p/CZzRA5Jjg1F/",
-    "timestamp": "2022-02-10T15:00:16+0000",
-    "caption": "Always nice to be in this place, especially during sunset 🌆\n\nSwipe to see before/after▶️\n\n#lostplaces #lostplacesgermany #weimarerland #jena #sunset #verloreneorte #verfalleneorte #nachteule  #grafitti #lostintime  #nachtundtag #himmelundhölle #verlassengelassen #verlasseneortedeutschland",
-    "place": "Jena",
-    "crop_box": [
-      94,
-      182,
-      555,
-      542
-    ],
-    "question_image": "2026-09-30-question.jpg",
-    "question_story_id": "17900750316375829",
-    "question_published_at": "2026-09-30T12:26:12+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-09-30-reveal.jpg",
-    "reveal_story_id": "18463878856137606"
-  }
+  "stage": "question_prepared",
+  "date": "2026-10-01",
+  "round": 24,
+  "post_id": "18094779535309227",
+  "media_id": "17978509177939384",
+  "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/653581522_18100182151939384_1374675978017388531_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mJMWiLlSHGwQ7kNvwFicz-D&_nc_oc=AdocbE97GlQ7FdO2PnlsPfvLKKElrkOzNR9K1g0L0Cw3isKaEGlIQ0eCpn1WnPUCI_s&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=HoT-rRFTiXymw-R7TGzlwQ&_nc_tpa=Q5bMBQKvgUTl-EPNtq4_jRKNKbwTY1xcOBkRwlZAUN9ixqGFgIDsK2SJMZmwqtiWuq5ixmeEKrZTpj9c&oh=00_AQMO6ZgNhH5xy83iElpUKoX3itXw9OMuFNdCRRH-Y47c0w&oe=6AC44419",
+  "permalink": "https://www.instagram.com/p/Cn7NBEXjNhS/",
+  "timestamp": "2023-01-27T16:18:46+0000",
+  "caption": "Das zweit schönste am Skifahren ist das gemütliche einkehren in Almen und Berghütten\nDezember 2022\n\n#achensee #tirol #winterlandschaft #sonnenschein #einkehrenundgenießen",
+  "place": "Achensee, Tirol, Austria",
+  "crop_box": [
+    600,
+    774,
+    1425,
+    1419
+  ],
+  "question_image": "2026-10-01-question.jpg"
 }
