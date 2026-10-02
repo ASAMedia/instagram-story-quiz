@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-10-01",
-    "round": 24,
-    "post_id": "18094779535309227",
-    "media_id": "17978509177939384",
-    "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/653581522_18100182151939384_1374675978017388531_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mJMWiLlSHGwQ7kNvwFicz-D&_nc_oc=AdocbE97GlQ7FdO2PnlsPfvLKKElrkOzNR9K1g0L0Cw3isKaEGlIQ0eCpn1WnPUCI_s&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=HoT-rRFTiXymw-R7TGzlwQ&_nc_tpa=Q5bMBQKvgUTl-EPNtq4_jRKNKbwTY1xcOBkRwlZAUN9ixqGFgIDsK2SJMZmwqtiWuq5ixmeEKrZTpj9c&oh=00_AQMO6ZgNhH5xy83iElpUKoX3itXw9OMuFNdCRRH-Y47c0w&oe=6AC44419",
-    "permalink": "https://www.instagram.com/p/Cn7NBEXjNhS/",
-    "timestamp": "2023-01-27T16:18:46+0000",
-    "caption": "Das zweit schönste am Skifahren ist das gemütliche einkehren in Almen und Berghütten\nDezember 2022\n\n#achensee #tirol #winterlandschaft #sonnenschein #einkehrenundgenießen",
-    "place": "Achensee, Tirol, Austria",
-    "crop_box": [
-      600,
-      774,
-      1425,
-      1419
-    ],
-    "question_image": "2026-10-01-question.jpg",
-    "question_story_id": "18421051243157822",
-    "question_published_at": "2026-10-01T13:01:16+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-10-01-reveal.jpg",
-    "reveal_story_id": "18077752985397240"
-  }
+  "stage": "question_prepared",
+  "date": "2026-10-02",
+  "round": 25,
+  "post_id": "17954133346535986",
+  "media_id": "17909296784087579",
+  "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/650127402_18078934772087579_8959639020663733526_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=UAU5nj34clYQ7kNvwHcyNEj&_nc_oc=AdotoCoBD4BC1ruLMQsuavUSsq9y2zwilvRWJgfpqv-wgjzrjJ0MUSG3-eSTpy8G89Q&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=gc9JybW5KGs4DfrLFAwKuw&_nc_tpa=Q5bMBQIQ3ppfQWUsTKzgsjr7-1Zxci4L8Ztc2vHbqWyJpmLThuL1xVgMqLhZV-W6l2EP_7T-hMCcMquW&oh=00_AQPB73f_c7DC7z_mmWQXQCab12UlrCzDNPgYiRfeF0nAYw&oe=6AC58BD4",
+  "permalink": "https://www.instagram.com/p/CWBOqFJjsfh/",
+  "timestamp": "2021-11-08T15:03:28+0000",
+  "caption": "*\n\n#egapark #egaparkerfurt #buga2021 #erfurt #erfurtcity #gartengestaltung  #gartenideen #entspannung #unterwegsimgarten #sonnenschein #tiere #erdmännchen #erdmännchenliebe #süßetiere #flauschig #niedlich #erfurterzoo #throwback \n\n@buga2021 @egaparkerfurt @erfurt_erleben @zooberlin",
+  "place": "egapark",
+  "crop_box": [
+    529,
+    91,
+    1088,
+    528
+  ],
+  "question_image": "2026-10-02-question.jpg"
 }
