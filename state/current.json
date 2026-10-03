@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-10-02",
-    "round": 25,
-    "post_id": "17954133346535986",
-    "media_id": "17909296784087579",
-    "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/650127402_18078934772087579_8959639020663733526_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=UAU5nj34clYQ7kNvwHcyNEj&_nc_oc=AdotoCoBD4BC1ruLMQsuavUSsq9y2zwilvRWJgfpqv-wgjzrjJ0MUSG3-eSTpy8G89Q&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=gc9JybW5KGs4DfrLFAwKuw&_nc_tpa=Q5bMBQIQ3ppfQWUsTKzgsjr7-1Zxci4L8Ztc2vHbqWyJpmLThuL1xVgMqLhZV-W6l2EP_7T-hMCcMquW&oh=00_AQPB73f_c7DC7z_mmWQXQCab12UlrCzDNPgYiRfeF0nAYw&oe=6AC58BD4",
-    "permalink": "https://www.instagram.com/p/CWBOqFJjsfh/",
-    "timestamp": "2021-11-08T15:03:28+0000",
-    "caption": "*\n\n#egapark #egaparkerfurt #buga2021 #erfurt #erfurtcity #gartengestaltung  #gartenideen #entspannung #unterwegsimgarten #sonnenschein #tiere #erdmännchen #erdmännchenliebe #süßetiere #flauschig #niedlich #erfurterzoo #throwback \n\n@buga2021 @egaparkerfurt @erfurt_erleben @zooberlin",
-    "place": "egapark",
-    "crop_box": [
-      529,
-      91,
-      1088,
-      528
-    ],
-    "question_image": "2026-10-02-question.jpg",
-    "question_story_id": "17933863080399258",
-    "question_published_at": "2026-10-02T12:22:55+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-10-02-reveal.jpg",
-    "reveal_story_id": "18185173354421874"
-  }
+  "stage": "question_prepared",
+  "date": "2026-10-03",
+  "round": 26,
+  "post_id": "17896939256368567",
+  "media_id": "17896939256368567",
+  "media_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/622765539_18076345877368567_7310921177951008767_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Rdmc71KfwxwQ7kNvwHiEmqC&_nc_oc=Adqj5HawpEBO5EDT3BB5vlZ9MnxY_dAuC14d1FJE4wC5leLa0AJXnqBFUkGwiG7iYtc&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sTJikfSV9G5fvH1oN5kvJw&_nc_tpa=Q5bMBQLEMZomoniqulhUtWuLjW_7yLIThYFnf1TnXnnqovowty37wWeNrgCwHLlMyBctVlZvisUjX5e2&oh=00_AQPlv-yc1nr9kXOpF1Dz4j56M59XPr0PA5Y9zQAKfx_j_w&oe=6AC6C690",
+  "permalink": "https://www.instagram.com/p/CVKnOBqDVYL/",
+  "timestamp": "2021-10-18T09:59:51+0000",
+  "caption": "*\n#pfaffenhofen #telfs #oetztal #gurgltal #inntal #brunschkopf  #österreichurlaub #wandernmachtglücklich #tirol #almen #wanderlust #bergsteigen #seefeld #alpen  #outdoorphotography #bewölkt #berglandschaft  #seefeldintirol #bergmassiv  #dronephotography #djimavicair2  #naturerleben #wanderweg #bergp",
+  "place": "Mösern, Tirol, Austria",
+  "crop_box": [
+    658,
+    280,
+    1152,
+    666
+  ],
+  "question_image": "2026-10-03-question.jpg"
 }
