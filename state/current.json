@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-10-04",
-  "round": 27,
-  "post_id": "17980324715212207",
-  "media_id": "18006899488785972",
-  "media_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/655220800_18098748415785972_6912404550364864882_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=DZTvU8jAqI4Q7kNvwG58NkK&_nc_oc=Adp_LW79Gq2uB88hoPKkMLWx8xIJncdedc67v2VvYJx-YEW4ljjrtalL_tRZV-j5ViI&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ygMbV83GfV1ZywHsQa7t4Q&_nc_tpa=Q5bMBQI6xfCNQyKonBANAZiSsDClnCIA92n-5vTdZA0e2KtVIlMBNUllxP6JCCdzVxy1cFUuFtZrkol5&oh=00_AQPrMmjPXBlZttTmV7OSYlH4A62rJ74E0baqLhc_vQzQiA&oe=6AC81B6D",
-  "permalink": "https://www.instagram.com/p/CwVVhSlMT2M/",
-  "timestamp": "2023-08-24T16:04:29+0000",
-  "caption": "2023-07-12 Vysehrad zum Loreto über Karlsbrücke zu den Kaisergärten",
-  "place": "Prag",
-  "crop_box": [
-    481,
-    50,
-    974,
-    435
-  ],
-  "question_image": "2026-10-04-question.jpg",
-  "question_story_id": "17923411719436561",
-  "question_published_at": "2026-10-04T12:14:05+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-10-04-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-10-04",
+    "round": 27,
+    "post_id": "17980324715212207",
+    "media_id": "18006899488785972",
+    "media_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/655220800_18098748415785972_6912404550364864882_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=DZTvU8jAqI4Q7kNvwG58NkK&_nc_oc=Adp_LW79Gq2uB88hoPKkMLWx8xIJncdedc67v2VvYJx-YEW4ljjrtalL_tRZV-j5ViI&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ygMbV83GfV1ZywHsQa7t4Q&_nc_tpa=Q5bMBQI6xfCNQyKonBANAZiSsDClnCIA92n-5vTdZA0e2KtVIlMBNUllxP6JCCdzVxy1cFUuFtZrkol5&oh=00_AQPrMmjPXBlZttTmV7OSYlH4A62rJ74E0baqLhc_vQzQiA&oe=6AC81B6D",
+    "permalink": "https://www.instagram.com/p/CwVVhSlMT2M/",
+    "timestamp": "2023-08-24T16:04:29+0000",
+    "caption": "2023-07-12 Vysehrad zum Loreto über Karlsbrücke zu den Kaisergärten",
+    "place": "Prag",
+    "crop_box": [
+      481,
+      50,
+      974,
+      435
+    ],
+    "question_image": "2026-10-04-question.jpg",
+    "question_story_id": "17923411719436561",
+    "question_published_at": "2026-10-04T12:14:05+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-10-04-reveal.jpg",
+    "reveal_story_id": "18090288146670685"
+  }
 }
