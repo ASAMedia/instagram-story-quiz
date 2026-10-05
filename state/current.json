@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-10-04",
-    "round": 27,
-    "post_id": "17980324715212207",
-    "media_id": "18006899488785972",
-    "media_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/655220800_18098748415785972_6912404550364864882_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=DZTvU8jAqI4Q7kNvwG58NkK&_nc_oc=Adp_LW79Gq2uB88hoPKkMLWx8xIJncdedc67v2VvYJx-YEW4ljjrtalL_tRZV-j5ViI&_nc_zt=23&_nc_ht=scontent-lga3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ygMbV83GfV1ZywHsQa7t4Q&_nc_tpa=Q5bMBQI6xfCNQyKonBANAZiSsDClnCIA92n-5vTdZA0e2KtVIlMBNUllxP6JCCdzVxy1cFUuFtZrkol5&oh=00_AQPrMmjPXBlZttTmV7OSYlH4A62rJ74E0baqLhc_vQzQiA&oe=6AC81B6D",
-    "permalink": "https://www.instagram.com/p/CwVVhSlMT2M/",
-    "timestamp": "2023-08-24T16:04:29+0000",
-    "caption": "2023-07-12 Vysehrad zum Loreto über Karlsbrücke zu den Kaisergärten",
-    "place": "Prag",
-    "crop_box": [
-      481,
-      50,
-      974,
-      435
-    ],
-    "question_image": "2026-10-04-question.jpg",
-    "question_story_id": "17923411719436561",
-    "question_published_at": "2026-10-04T12:14:05+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-10-04-reveal.jpg",
-    "reveal_story_id": "18090288146670685"
-  }
+  "stage": "question_prepared",
+  "date": "2026-10-05",
+  "round": 28,
+  "post_id": "18005454779679153",
+  "media_id": "18024583124563002",
+  "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/655207371_18075252254563002_5633252181786464843_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=v0k_vi6cHuUQ7kNvwFQZIqY&_nc_oc=AdrNK1gzFk9oFNEe9eb6wXtOJZIMlzVqQN4hyzLyNiyT2Ayg91UeTM9jq_FD6k8dNeU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=w0kmk12IFXwtcZO3F_gCOQ&_nc_tpa=Q5bMBQJ9YimhNV9vyyyONnJvrufM5FGsPupwAVYf31rsFHDwW00xw4qvVDTDgXNsH-6DKjBerZcwulBC&oh=00_AQM4TUdnxY6qZi7yNi9wK9XKKlZcbmRgqo_pH7spiasKgw&oe=6AC97487",
+  "permalink": "https://www.instagram.com/p/DC4hyVet7mA/",
+  "timestamp": "2024-11-27T17:30:00+0000",
+  "caption": "Nördlich von Kopenhagen gelegenen ist das Jægersborg Dyrehave. Mit etwas Glück kann man hier die Rehe inkl. Rehböcke vor die Kamera bekommen. 🦌",
+  "place": "Jægersborg Dyrehave",
+  "crop_box": [
+    2,
+    303,
+    593,
+    765
+  ],
+  "question_image": "2026-10-05-question.jpg"
 }
