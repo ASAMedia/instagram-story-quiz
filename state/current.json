@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-10-06",
-    "round": 29,
-    "post_id": "18190118872126813",
-    "media_id": "18190118872126813",
-    "media_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/629349202_18408373633126813_6760736225345338372_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=UBvQtOOAnM4Q7kNvwHLIqwV&_nc_oc=AdqhAyLcpxqNR6_HcgorZQg5jKj2jlvlfpn6HOaY1_opRU8bh1wPJWU7IKlDEOM5UJk&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=RwgnavvIf0vnxjGrFqVM0g&_nc_tpa=Q5bMBQKiWS4TxR93-7fGt3sw3zWjmltFufDGl5QV-FzIehRXpyPVbY3njM7kmseJdBIJizIme1_YeSiR&oh=00_AQOR1RSp1Afff8678Xg24FHQma6DoJ4nrasBBMsX5R6OAA&oe=6ACABCA6",
-    "permalink": "https://www.instagram.com/p/CVhwI94D0kW/",
-    "timestamp": "2021-10-27T09:40:20+0000",
-    "caption": "*\n\n#weimar #nacht #stadtbeinacht #thühringen_entdecken #thueringen_entdecken #kulturstadt #handyfotografie #stadtschloss #geniusloci #lichtfest #weimarlove #langzeitbelichtung  #ilmparkweimar #kegelbrücke #ilm #rotlic #reflektion #wasserfluss #weimarbeinacht\n\n@weimar_erleben @genius_loci_weimar",
-    "place": "Weimar; Thüringen; Deutschland",
-    "crop_box": [
-      506,
-      656,
-      1029,
-      1065
-    ],
-    "question_image": "2026-10-06-question.jpg",
-    "question_story_id": "18115619906097144",
-    "question_published_at": "2026-10-06T13:13:10+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-10-06-reveal.jpg",
-    "reveal_story_id": "18270782776305317"
-  }
+  "stage": "question_prepared",
+  "date": "2026-10-07",
+  "round": 30,
+  "post_id": "18213633070160909",
+  "media_id": "18215215840163202",
+  "media_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/669363166_18370412512163202_2224129328763071382_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=nFULKuB-5rkQ7kNvwEUEodJ&_nc_oc=AdpBjgp8tndliNpY0EFY1H4VP1DT7RCwjd-nZByhcqxcT7JNvW7lvOPVuv-DvtOG5iY&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=KL1Tzvpq_c78LNogOxwFQg&_nc_tpa=Q5bMBQIZ5M1plDSkoJHPI2cB7jpj5x-4b7uPSMhCBXZBdzjlutnir4ixbfh-3jwzdcelDnzr0yr-x3pc&oh=00_AQN9T46BrjQxFFydyhwmoawlqCf3pFXA4Nu4MkwmKjJFPA&oe=6ACC257B",
+  "permalink": "https://www.instagram.com/p/CjqfzD_DdP9/",
+  "timestamp": "2022-10-13T18:30:13+0000",
+  "caption": "Auf der Hauptachse von der Promenade du Peyrou über den Place de la Comédiebis bis zur Antigone. \n27.08.2022\n\n#montpellier #montpelier #promenadedupeyrou #placedelacomdie #antigone #montpellier_photolovers #vivelafrance #sunnybeach #francetourisme #nicetourisme #beachday #mittelmeer #franceexplore #",
+  "place": "Montpellier",
+  "crop_box": [
+    649,
+    312,
+    1399,
+    898
+  ],
+  "question_image": "2026-10-07-question.jpg"
 }
