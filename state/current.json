@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-10-08",
-  "round": 31,
-  "post_id": "18227032258137066",
-  "media_id": "17971664941563026",
-  "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/652754950_18126309328563026_8565324159343753853_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=X8oFuDCyhoMQ7kNvwEKrHEr&_nc_oc=AdqRsNwmv-kTdvrE4vQIwuUGaJjCS8xuooC-ov2MVRo1A2SEpdeKvkKSz7fU4-LlfUc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=n8_ZlqYsDAhdzd0AVpsBXA&_nc_tpa=Q5bMBQJ-aEk_8DcMUZu_EqP6mHEE-sp4l_AG0Yyr1xum97a3L92_kRyL6n7ObN0Nc1e7eZ2g8_NhRYrB&oh=00_AQOfCpund-GpWNbJBq_PFyKblys_OlgeTYcsWblLVes1xA&oe=6ACD5D34",
-  "permalink": "https://www.instagram.com/p/CdGgG2vjN-5/",
-  "timestamp": "2022-05-03T15:51:54+0000",
-  "caption": "Blick Richtung Jena Zentrum vom Heiligenberg bei Zwätzen\n\n#jenaundumgebung #jenazwätzen #heiligenberg #jenauniversity #dronenfotografie #draussenunterwegs #jenaerleben #jenavonoben",
-  "place": "Jena",
-  "crop_box": [
-    744,
-    532,
-    1342,
-    1000
-  ],
-  "question_image": "2026-10-08-question.jpg",
-  "question_story_id": "18596395489064193",
-  "question_published_at": "2026-10-08T13:17:49+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-10-08-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-10-08",
+    "round": 31,
+    "post_id": "18227032258137066",
+    "media_id": "17971664941563026",
+    "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/652754950_18126309328563026_8565324159343753853_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=X8oFuDCyhoMQ7kNvwEKrHEr&_nc_oc=AdqRsNwmv-kTdvrE4vQIwuUGaJjCS8xuooC-ov2MVRo1A2SEpdeKvkKSz7fU4-LlfUc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=n8_ZlqYsDAhdzd0AVpsBXA&_nc_tpa=Q5bMBQJ-aEk_8DcMUZu_EqP6mHEE-sp4l_AG0Yyr1xum97a3L92_kRyL6n7ObN0Nc1e7eZ2g8_NhRYrB&oh=00_AQOfCpund-GpWNbJBq_PFyKblys_OlgeTYcsWblLVes1xA&oe=6ACD5D34",
+    "permalink": "https://www.instagram.com/p/CdGgG2vjN-5/",
+    "timestamp": "2022-05-03T15:51:54+0000",
+    "caption": "Blick Richtung Jena Zentrum vom Heiligenberg bei Zwätzen\n\n#jenaundumgebung #jenazwätzen #heiligenberg #jenauniversity #dronenfotografie #draussenunterwegs #jenaerleben #jenavonoben",
+    "place": "Jena",
+    "crop_box": [
+      744,
+      532,
+      1342,
+      1000
+    ],
+    "question_image": "2026-10-08-question.jpg",
+    "question_story_id": "18596395489064193",
+    "question_published_at": "2026-10-08T13:17:49+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-10-08-reveal.jpg",
+    "reveal_story_id": "18132957622680507"
+  }
 }
