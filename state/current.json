@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-10-09",
-    "round": 32,
-    "post_id": "17856940771146138",
-    "media_id": "17856940771146138",
-    "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/625895357_18389660944146138_2490628707940667404_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jMktFdbA-oUQ7kNvwHDAw9n&_nc_oc=AdoBRcMSA-63YqfMyP-1aXQFdzAtLmHE6_JLJ2ojri3PGF_bVJ4lQ57uvMeowGzYuK0&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=PhUfX6gGvVQuHX3jrBVvfQ&_nc_tpa=Q5bMBQKNLv27TM4IigaNXHb0DAdKQPxLX46XngVYd5MWU7j3SlyioXkAMRW3x1QqjtXNMiewXTagaGCK&oh=00_AQMjrGKBvOv4CHKgo3FAIzDFKNhKIiHCV9flOAoafpvmaA&oe=6ACEA598",
-    "permalink": "https://www.instagram.com/p/BT9hcSljVFm/",
-    "timestamp": "2017-05-11T17:58:38+0000",
-    "caption": "Full house on Sascha Grammels comedy show \"Ich finds lustig\". #saschagrammel #frederik #sparkassenarena #jena #ichfindslustig",
-    "place": "",
-    "crop_box": [
-      361,
-      325,
-      638,
-      541
-    ],
-    "question_image": "2026-10-09-question.jpg",
-    "question_story_id": "17928665313417291",
-    "question_published_at": "2026-10-09T13:06:11+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-10-09-reveal.jpg",
-    "reveal_story_id": "18116141893977118"
-  }
+  "stage": "question_prepared",
+  "date": "2026-10-10",
+  "round": 33,
+  "post_id": "17861521777077034",
+  "media_id": "17861521777077034",
+  "media_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/626091770_18506519896077034_4767263431556542503_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=9VZtZ1Cm7oUQ7kNvwHIkg1H&_nc_oc=AdpDggGrT0ft6oacQbWppqId6dFd97C1YaNHk7IPnphzncGaiYXOoinRvcaMPZ-uJhk&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=N84m7r4BRH--4Jow7KCTzQ&_nc_tpa=Q5bMBQIrBKvZTntgOevqL_2APa_wnw8Iie8JfFbQXsZ3LTNL5da_RBp3aM9K-2dXSnuiGDKilEwfZm0D&oh=00_AQOgzzLwwT5f2r536DW1pO-CZoXAEWL-yYDolwIeNEE5Zg&oe=6AD01B13",
+  "permalink": "https://www.instagram.com/p/BPn40nDj8LX/",
+  "timestamp": "2017-01-23T22:14:03+0000",
+  "caption": "Beautiful sunset",
+  "place": "",
+  "crop_box": [
+    522,
+    441,
+    1077,
+    875
+  ],
+  "question_image": "2026-10-10-question.jpg"
 }
