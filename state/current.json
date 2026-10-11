@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-10-11",
-  "round": 34,
-  "post_id": "17860489323180163",
-  "media_id": "18005295428336481",
-  "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/653677524_18064801064336481_9143387059199156421_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=XrvquOdYv6gQ7kNvwFXHyv1&_nc_oc=AdrWAOj3SnL6O31_kEScJyZqSjFSMmMR5OOH5cFwrbaMpXaqHpvFbUy70RnHyWqxftM&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=KtYBMUJAQQ6EJXV4vj-VyQ&_nc_tpa=Q5bMBQJsRVfQKq_EhwCvt0Ue_zvpwqzgl34C8ArxGUN4C6Wg3oIOvmaWl6eDqo9gM92R_WamlzMkn9HK&oh=00_AQMfxzHtljt1j69I7vHR2-lLtHSBcQVdHJYRo5iewOTjfg&oe=6AD14EB8",
-  "permalink": "https://www.instagram.com/p/C8u1WH7Mwhe/",
-  "timestamp": "2024-06-27T20:00:19+0000",
-  "caption": "Letzter Tag im Zentrum der EU Politik.",
-  "place": "EU Parliament Brussel",
-  "crop_box": [
-    701,
-    915,
-    1241,
-    1337
-  ],
-  "question_image": "2026-10-11-question.jpg",
-  "question_story_id": "18078459896735509",
-  "question_published_at": "2026-10-11T12:38:06+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-10-11-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-10-11",
+    "round": 34,
+    "post_id": "17860489323180163",
+    "media_id": "18005295428336481",
+    "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/653677524_18064801064336481_9143387059199156421_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=XrvquOdYv6gQ7kNvwFXHyv1&_nc_oc=AdrWAOj3SnL6O31_kEScJyZqSjFSMmMR5OOH5cFwrbaMpXaqHpvFbUy70RnHyWqxftM&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=KtYBMUJAQQ6EJXV4vj-VyQ&_nc_tpa=Q5bMBQJsRVfQKq_EhwCvt0Ue_zvpwqzgl34C8ArxGUN4C6Wg3oIOvmaWl6eDqo9gM92R_WamlzMkn9HK&oh=00_AQMfxzHtljt1j69I7vHR2-lLtHSBcQVdHJYRo5iewOTjfg&oe=6AD14EB8",
+    "permalink": "https://www.instagram.com/p/C8u1WH7Mwhe/",
+    "timestamp": "2024-06-27T20:00:19+0000",
+    "caption": "Letzter Tag im Zentrum der EU Politik.",
+    "place": "EU Parliament Brussel",
+    "crop_box": [
+      701,
+      915,
+      1241,
+      1337
+    ],
+    "question_image": "2026-10-11-question.jpg",
+    "question_story_id": "18078459896735509",
+    "question_published_at": "2026-10-11T12:38:06+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-10-11-reveal.jpg",
+    "reveal_story_id": "18155828152455669"
+  }
 }
