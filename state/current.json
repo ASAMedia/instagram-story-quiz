@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-10-12",
-  "round": 35,
-  "post_id": "17937899533817971",
-  "media_id": "17931114461068920",
-  "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/651495004_18097103009068920_2639376315927044353_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2mfb03drA7AQ7kNvwHGqkt1&_nc_oc=Ado8c24025QyMGaAis-RIAbKPzssiQRB_NhPunRxagesTVlJjxbgAGPPKehu96tttl8&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=pjKXvFmVqFt8TKkOO416gA&_nc_tpa=Q5bMBQIvsKDP52kb_yWW0sCWsEE54BKuWKq1llYw1n8NzRT3g36NpX7qp34dZ33NFuk2cAsi_vL7Y_bV&oh=00_AQOvtODdxRV-1yl9fugY0XsA1apGBycWa0xz7Z5agmoLHg&oe=6AD2D241",
-  "permalink": "https://www.instagram.com/p/CaIFNd6DFxY/",
-  "timestamp": "2022-02-18T17:01:10+0000",
-  "caption": "Even stable buildings decay but you could still try to renew them. \n\nSwipe to see before/after👉\n\n#weimarundumgebung #weimar #naturefightsback #lostplaces #lostplacesgermany #weimarerland  #verloreneorte #verfalleneorte  #lostintime  #nachtundtag #himmelundhölle #verlassengelassen #verlasseneortedeut",
-  "place": "Weimar",
-  "crop_box": [
-    121,
-    587,
-    689,
-    1031
-  ],
-  "question_image": "2026-10-12-question.jpg",
-  "question_story_id": "18118926401056282",
-  "question_published_at": "2026-10-12T15:11:58+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-10-12-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-10-12",
+    "round": 35,
+    "post_id": "17937899533817971",
+    "media_id": "17931114461068920",
+    "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/651495004_18097103009068920_2639376315927044353_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2mfb03drA7AQ7kNvwHGqkt1&_nc_oc=Ado8c24025QyMGaAis-RIAbKPzssiQRB_NhPunRxagesTVlJjxbgAGPPKehu96tttl8&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=pjKXvFmVqFt8TKkOO416gA&_nc_tpa=Q5bMBQIvsKDP52kb_yWW0sCWsEE54BKuWKq1llYw1n8NzRT3g36NpX7qp34dZ33NFuk2cAsi_vL7Y_bV&oh=00_AQOvtODdxRV-1yl9fugY0XsA1apGBycWa0xz7Z5agmoLHg&oe=6AD2D241",
+    "permalink": "https://www.instagram.com/p/CaIFNd6DFxY/",
+    "timestamp": "2022-02-18T17:01:10+0000",
+    "caption": "Even stable buildings decay but you could still try to renew them. \n\nSwipe to see before/after👉\n\n#weimarundumgebung #weimar #naturefightsback #lostplaces #lostplacesgermany #weimarerland  #verloreneorte #verfalleneorte  #lostintime  #nachtundtag #himmelundhölle #verlassengelassen #verlasseneortedeut",
+    "place": "Weimar",
+    "crop_box": [
+      121,
+      587,
+      689,
+      1031
+    ],
+    "question_image": "2026-10-12-question.jpg",
+    "question_story_id": "18118926401056282",
+    "question_published_at": "2026-10-12T15:11:58+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-10-12-reveal.jpg",
+    "reveal_story_id": "18146097868571301"
+  }
 }
