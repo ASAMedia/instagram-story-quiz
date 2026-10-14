@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-10-14",
-  "round": 37,
-  "post_id": "17879350312029725",
-  "media_id": "17879350312029725",
-  "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/640127937_18570136939029725_4432605974958457188_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mKHSiEPoAmAQ7kNvwHHal-I&_nc_oc=Adq6MXXUfXZn2rUm8ywGZVbbGYi0E20mkfF1z4unhVKcRd4ruONoPosI6BMwV10t3dM&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=zngllTppZxqTA0kfqfRuvA&_nc_tpa=Q5bMBQLoy7reeW3tP1MHzYuYDqXdiDYZyYAovYaqgyw7bnAn6N4MB29bS7jKBWCFKf_hmnVcHjXiJGFV&oh=00_AQOpv0AYD0W5P6tjiUbb9nBaVrVuoY52r9vd-sytZX-FOg&oe=6AD533C7",
-  "permalink": "https://www.instagram.com/p/BTMVltHjHMe/",
-  "timestamp": "2017-04-22T15:32:16+0000",
-  "caption": "\"Every mountain top is within reach if you just keep climbing.\"\nBarry Finlay\n#südtirol #alpes #altoadige #naturns #hiking",
-  "place": "",
-  "crop_box": [
-    254,
-    332,
-    836,
-    787
-  ],
-  "question_image": "2026-10-14-question.jpg",
-  "question_story_id": "18114508535167532",
-  "question_published_at": "2026-10-14T11:40:48+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-10-14-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-10-14",
+    "round": 37,
+    "post_id": "17879350312029725",
+    "media_id": "17879350312029725",
+    "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/640127937_18570136939029725_4432605974958457188_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mKHSiEPoAmAQ7kNvwHHal-I&_nc_oc=Adq6MXXUfXZn2rUm8ywGZVbbGYi0E20mkfF1z4unhVKcRd4ruONoPosI6BMwV10t3dM&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=zngllTppZxqTA0kfqfRuvA&_nc_tpa=Q5bMBQLoy7reeW3tP1MHzYuYDqXdiDYZyYAovYaqgyw7bnAn6N4MB29bS7jKBWCFKf_hmnVcHjXiJGFV&oh=00_AQOpv0AYD0W5P6tjiUbb9nBaVrVuoY52r9vd-sytZX-FOg&oe=6AD533C7",
+    "permalink": "https://www.instagram.com/p/BTMVltHjHMe/",
+    "timestamp": "2017-04-22T15:32:16+0000",
+    "caption": "\"Every mountain top is within reach if you just keep climbing.\"\nBarry Finlay\n#südtirol #alpes #altoadige #naturns #hiking",
+    "place": "",
+    "crop_box": [
+      254,
+      332,
+      836,
+      787
+    ],
+    "question_image": "2026-10-14-question.jpg",
+    "question_story_id": "18114508535167532",
+    "question_published_at": "2026-10-14T11:40:48+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-10-14-reveal.jpg",
+    "reveal_story_id": "18145236586595733"
+  }
 }
