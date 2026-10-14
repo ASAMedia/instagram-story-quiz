@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-10-13",
-    "round": 36,
-    "post_id": "17843732110206242",
-    "media_id": "17843732110206242",
-    "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/619459788_18357990250206242_8097489116775595457_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=4EuEqr6GnZQQ7kNvwFcItzp&_nc_oc=Adrw4DccCYjmYOCA_ZDStuLyIozXI89REX348KQeQvoq0KuHh11rPEMeblpthCJNLmk&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=YtGaO-qlPAMy0TcXCsOsPw&_nc_tpa=Q5bMBQI_VwCFP3wiDhUaRp1OO-1Onwbv3YwYVwBosFleiVrPWqUAtrqSHDW4zEk_Zf4EdmPrsCOvG1aP&oh=00_AQMhvGku6T-jZncCySJBqNDhGSEVZkdXQSQIfgzEiB2r_Q&oe=6AD425D7",
-    "permalink": "https://www.instagram.com/p/BZ1uGWBDBPK/",
-    "timestamp": "2017-10-04T20:23:40+0000",
-    "caption": "\"The greatness of a nation and its moral progress can be judged by the way its animals are treated.\"\n~Mahatma Gandhi\n\n#squirrel #park #stjamespark #london #panasonic #lumixg70 #ultrahd #uhd",
-    "place": "St. James’s Park",
-    "crop_box": [
-      390,
-      468,
-      833,
-      814
-    ],
-    "question_image": "2026-10-13-question.jpg",
-    "question_story_id": "17871033510643034",
-    "question_published_at": "2026-10-13T14:03:29+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-10-13-reveal.jpg",
-    "reveal_story_id": "18106675820264021"
-  }
+  "stage": "question_prepared",
+  "date": "2026-10-14",
+  "round": 37,
+  "post_id": "17879350312029725",
+  "media_id": "17879350312029725",
+  "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/640127937_18570136939029725_4432605974958457188_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mKHSiEPoAmAQ7kNvwHHal-I&_nc_oc=Adq6MXXUfXZn2rUm8ywGZVbbGYi0E20mkfF1z4unhVKcRd4ruONoPosI6BMwV10t3dM&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=zngllTppZxqTA0kfqfRuvA&_nc_tpa=Q5bMBQLoy7reeW3tP1MHzYuYDqXdiDYZyYAovYaqgyw7bnAn6N4MB29bS7jKBWCFKf_hmnVcHjXiJGFV&oh=00_AQOpv0AYD0W5P6tjiUbb9nBaVrVuoY52r9vd-sytZX-FOg&oe=6AD533C7",
+  "permalink": "https://www.instagram.com/p/BTMVltHjHMe/",
+  "timestamp": "2017-04-22T15:32:16+0000",
+  "caption": "\"Every mountain top is within reach if you just keep climbing.\"\nBarry Finlay\n#südtirol #alpes #altoadige #naturns #hiking",
+  "place": "",
+  "crop_box": [
+    254,
+    332,
+    836,
+    787
+  ],
+  "question_image": "2026-10-14-question.jpg"
 }
