@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-10-15",
-    "round": 38,
-    "post_id": "17881295750781698",
-    "media_id": "17967716938921742",
-    "media_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/653570707_18089624143921742_5462178530036801691_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=aC8-4LQ6wQcQ7kNvwGHVX7L&_nc_oc=AdqnDnrYND_y69YihFOksxFIEou2IxznQm2oSa-cLzapjqx_LcVEiODIJBRus5zgEWw&_nc_zt=23&_nc_ht=scontent-dfw5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=exh3m3Z_la_WV32_ObFHLg&_nc_tpa=Q5bMBQLZVk8E1VL6ijt9zVuNXy-qi7ZKIEhdy6K2tMDfIGyBkRvnwQWHPt9LpfCbdAOxoa09cZl8xX6Y&oh=00_AQPSHk5b0e_kdMBM6EB8gYE_gjjXIeLZrvAkjLDl-mgG0g&oe=6AD67B6C",
-    "permalink": "https://www.instagram.com/p/CmWvDZmjv3e/",
-    "timestamp": "2022-12-19T15:52:54+0000",
-    "caption": "Langweilig kann jeder\nOktober 2022\n\n#portraitphotography #fotographieanfänger #langweiligkannjeder",
-    "place": "Italien",
-    "crop_box": [
-      118,
-      167,
-      819,
-      715
-    ],
-    "question_image": "2026-10-15-question.jpg",
-    "question_story_id": "17937443289125896",
-    "question_published_at": "2026-10-15T11:18:35+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-10-15-reveal.jpg",
-    "reveal_story_id": "18096592514124591"
-  }
+  "stage": "question_prepared",
+  "date": "2026-10-16",
+  "round": 39,
+  "post_id": "18187842880171451",
+  "media_id": "17966991208835913",
+  "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/653975202_18109386406835913_8126490063284572579_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=1di3RSVncIQQ7kNvwENafhP&_nc_oc=AdrYJHBDFKT7BvEyBUPy9Q7Y7_QwEf1iWbrVdaCa_rzbb-aos-qGhJRFpcFhsnVDB7g&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=PWwx-q64sSrPMwWJQ9nNDA&_nc_tpa=Q5bMBQKHpV8mx0fUQvCK20JFCNvuC7nJAE6walKju-jTFHBoHv_D0vQXNcBA8R1OYMehFsuWV2-2eAcF&oh=00_AQNKDh9Hrbgk4Vwt-WgKnbrCb7vpcXoA3ybNij-37S7QYA&oe=6AD7C96E",
+  "permalink": "https://www.instagram.com/p/ChhRveXDtFZ/",
+  "timestamp": "2022-08-21T11:31:27+0000",
+  "caption": "440 rooms, 74 staircases, over 1,000 fireplaces: the Royal Hunting Chateau of Chambord near the town of Blois is the largest of all the chateaux in the Loire region.\n\n#chateaudechambord #chambord #chambordcastle #france #palace #skiesareblue #unterwegsinfrankreich #lovefrance",
+  "place": "Château de Chambord",
+  "crop_box": [
+    512,
+    211,
+    1003,
+    595
+  ],
+  "question_image": "2026-10-16-question.jpg"
 }
