@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-10-16",
-  "round": 39,
-  "post_id": "18187842880171451",
-  "media_id": "17966991208835913",
-  "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/653975202_18109386406835913_8126490063284572579_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=1di3RSVncIQQ7kNvwENafhP&_nc_oc=AdrYJHBDFKT7BvEyBUPy9Q7Y7_QwEf1iWbrVdaCa_rzbb-aos-qGhJRFpcFhsnVDB7g&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=PWwx-q64sSrPMwWJQ9nNDA&_nc_tpa=Q5bMBQKHpV8mx0fUQvCK20JFCNvuC7nJAE6walKju-jTFHBoHv_D0vQXNcBA8R1OYMehFsuWV2-2eAcF&oh=00_AQNKDh9Hrbgk4Vwt-WgKnbrCb7vpcXoA3ybNij-37S7QYA&oe=6AD7C96E",
-  "permalink": "https://www.instagram.com/p/ChhRveXDtFZ/",
-  "timestamp": "2022-08-21T11:31:27+0000",
-  "caption": "440 rooms, 74 staircases, over 1,000 fireplaces: the Royal Hunting Chateau of Chambord near the town of Blois is the largest of all the chateaux in the Loire region.\n\n#chateaudechambord #chambord #chambordcastle #france #palace #skiesareblue #unterwegsinfrankreich #lovefrance",
-  "place": "Château de Chambord",
-  "crop_box": [
-    512,
-    211,
-    1003,
-    595
-  ],
-  "question_image": "2026-10-16-question.jpg",
-  "question_story_id": "18419886061153240",
-  "question_published_at": "2026-10-16T11:13:17+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-10-16-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-10-16",
+    "round": 39,
+    "post_id": "18187842880171451",
+    "media_id": "17966991208835913",
+    "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/653975202_18109386406835913_8126490063284572579_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=1di3RSVncIQQ7kNvwENafhP&_nc_oc=AdrYJHBDFKT7BvEyBUPy9Q7Y7_QwEf1iWbrVdaCa_rzbb-aos-qGhJRFpcFhsnVDB7g&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=PWwx-q64sSrPMwWJQ9nNDA&_nc_tpa=Q5bMBQKHpV8mx0fUQvCK20JFCNvuC7nJAE6walKju-jTFHBoHv_D0vQXNcBA8R1OYMehFsuWV2-2eAcF&oh=00_AQNKDh9Hrbgk4Vwt-WgKnbrCb7vpcXoA3ybNij-37S7QYA&oe=6AD7C96E",
+    "permalink": "https://www.instagram.com/p/ChhRveXDtFZ/",
+    "timestamp": "2022-08-21T11:31:27+0000",
+    "caption": "440 rooms, 74 staircases, over 1,000 fireplaces: the Royal Hunting Chateau of Chambord near the town of Blois is the largest of all the chateaux in the Loire region.\n\n#chateaudechambord #chambord #chambordcastle #france #palace #skiesareblue #unterwegsinfrankreich #lovefrance",
+    "place": "Château de Chambord",
+    "crop_box": [
+      512,
+      211,
+      1003,
+      595
+    ],
+    "question_image": "2026-10-16-question.jpg",
+    "question_story_id": "18419886061153240",
+    "question_published_at": "2026-10-16T11:13:17+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-10-16-reveal.jpg",
+    "reveal_story_id": "18117024313793009"
+  }
 }
