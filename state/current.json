@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-10-17",
-  "round": 40,
-  "post_id": "17864825047114042",
-  "media_id": "17864825047114042",
-  "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/624931927_18432424633114042_8918825906858975335_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=cZ7lK3ZMEkEQ7kNvwGkkJ1J&_nc_oc=AdruI0KiULfy_hQNNKhsM3tECU4m_tzSnRnoldpDCp98FTTd5ErPcqgbvBBR7JCoZPA&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Y2fs7WHab4VM4MvIb6byjg&_nc_tpa=Q5bMBQLLEAufpdibAKn-D6eRAdIpvish8tFBza4UJh_siRytX9y-CxjD3ySonFW3vsc6wOm6ROYF4rO5&oh=00_AQNmqFdXBdoiJtumZjGMEi3vuOEWSTN0OTUAVgn0WgHdOg&oe=6AD9210A",
-  "permalink": "https://www.instagram.com/p/BSJhbMqD9x9/",
-  "timestamp": "2017-03-27T16:46:35+0000",
-  "caption": "Already preparing for Easter Sunday. \n#easter #eastereggs",
-  "place": "",
-  "crop_box": [
-    314,
-    472,
-    927,
-    951
-  ],
-  "question_image": "2026-10-17-question.jpg",
-  "question_story_id": "18072044414740413",
-  "question_published_at": "2026-10-17T10:32:31+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-10-17-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-10-17",
+    "round": 40,
+    "post_id": "17864825047114042",
+    "media_id": "17864825047114042",
+    "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/624931927_18432424633114042_8918825906858975335_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=cZ7lK3ZMEkEQ7kNvwGkkJ1J&_nc_oc=AdruI0KiULfy_hQNNKhsM3tECU4m_tzSnRnoldpDCp98FTTd5ErPcqgbvBBR7JCoZPA&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Y2fs7WHab4VM4MvIb6byjg&_nc_tpa=Q5bMBQLLEAufpdibAKn-D6eRAdIpvish8tFBza4UJh_siRytX9y-CxjD3ySonFW3vsc6wOm6ROYF4rO5&oh=00_AQNmqFdXBdoiJtumZjGMEi3vuOEWSTN0OTUAVgn0WgHdOg&oe=6AD9210A",
+    "permalink": "https://www.instagram.com/p/BSJhbMqD9x9/",
+    "timestamp": "2017-03-27T16:46:35+0000",
+    "caption": "Already preparing for Easter Sunday. \n#easter #eastereggs",
+    "place": "",
+    "crop_box": [
+      314,
+      472,
+      927,
+      951
+    ],
+    "question_image": "2026-10-17-question.jpg",
+    "question_story_id": "18072044414740413",
+    "question_published_at": "2026-10-17T10:32:31+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-10-17-reveal.jpg",
+    "reveal_story_id": "18116652898995252"
+  }
 }
