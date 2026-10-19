@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-10-18",
-    "round": 41,
-    "post_id": "17896101155470144",
-    "media_id": "17896101155470144",
-    "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/618672243_18086703881470144_7969340205838010184_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ZE3Nul4Y-_AQ7kNvwEb4sGt&_nc_oc=AdqwhMs6OlcOW1F_ALVL1uXLkQN3TEOzh6-DpSyL52xu2XyavYh97XZLntkA7z3Ib5U&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=w1JynjvdnwPZa_DG67RKtg&_nc_tpa=Q5bMBQIzj4gPshQEmZlI-S9DKWdx0bKKp_EsIwxPESghgMCPNTVpTsgNTiZern2tydqxnKst1RbRxCVX&oh=00_AQPoxR5ApvV7P-D40qqylAAZBWIa3FVD70tCQKFyN9QSDw&oe=6ADA5F89",
-    "permalink": "https://www.instagram.com/p/CVFP4xXBj2S/",
-    "timestamp": "2021-10-16T07:59:46+0000",
-    "caption": "*\n\n#innsbruck #innsbruckaustria #innsbrucktourism #innsbruckaltstadt #innsbruckstadtturm #ottoburg #österreichurlaub #österreich🇦🇹 #inn #stadtrundgang #stadtturm #stadtfotografie #farbenfroh #tirolerland\n\n@innsbruck_tirol.at\n@restaurant_ottoburg @altstadt.innsbruck @rike.sag",
-    "place": "Ottoburg",
-    "crop_box": [
-      607,
-      252,
-      1098,
-      636
-    ],
-    "question_image": "2026-10-18-question.jpg",
-    "question_story_id": "18035523371846525",
-    "question_published_at": "2026-10-18T10:53:07+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-10-18-reveal.jpg",
-    "reveal_story_id": "18170899402479437"
-  }
+  "stage": "question_prepared",
+  "date": "2026-10-19",
+  "round": 42,
+  "post_id": "17941113793658416",
+  "media_id": "17941113793658416",
+  "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/624731268_18109311775658416_5940102825200270278_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jbevYFXDJ-wQ7kNvwF5CUl3&_nc_oc=AdqUxhJ75fgNHA_8ocv9FyV2ePLVTdAiNKysv6Qg2jbHvzC4AWSUL2RQnlQklsu4-vw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=GiSSnhcgHTERVTE0ev_M3g&_nc_tpa=Q5bMBQKdl4YQ7bjoqOLU0H-ezajmAPeFZndjgjdG2ajoHbnrjjCM_0BPGzc2-oSNzy10M6kQGGUE0_cS&oh=00_AQPfQWQjVISAC86As75n3f8pQCuaVAkLl7eFXnW69ISd1A&oe=6ADBFA18",
+  "permalink": "https://www.instagram.com/p/CWbMAAxjwmk/",
+  "timestamp": "2021-11-18T17:00:30+0000",
+  "caption": "*\n#fernsehturmberlin\n#berlintagundnacht #berlinbeinacht #lowlight #unterwegsinberlin #berlin🇩🇪 #berlinerleben #fernsehturm #berlinbrandenburg #xiaomimi8 #smartphonephotography #handyfotografie #deutschland_greatshots #unterwegsindeutschland  #aufdersuche\n\n@berlin.erleben @berlin @berliner_fernsehtur",
+  "place": "Berliner Fernsehturm",
+  "crop_box": [
+    530,
+    1289,
+    1093,
+    1729
+  ],
+  "question_image": "2026-10-19-question.jpg"
 }
