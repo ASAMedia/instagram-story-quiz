@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-10-19",
-    "round": 42,
-    "post_id": "17941113793658416",
-    "media_id": "17941113793658416",
-    "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/624731268_18109311775658416_5940102825200270278_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=jbevYFXDJ-wQ7kNvwF5CUl3&_nc_oc=AdqUxhJ75fgNHA_8ocv9FyV2ePLVTdAiNKysv6Qg2jbHvzC4AWSUL2RQnlQklsu4-vw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=GiSSnhcgHTERVTE0ev_M3g&_nc_tpa=Q5bMBQKdl4YQ7bjoqOLU0H-ezajmAPeFZndjgjdG2ajoHbnrjjCM_0BPGzc2-oSNzy10M6kQGGUE0_cS&oh=00_AQPfQWQjVISAC86As75n3f8pQCuaVAkLl7eFXnW69ISd1A&oe=6ADBFA18",
-    "permalink": "https://www.instagram.com/p/CWbMAAxjwmk/",
-    "timestamp": "2021-11-18T17:00:30+0000",
-    "caption": "*\n#fernsehturmberlin\n#berlintagundnacht #berlinbeinacht #lowlight #unterwegsinberlin #berlin🇩🇪 #berlinerleben #fernsehturm #berlinbrandenburg #xiaomimi8 #smartphonephotography #handyfotografie #deutschland_greatshots #unterwegsindeutschland  #aufdersuche\n\n@berlin.erleben @berlin @berliner_fernsehtur",
-    "place": "Berliner Fernsehturm",
-    "crop_box": [
-      530,
-      1289,
-      1093,
-      1729
-    ],
-    "question_image": "2026-10-19-question.jpg",
-    "question_story_id": "18093379043178537",
-    "question_published_at": "2026-10-19T12:55:18+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-10-19-reveal.jpg",
-    "reveal_story_id": "18109468805234796"
-  }
+  "stage": "question_prepared",
+  "date": "2026-10-20",
+  "round": 43,
+  "post_id": "17927309113093183",
+  "media_id": "17927309113093183",
+  "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/626555377_18377119102093183_756396486881963787_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=gymhYn4JXfwQ7kNvwHXBwQL&_nc_oc=Adr8D8Abr-B_vmWgtGlHShknhIQpuou2qJsDW2Iy0SvVxLsJXtnxep7BJiWPV907isc&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=kd7cpr6rOrj1kvBV9pBxPg&_nc_tpa=Q5bMBQKnTh_xA5HpLJnreJ021LY0scWMWXTN8uF5EaMVXFEC3ehP4EaPHkNzsXA-5uUOpD_KiiPepjm_&oh=00_AQO0xyhm9uEIjNMbUYwXwhFX2p5eiuMOgcVZb0VSO0_Wng&oe=6ADD1A44",
+  "permalink": "https://www.instagram.com/p/BjExJzBDgQ_/",
+  "timestamp": "2018-05-22T09:21:30+0000",
+  "caption": "Pay more attention to small things in life to see the real beauty.\n\n#slug #sluggish #naturephotography #unedited #unbearbeitet #jena #pennickental #travelgram #wanderlust #lumixg70 #panasonic",
+  "place": "Gasthaus Schöne Aussicht Wöllnitz",
+  "crop_box": [
+    149,
+    512,
+    730,
+    966
+  ],
+  "question_image": "2026-10-20-question.jpg"
 }
