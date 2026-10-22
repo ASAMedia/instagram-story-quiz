@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-10-21",
-    "round": 44,
-    "post_id": "17991377878450422",
-    "media_id": "17991377878450422",
-    "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/626405504_18148204126450422_255700228648570760_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Lccak_U-5k8Q7kNvwFpvKvi&_nc_oc=Adr5QU012DCw_Lle2kHC7GyPPd7E72E3CLQZII61Epjc624UDTfqDfi8gDsH7nHQoAA&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=scnw3-TtcWSrbhQYbsgiLg&_nc_tpa=Q5bMBQJTU-JUW_olNRihil0Y-LQ4IaLDlcCMWwLeAs5DCCBeFZfe1eyrQ-cYwWa8HAGGR-ljlFEZV22k&oh=00_AQN7EhsoW6t6ycueHzuHOof6Olte5pdB-LY0k3PLTBpDcg&oe=6ADE86F1",
-    "permalink": "https://www.instagram.com/p/Cbuw6ZKDKmZ/",
-    "timestamp": "2022-03-30T14:05:35+0000",
-    "caption": "Sonnenuntergang am Achensee - Tirol - Austria\nAufgenommen Anfang März \n\n#pertisauamachensee #achenkirch #maurachamachensee  #rofanspitze #achenseetirol #skiurlaubösterreich #skifahren #abfahrtski #aufgehtsabgehts #blauerhimmel #schneelandschaft #alpenliebe #tirol #dronenfotografie #djimavicair2 #lig",
-    "place": "Achensee, Tirol, Austria",
-    "crop_box": [
-      73,
-      482,
-      525,
-      835
-    ],
-    "question_image": "2026-10-21-question.jpg",
-    "question_story_id": "18129689281820885",
-    "question_published_at": "2026-10-21T11:38:42+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-10-21-reveal.jpg",
-    "reveal_story_id": "18024823586865623"
-  }
+  "stage": "question_prepared",
+  "date": "2026-10-22",
+  "round": 45,
+  "post_id": "18242619862100234",
+  "media_id": "17926013294377923",
+  "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/651160272_18078262904377923_1243996400546875397_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=C0cHvtvdz5AQ7kNvwHqCSBV&_nc_oc=Ado66Z6f5G19RbsqaQ-XI0qMAcumnbTWSgj77wvuqX0vnJdyJowgLjkswTZTB_2rb8U&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AJDlny7e7tVG2HDevv4w2Q&_nc_tpa=Q5bMBQJNdk6gRhMdp83IyxLMeIAztgALl0PClUNgEsaJNOvt4ArkCFBdLg8h3aa6yA6pY6G4gjB0wIpk&oh=00_AQOUU_9JkgOKBBW5RVw8gNJu8e6A5a6UipQEBPqh2asfMA&oe=6ADFDFEA",
+  "permalink": "https://www.instagram.com/p/Ce_Buh5jcc8/",
+  "timestamp": "2022-06-19T11:14:32+0000",
+  "caption": "Der Schlachthof im Weimarer Land ist mittlerweile ungefähr zur Hälfte abgerissen. \n1/5\n\n#schlachthofweimar #weimarerwurstwaren #weimarerland #weimarundumgebung #lostplaces #verlassengelassen #demabrissgeweiht #nohra #lostintime",
+  "place": "Weimar",
+  "crop_box": [
+    524,
+    140,
+    1134,
+    617
+  ],
+  "question_image": "2026-10-22-question.jpg"
 }
