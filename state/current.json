@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-10-22",
-  "round": 45,
-  "post_id": "18242619862100234",
-  "media_id": "17926013294377923",
-  "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/651160272_18078262904377923_1243996400546875397_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=C0cHvtvdz5AQ7kNvwHqCSBV&_nc_oc=Ado66Z6f5G19RbsqaQ-XI0qMAcumnbTWSgj77wvuqX0vnJdyJowgLjkswTZTB_2rb8U&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AJDlny7e7tVG2HDevv4w2Q&_nc_tpa=Q5bMBQJNdk6gRhMdp83IyxLMeIAztgALl0PClUNgEsaJNOvt4ArkCFBdLg8h3aa6yA6pY6G4gjB0wIpk&oh=00_AQOUU_9JkgOKBBW5RVw8gNJu8e6A5a6UipQEBPqh2asfMA&oe=6ADFDFEA",
-  "permalink": "https://www.instagram.com/p/Ce_Buh5jcc8/",
-  "timestamp": "2022-06-19T11:14:32+0000",
-  "caption": "Der Schlachthof im Weimarer Land ist mittlerweile ungefähr zur Hälfte abgerissen. \n1/5\n\n#schlachthofweimar #weimarerwurstwaren #weimarerland #weimarundumgebung #lostplaces #verlassengelassen #demabrissgeweiht #nohra #lostintime",
-  "place": "Weimar",
-  "crop_box": [
-    524,
-    140,
-    1134,
-    617
-  ],
-  "question_image": "2026-10-22-question.jpg",
-  "question_story_id": "18446911174130723",
-  "question_published_at": "2026-10-22T11:38:42+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-10-22-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-10-22",
+    "round": 45,
+    "post_id": "18242619862100234",
+    "media_id": "17926013294377923",
+    "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/651160272_18078262904377923_1243996400546875397_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=C0cHvtvdz5AQ7kNvwHqCSBV&_nc_oc=Ado66Z6f5G19RbsqaQ-XI0qMAcumnbTWSgj77wvuqX0vnJdyJowgLjkswTZTB_2rb8U&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AJDlny7e7tVG2HDevv4w2Q&_nc_tpa=Q5bMBQJNdk6gRhMdp83IyxLMeIAztgALl0PClUNgEsaJNOvt4ArkCFBdLg8h3aa6yA6pY6G4gjB0wIpk&oh=00_AQOUU_9JkgOKBBW5RVw8gNJu8e6A5a6UipQEBPqh2asfMA&oe=6ADFDFEA",
+    "permalink": "https://www.instagram.com/p/Ce_Buh5jcc8/",
+    "timestamp": "2022-06-19T11:14:32+0000",
+    "caption": "Der Schlachthof im Weimarer Land ist mittlerweile ungefähr zur Hälfte abgerissen. \n1/5\n\n#schlachthofweimar #weimarerwurstwaren #weimarerland #weimarundumgebung #lostplaces #verlassengelassen #demabrissgeweiht #nohra #lostintime",
+    "place": "Weimar",
+    "crop_box": [
+      524,
+      140,
+      1134,
+      617
+    ],
+    "question_image": "2026-10-22-question.jpg",
+    "question_story_id": "18446911174130723",
+    "question_published_at": "2026-10-22T11:38:42+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-10-22-reveal.jpg",
+    "reveal_story_id": "18081013472461751"
+  }
 }
