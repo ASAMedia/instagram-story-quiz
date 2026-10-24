@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-10-24",
-  "round": 47,
-  "post_id": "18013111843344958",
-  "media_id": "18013111843344958",
-  "media_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/622580469_18172446076344958_3003733469849908238_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Eu0t2pgyrbQQ7kNvwHwEYYH&_nc_oc=AdqdxepzYhVU_P5f0LTeab4nRQVHfAKCOs5XgqAxdbb8f3fKuXpnj6Q08T0FU9f-7kI&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=dkL0J8kcilLyV3tc-v8G0w&_nc_tpa=Q5bMBQK7VQRYrf-FIIA0keUHXMwJwaJa60SxN6pmDjxJgOWIspZz-zMICmiENAIHzcmyXQaCiSMI4xeO&oh=00_AQPHS0MmlGhgVFr5MlMjltreM-oAX1ZaVYMVkVyyeCW8FQ&oe=6AE275D1",
-  "permalink": "https://www.instagram.com/p/CY9U9PVjUCd/",
-  "timestamp": "2022-01-20T16:15:44+0000",
-  "caption": "*\n\n#rofan #rofanspitze #maurachamachensee #achensee #achenseetirol #skiurlaubösterreich #skifahren #abfahrtski #aufgehtsabgehts #wolkenhimmel #schneelandschaft #alpenliebe #tirol #tourengehen #seilbahn #vögelbeobachten #seenlandschaft #christlum #pertisauamachensee",
-  "place": "Achensee, Tirol, Austria",
-  "crop_box": [
-    325,
-    458,
-    823,
-    847
-  ],
-  "question_image": "2026-10-24-question.jpg",
-  "question_story_id": "18150765775542670",
-  "question_published_at": "2026-10-24T10:47:11+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-10-24-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-10-24",
+    "round": 47,
+    "post_id": "18013111843344958",
+    "media_id": "18013111843344958",
+    "media_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/622580469_18172446076344958_3003733469849908238_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Eu0t2pgyrbQQ7kNvwHwEYYH&_nc_oc=AdqdxepzYhVU_P5f0LTeab4nRQVHfAKCOs5XgqAxdbb8f3fKuXpnj6Q08T0FU9f-7kI&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=dkL0J8kcilLyV3tc-v8G0w&_nc_tpa=Q5bMBQK7VQRYrf-FIIA0keUHXMwJwaJa60SxN6pmDjxJgOWIspZz-zMICmiENAIHzcmyXQaCiSMI4xeO&oh=00_AQPHS0MmlGhgVFr5MlMjltreM-oAX1ZaVYMVkVyyeCW8FQ&oe=6AE275D1",
+    "permalink": "https://www.instagram.com/p/CY9U9PVjUCd/",
+    "timestamp": "2022-01-20T16:15:44+0000",
+    "caption": "*\n\n#rofan #rofanspitze #maurachamachensee #achensee #achenseetirol #skiurlaubösterreich #skifahren #abfahrtski #aufgehtsabgehts #wolkenhimmel #schneelandschaft #alpenliebe #tirol #tourengehen #seilbahn #vögelbeobachten #seenlandschaft #christlum #pertisauamachensee",
+    "place": "Achensee, Tirol, Austria",
+    "crop_box": [
+      325,
+      458,
+      823,
+      847
+    ],
+    "question_image": "2026-10-24-question.jpg",
+    "question_story_id": "18150765775542670",
+    "question_published_at": "2026-10-24T10:47:11+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-10-24-reveal.jpg",
+    "reveal_story_id": "17977260705157167"
+  }
 }
