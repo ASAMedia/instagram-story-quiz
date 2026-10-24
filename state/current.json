@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-10-23",
-    "round": 46,
-    "post_id": "17842164791534675",
-    "media_id": "17910795457614557",
-    "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/650382997_18110954953614557_4997927353390301971_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Hz_CpaVR-84Q7kNvwGfvmZy&_nc_oc=Adq9kpujlvsUmRZ-TuNjMbVqPKVOFC3HvdVcLvGEy1qNqajIgFyFQohZejQfRw6KMK8&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=hVEU-4-5xqWAXSyAvSyc2A&_nc_tpa=Q5bMBQKBJb2h_WDeeT0ftS0YCXDOztOWoHHVZNcPwP_0FEzFngsJOSSInQyPhXsJgv8RkIzM_06y5y5v&oh=00_AQNNCXogoIbNiMrT7aksirn9bNoZDXoyIOfbq4aPWrYxrw&oe=6AE100C2",
-    "permalink": "https://www.instagram.com/p/CLhYNVtjStQ/",
-    "timestamp": "2021-02-20T16:57:17+0000",
-    "caption": "“The main thing is to make history not to write it”\n~ Otto von Bismarck\nPicture series from original photo to this composition.\n#bismarck #bismarckturm #apolda #greatview #writehistory #makehistory #photocollage #photoshop #antennethüringen #lifequotes #photoedit",
-    "place": "Bismarckturm (Apolda)",
-    "crop_box": [
-      760,
-      898,
-      1393,
-      1393
-    ],
-    "question_image": "2026-10-23-question.jpg",
-    "question_story_id": "17990025417097106",
-    "question_published_at": "2026-10-23T11:28:08+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-10-23-reveal.jpg",
-    "reveal_story_id": "18285350497291320"
-  }
+  "stage": "question_prepared",
+  "date": "2026-10-24",
+  "round": 47,
+  "post_id": "18013111843344958",
+  "media_id": "18013111843344958",
+  "media_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/622580469_18172446076344958_3003733469849908238_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Eu0t2pgyrbQQ7kNvwHwEYYH&_nc_oc=AdqdxepzYhVU_P5f0LTeab4nRQVHfAKCOs5XgqAxdbb8f3fKuXpnj6Q08T0FU9f-7kI&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=dkL0J8kcilLyV3tc-v8G0w&_nc_tpa=Q5bMBQK7VQRYrf-FIIA0keUHXMwJwaJa60SxN6pmDjxJgOWIspZz-zMICmiENAIHzcmyXQaCiSMI4xeO&oh=00_AQPHS0MmlGhgVFr5MlMjltreM-oAX1ZaVYMVkVyyeCW8FQ&oe=6AE275D1",
+  "permalink": "https://www.instagram.com/p/CY9U9PVjUCd/",
+  "timestamp": "2022-01-20T16:15:44+0000",
+  "caption": "*\n\n#rofan #rofanspitze #maurachamachensee #achensee #achenseetirol #skiurlaubösterreich #skifahren #abfahrtski #aufgehtsabgehts #wolkenhimmel #schneelandschaft #alpenliebe #tirol #tourengehen #seilbahn #vögelbeobachten #seenlandschaft #christlum #pertisauamachensee",
+  "place": "Achensee, Tirol, Austria",
+  "crop_box": [
+    325,
+    458,
+    823,
+    847
+  ],
+  "question_image": "2026-10-24-question.jpg"
 }
