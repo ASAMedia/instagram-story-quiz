@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-10-24",
-    "round": 47,
-    "post_id": "18013111843344958",
-    "media_id": "18013111843344958",
-    "media_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/622580469_18172446076344958_3003733469849908238_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Eu0t2pgyrbQQ7kNvwHwEYYH&_nc_oc=AdqdxepzYhVU_P5f0LTeab4nRQVHfAKCOs5XgqAxdbb8f3fKuXpnj6Q08T0FU9f-7kI&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=dkL0J8kcilLyV3tc-v8G0w&_nc_tpa=Q5bMBQK7VQRYrf-FIIA0keUHXMwJwaJa60SxN6pmDjxJgOWIspZz-zMICmiENAIHzcmyXQaCiSMI4xeO&oh=00_AQPHS0MmlGhgVFr5MlMjltreM-oAX1ZaVYMVkVyyeCW8FQ&oe=6AE275D1",
-    "permalink": "https://www.instagram.com/p/CY9U9PVjUCd/",
-    "timestamp": "2022-01-20T16:15:44+0000",
-    "caption": "*\n\n#rofan #rofanspitze #maurachamachensee #achensee #achenseetirol #skiurlaubösterreich #skifahren #abfahrtski #aufgehtsabgehts #wolkenhimmel #schneelandschaft #alpenliebe #tirol #tourengehen #seilbahn #vögelbeobachten #seenlandschaft #christlum #pertisauamachensee",
-    "place": "Achensee, Tirol, Austria",
-    "crop_box": [
-      325,
-      458,
-      823,
-      847
-    ],
-    "question_image": "2026-10-24-question.jpg",
-    "question_story_id": "18150765775542670",
-    "question_published_at": "2026-10-24T10:47:11+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-10-24-reveal.jpg",
-    "reveal_story_id": "17977260705157167"
-  }
+  "stage": "question_prepared",
+  "date": "2026-10-25",
+  "round": 48,
+  "post_id": "17951761391239614",
+  "media_id": "18159707476258833",
+  "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/656453624_18311420125258833_2803361112245829131_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JeYRBLTJW4IQ7kNvwG-iFc1&_nc_oc=Adq4gXnw7ON7djEHffyUFxYZnPaj3LXUjJ79bYRwLy4OP4FIIYmUS6s6s_u9wbg1bYs&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=0qa0_oPlSEDuKwt-9lUNJg&_nc_tpa=Q5bMBQLNnsdd7xEPkAPBmMydZ65aDD1Th-cmL4zjJ_i1GH510W4yX5acUQIPLHRCFslBKrZUs0UfdldO&oh=00_AQNch61s-mp1A8trHiX52ayockJXAYxofm7zyf2aiZswlQ&oe=6AE3A51C",
+  "permalink": "https://www.instagram.com/p/CkgoDluDMe-/",
+  "timestamp": "2022-11-03T19:01:22+0000",
+  "caption": "Back again in Jena\n07.09.2022\n\n#jena #jenaparadies #architecture #adobelightroom",
+  "place": "Jena",
+  "crop_box": [
+    548,
+    501,
+    1337,
+    1118
+  ],
+  "question_image": "2026-10-25-question.jpg"
 }
