@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-10-26",
-  "round": 49,
-  "post_id": "17895572102491937",
-  "media_id": "17895572102491937",
-  "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/620986995_18092620094491937_8672678507107821829_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=HYAaqlj4nIYQ7kNvwHBeqSh&_nc_oc=AdrgR-ByAnqVuoSntbXi7MJoMPzOf5DYthnNYrnCHDwkfdvOdz76V3DglduMkvPf1P4&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=B8IfbwgBIgpE07-uaPGoBw&_nc_tpa=Q5bMBQJoZ0ZPgjiv8A3eGcqMmzngq1I2fVrSc7AxWgyv1eHNTxEpcx4_h5FsPKrZAL6n2W0Yx7TodtML&oh=00_AQN4L9YhHi_2toW9bfHB7rAaswSp-NXPxmbD8DTFKFij0Q&oe=6AE50303",
-  "permalink": "https://www.instagram.com/p/CU9WsGRDK5A/",
-  "timestamp": "2021-10-13T06:25:17+0000",
-  "caption": "*\n\n#innsbruck #innsbruckaustria #innsbrucktourism #innsbruckaltstadt #innsbruckstadtturm #zumrotenhirsch #österreichurlaub #österreich🇦🇹 #inn #stadtrundgang #stadtturm #stadtfotografie #farbenfroh #tirolerland\n\n@innsbruck_tirol.at\n@innsbrucktourism @altstadt.innsbruck @rike.sag",
-  "place": "Innsbruck",
-  "crop_box": [
-    702,
-    207,
-    1394,
-    748
-  ],
-  "question_image": "2026-10-26-question.jpg",
-  "question_story_id": "18218891683344722",
-  "question_published_at": "2026-10-26T12:47:44+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-10-26-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-10-26",
+    "round": 49,
+    "post_id": "17895572102491937",
+    "media_id": "17895572102491937",
+    "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/620986995_18092620094491937_8672678507107821829_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=HYAaqlj4nIYQ7kNvwHBeqSh&_nc_oc=AdrgR-ByAnqVuoSntbXi7MJoMPzOf5DYthnNYrnCHDwkfdvOdz76V3DglduMkvPf1P4&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=B8IfbwgBIgpE07-uaPGoBw&_nc_tpa=Q5bMBQJoZ0ZPgjiv8A3eGcqMmzngq1I2fVrSc7AxWgyv1eHNTxEpcx4_h5FsPKrZAL6n2W0Yx7TodtML&oh=00_AQN4L9YhHi_2toW9bfHB7rAaswSp-NXPxmbD8DTFKFij0Q&oe=6AE50303",
+    "permalink": "https://www.instagram.com/p/CU9WsGRDK5A/",
+    "timestamp": "2021-10-13T06:25:17+0000",
+    "caption": "*\n\n#innsbruck #innsbruckaustria #innsbrucktourism #innsbruckaltstadt #innsbruckstadtturm #zumrotenhirsch #österreichurlaub #österreich🇦🇹 #inn #stadtrundgang #stadtturm #stadtfotografie #farbenfroh #tirolerland\n\n@innsbruck_tirol.at\n@innsbrucktourism @altstadt.innsbruck @rike.sag",
+    "place": "Innsbruck",
+    "crop_box": [
+      702,
+      207,
+      1394,
+      748
+    ],
+    "question_image": "2026-10-26-question.jpg",
+    "question_story_id": "18218891683344722",
+    "question_published_at": "2026-10-26T12:47:44+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-10-26-reveal.jpg",
+    "reveal_story_id": "18098986130101817"
+  }
 }
