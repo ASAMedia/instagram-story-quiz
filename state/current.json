@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-10-27",
-  "round": 50,
-  "post_id": "18018176293323607",
-  "media_id": "18018176293323607",
-  "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/624712260_18204148849323607_5436971152705588556_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ohsKFZ9XRUoQ7kNvwGVs0pD&_nc_oc=AdrzNWyDllCuBWLfHcH-juiTNRHf9rXGTTK_-IJ3DS4x8Z7mGvC-jVCcLvtd5L3Hbjw&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=dpVr_hPqfViA5rXyQLZtCw&_nc_tpa=Q5bMBQJRwndM_Y6ZcTDvUiYSnPVVI_P3m3HiZXbfDMfLBSbzz0FBE-kVwiV_F6hHvulT9so_1Bu52fqU&oh=00_AQPxEbNSoyEviScCJPAwJzc63ENKJSy2XPSWCnag9amQNQ&oe=6AE66C79",
-  "permalink": "https://www.instagram.com/p/CT1LqaUDsfc/",
-  "timestamp": "2021-09-15T05:43:37+0000",
-  "caption": "*\n\n#hashtagsfornoreason #nohashtagneeded\n\n@rike.sag",
-  "place": "",
-  "crop_box": [
-    873,
-    556,
-    1294,
-    885
-  ],
-  "question_image": "2026-10-27-question.jpg",
-  "question_story_id": "18120310036929958",
-  "question_published_at": "2026-10-27T12:00:28+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-10-27-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-10-27",
+    "round": 50,
+    "post_id": "18018176293323607",
+    "media_id": "18018176293323607",
+    "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/624712260_18204148849323607_5436971152705588556_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ohsKFZ9XRUoQ7kNvwGVs0pD&_nc_oc=AdrzNWyDllCuBWLfHcH-juiTNRHf9rXGTTK_-IJ3DS4x8Z7mGvC-jVCcLvtd5L3Hbjw&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=dpVr_hPqfViA5rXyQLZtCw&_nc_tpa=Q5bMBQJRwndM_Y6ZcTDvUiYSnPVVI_P3m3HiZXbfDMfLBSbzz0FBE-kVwiV_F6hHvulT9so_1Bu52fqU&oh=00_AQPxEbNSoyEviScCJPAwJzc63ENKJSy2XPSWCnag9amQNQ&oe=6AE66C79",
+    "permalink": "https://www.instagram.com/p/CT1LqaUDsfc/",
+    "timestamp": "2021-09-15T05:43:37+0000",
+    "caption": "*\n\n#hashtagsfornoreason #nohashtagneeded\n\n@rike.sag",
+    "place": "",
+    "crop_box": [
+      873,
+      556,
+      1294,
+      885
+    ],
+    "question_image": "2026-10-27-question.jpg",
+    "question_story_id": "18120310036929958",
+    "question_published_at": "2026-10-27T12:00:28+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-10-27-reveal.jpg",
+    "reveal_story_id": "18168802147469045"
+  }
 }
