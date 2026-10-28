@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-10-28",
-  "round": 51,
-  "post_id": "17892260615529083",
-  "media_id": "17892260615529083",
-  "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/624584288_18038238872529083_8216485275838405124_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=_xRInm_GMNMQ7kNvwEFnsbe&_nc_oc=AdrKr4VxEq7vde65jDu2Oe7QyNv7obimsXiYVEMs-fhog-YcS9Swj0vMN03EtJNQ4sI&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=jU4OFsVAI-MPhQc31Baomw&_nc_tpa=Q5bMBQJUtLuPNBAYVe9IjqJrcYzD4V74jFfdLQFYbAUZcEk6vbr--5AGol1UcUzfpSeDnV3Y73G3nWEN&oh=00_AQRNtpvYZ5zVc_CStfDTYOnq7_eEp8uzzWSNFSaa7WEllg&oe=6AE7A68D",
-  "permalink": "https://www.instagram.com/p/Ccak9nGjzQp/",
-  "timestamp": "2022-04-16T14:27:45+0000",
-  "caption": "Auf zum nächsten und diesjährigen letzen Skiurlaub am Gitschberg in der Nähe von Brixen\nNatz-Schabs\nAufgenommen im März \n\n#natz #natzschabs #gitschbergjochtal #italy #brixen #skikurs #lyonelfeiningergymnasium #skilehrer #skiurlaubsüdtirol #southtyrol #skifahren #abfahrtski #schneelandschaft #alpenli",
-  "place": "Natz-Schabs",
-  "crop_box": [
-    453,
-    304,
-    1252,
-    929
-  ],
-  "question_image": "2026-10-28-question.jpg",
-  "question_story_id": "18157373731518019",
-  "question_published_at": "2026-10-28T12:40:12+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-10-28-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-10-28",
+    "round": 51,
+    "post_id": "17892260615529083",
+    "media_id": "17892260615529083",
+    "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/624584288_18038238872529083_8216485275838405124_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=_xRInm_GMNMQ7kNvwEFnsbe&_nc_oc=AdrKr4VxEq7vde65jDu2Oe7QyNv7obimsXiYVEMs-fhog-YcS9Swj0vMN03EtJNQ4sI&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=jU4OFsVAI-MPhQc31Baomw&_nc_tpa=Q5bMBQJUtLuPNBAYVe9IjqJrcYzD4V74jFfdLQFYbAUZcEk6vbr--5AGol1UcUzfpSeDnV3Y73G3nWEN&oh=00_AQRNtpvYZ5zVc_CStfDTYOnq7_eEp8uzzWSNFSaa7WEllg&oe=6AE7A68D",
+    "permalink": "https://www.instagram.com/p/Ccak9nGjzQp/",
+    "timestamp": "2022-04-16T14:27:45+0000",
+    "caption": "Auf zum nächsten und diesjährigen letzen Skiurlaub am Gitschberg in der Nähe von Brixen\nNatz-Schabs\nAufgenommen im März \n\n#natz #natzschabs #gitschbergjochtal #italy #brixen #skikurs #lyonelfeiningergymnasium #skilehrer #skiurlaubsüdtirol #southtyrol #skifahren #abfahrtski #schneelandschaft #alpenli",
+    "place": "Natz-Schabs",
+    "crop_box": [
+      453,
+      304,
+      1252,
+      929
+    ],
+    "question_image": "2026-10-28-question.jpg",
+    "question_story_id": "18157373731518019",
+    "question_published_at": "2026-10-28T12:40:12+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-10-28-reveal.jpg",
+    "reveal_story_id": "18034655816674779"
+  }
 }
