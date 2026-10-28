@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-10-27",
-    "round": 50,
-    "post_id": "18018176293323607",
-    "media_id": "18018176293323607",
-    "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/624712260_18204148849323607_5436971152705588556_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ohsKFZ9XRUoQ7kNvwGVs0pD&_nc_oc=AdrzNWyDllCuBWLfHcH-juiTNRHf9rXGTTK_-IJ3DS4x8Z7mGvC-jVCcLvtd5L3Hbjw&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=dpVr_hPqfViA5rXyQLZtCw&_nc_tpa=Q5bMBQJRwndM_Y6ZcTDvUiYSnPVVI_P3m3HiZXbfDMfLBSbzz0FBE-kVwiV_F6hHvulT9so_1Bu52fqU&oh=00_AQPxEbNSoyEviScCJPAwJzc63ENKJSy2XPSWCnag9amQNQ&oe=6AE66C79",
-    "permalink": "https://www.instagram.com/p/CT1LqaUDsfc/",
-    "timestamp": "2021-09-15T05:43:37+0000",
-    "caption": "*\n\n#hashtagsfornoreason #nohashtagneeded\n\n@rike.sag",
-    "place": "",
-    "crop_box": [
-      873,
-      556,
-      1294,
-      885
-    ],
-    "question_image": "2026-10-27-question.jpg",
-    "question_story_id": "18120310036929958",
-    "question_published_at": "2026-10-27T12:00:28+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-10-27-reveal.jpg",
-    "reveal_story_id": "18168802147469045"
-  }
+  "stage": "question_prepared",
+  "date": "2026-10-28",
+  "round": 51,
+  "post_id": "17892260615529083",
+  "media_id": "17892260615529083",
+  "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/624584288_18038238872529083_8216485275838405124_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=_xRInm_GMNMQ7kNvwEFnsbe&_nc_oc=AdrKr4VxEq7vde65jDu2Oe7QyNv7obimsXiYVEMs-fhog-YcS9Swj0vMN03EtJNQ4sI&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=jU4OFsVAI-MPhQc31Baomw&_nc_tpa=Q5bMBQJUtLuPNBAYVe9IjqJrcYzD4V74jFfdLQFYbAUZcEk6vbr--5AGol1UcUzfpSeDnV3Y73G3nWEN&oh=00_AQRNtpvYZ5zVc_CStfDTYOnq7_eEp8uzzWSNFSaa7WEllg&oe=6AE7A68D",
+  "permalink": "https://www.instagram.com/p/Ccak9nGjzQp/",
+  "timestamp": "2022-04-16T14:27:45+0000",
+  "caption": "Auf zum nächsten und diesjährigen letzen Skiurlaub am Gitschberg in der Nähe von Brixen\nNatz-Schabs\nAufgenommen im März \n\n#natz #natzschabs #gitschbergjochtal #italy #brixen #skikurs #lyonelfeiningergymnasium #skilehrer #skiurlaubsüdtirol #southtyrol #skifahren #abfahrtski #schneelandschaft #alpenli",
+  "place": "Natz-Schabs",
+  "crop_box": [
+    453,
+    304,
+    1252,
+    929
+  ],
+  "question_image": "2026-10-28-question.jpg"
 }
