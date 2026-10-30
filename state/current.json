@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-10-29",
-    "round": 52,
-    "post_id": "17886551083054506",
-    "media_id": "17886551083054506",
-    "media_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/639552502_18553834459054506_14008589318954912_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=L5v9eNs_PTwQ7kNvwGZzkBZ&_nc_oc=AdrAnBo_87YuOHvDVhYzvrG1cQdd0sKWiWmDEl3eLVEzuA13b69DlUCi2Tnuok4EZVs&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=rhIxYXgddf2Voip9joVscg&_nc_tpa=Q5bMBQKFE03qro9q7STl3XVyJAM-2r1686UFQ9cYjjBPxtICAMLm5YqQhslnr4b4mJBxcU0fw1qy2CfN&oh=00_AQRW7Gyqzchbm2yIAVG1crgS36dSjw8EBBVRewoolrXwSw&oe=6AE918F1",
-    "permalink": "https://www.instagram.com/p/BWIhltKDNzd/",
-    "timestamp": "2017-07-04T17:34:21+0000",
-    "caption": "\"You got to be willing to walk in a storm. That's what I tell people all the time.\" Ray Lewis \n#seebrückekühlungsborn #balticsea",
-    "place": "Seebrücke Kühlungsborn",
-    "crop_box": [
-      112,
-      397,
-      712,
-      866
-    ],
-    "question_image": "2026-10-29-question.jpg",
-    "question_story_id": "18112980175885254",
-    "question_published_at": "2026-10-29T12:49:28+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-10-29-reveal.jpg",
-    "reveal_story_id": "17966470563207087"
-  }
+  "stage": "question_prepared",
+  "date": "2026-10-30",
+  "round": 53,
+  "post_id": "17976028033527502",
+  "media_id": "17976028033527502",
+  "media_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/627058433_18115328770527502_7094252444166858924_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=HIGRJlDJccoQ7kNvwF0ZGzb&_nc_oc=AdrA-SQeOWVRifmUhjbqQXyLng9AUi0vVZsc-6iFltGOPvZrHBFPSs1t-_wzjCTpBzk&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=d6jzGS2B-VgB3c3hdRooNw&_nc_tpa=Q5bMBQLeJx-IUe77RUQN7mbo-0-RoSrbs5crl1zuC4tUdwhdu42ib-LqBAB1Q2_GyTzsx86eKxi5jkaf&oh=00_AQQ0xb_DV6YRR5RjHhCfg4EKRaMZGjcMAJusXMtYH8P-VA&oe=6AEA60B2",
+  "permalink": "https://www.instagram.com/p/CfUWQjIDzhl/",
+  "timestamp": "2022-06-27T17:58:00+0000",
+  "caption": "Der Bismark Turm in Apolda\n\n#bismark #bismarkturm #apolda #apolda #turm #strukturen #unterwegsinthüringen",
+  "place": "Apolda",
+  "crop_box": [
+    257,
+    141,
+    862,
+    614
+  ],
+  "question_image": "2026-10-30-question.jpg"
 }
