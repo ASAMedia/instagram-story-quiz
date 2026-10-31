@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-10-31",
-  "round": 54,
-  "post_id": "17931691037374187",
-  "media_id": "17912712479594945",
-  "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/651397227_18085943282594945_4597888508817643750_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=UJQmzA2V56cQ7kNvwH2621Q&_nc_oc=AdqxVsIYqNzw6kjpJ_RKX_pOQ3wZwn4OgDt0AsgrjnOZkxesl8h8BiQlP0nBSrhlg0k&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=McVjbk_NLrVkaD6bGiWzMA&_nc_tpa=Q5bMBQIZtzHJ-fGvHg0lEgPgWXnniFTnKnBmwi1Y0JVjK3pz2fxhowjoyv-JwL8h_0RrGf4iugv8qVcR&oh=00_AQSFMTOA6wVZxzkToZ6WtQMvmzlKCmVfxTRMi753imQoRw&oe=6AEB99FB",
-  "permalink": "https://www.instagram.com/p/CgO9JpxoZ3B/",
-  "timestamp": "2022-07-20T12:13:48+0000",
-  "caption": "Auf den Spuren einer verlassenen Berufsschule\n1/3",
-  "place": "Landkreis Weimarer Land",
-  "crop_box": [
-    817,
-    515,
-    1358,
-    938
-  ],
-  "question_image": "2026-10-31-question.jpg",
-  "question_story_id": "18119260427515346",
-  "question_published_at": "2026-10-31T12:10:50+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-10-31-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-10-31",
+    "round": 54,
+    "post_id": "17931691037374187",
+    "media_id": "17912712479594945",
+    "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/651397227_18085943282594945_4597888508817643750_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=UJQmzA2V56cQ7kNvwH2621Q&_nc_oc=AdqxVsIYqNzw6kjpJ_RKX_pOQ3wZwn4OgDt0AsgrjnOZkxesl8h8BiQlP0nBSrhlg0k&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=McVjbk_NLrVkaD6bGiWzMA&_nc_tpa=Q5bMBQIZtzHJ-fGvHg0lEgPgWXnniFTnKnBmwi1Y0JVjK3pz2fxhowjoyv-JwL8h_0RrGf4iugv8qVcR&oh=00_AQSFMTOA6wVZxzkToZ6WtQMvmzlKCmVfxTRMi753imQoRw&oe=6AEB99FB",
+    "permalink": "https://www.instagram.com/p/CgO9JpxoZ3B/",
+    "timestamp": "2022-07-20T12:13:48+0000",
+    "caption": "Auf den Spuren einer verlassenen Berufsschule\n1/3",
+    "place": "Landkreis Weimarer Land",
+    "crop_box": [
+      817,
+      515,
+      1358,
+      938
+    ],
+    "question_image": "2026-10-31-question.jpg",
+    "question_story_id": "18119260427515346",
+    "question_published_at": "2026-10-31T12:10:50+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-10-31-reveal.jpg",
+    "reveal_story_id": "18088975685681267"
+  }
 }
