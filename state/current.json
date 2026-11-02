@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-11-01",
-    "round": 55,
-    "post_id": "18029811136405418",
-    "media_id": "17924210708596422",
-    "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/663087175_18085658213596422_8610575965783603205_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=DOh7aXzPMucQ7kNvwFkPb_O&_nc_oc=AdoHWpzuLtuliCivwY5NOJYxyJk7cIZNokHfD2xPJ2PG9Mkgsyi2mppEjQAk9_KlOCQ&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=kKM1zJOfeb9Ik2cd4GPTJQ&_nc_tpa=Q5bMBQKKVMTwGXRyRgjLjoTKuMEUR1YiqWFfcmGavD5jZ_ZqRwO77V1HmPyiUfvDI2NpqXZblc9Wh9Q4&oh=00_AQTBayYwNHaTr3bzXKgoz4onLvaut4VSF9ebCHPvbK41AQ&oe=6AED214C",
-    "permalink": "https://www.instagram.com/p/Cjd2HxBDYBG/",
-    "timestamp": "2022-10-08T20:35:10+0000",
-    "caption": "Angekommen in Montpellier unterwegs auf der  Rue Foch durch den Arc de triomphe oder eigentlich Porte du Peyrou. Der Bogen bildet das Stadttor und ist gleichzeitig Zugang zum Königlichen Platz Promendade du Peyrou bzw. Place royale du Peyrou. \n25.08.2022\n\n#montpellier #montpelier #ruefoch #portedupe",
-    "place": "Montpellier",
-    "crop_box": [
-      663,
-      68,
-      1439,
-      675
-    ],
-    "question_image": "2026-11-01-question.jpg",
-    "question_story_id": "18119650387991762",
-    "question_published_at": "2026-11-01T13:10:04+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-11-01-reveal.jpg",
-    "reveal_story_id": "18120968131753092"
-  }
+  "stage": "question_prepared",
+  "date": "2026-11-02",
+  "round": 56,
+  "post_id": "17866789255111913",
+  "media_id": "17866789255111913",
+  "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/627687730_18443982013111913_77079756738943522_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=z3v1JcvvnF0Q7kNvwGXCwYJ&_nc_oc=AdoV5bKRxNFxcDQNcAVBQYIgSibyafDdAvUbW_dISg8Ia-ZywTz9BSkIiphgDnscBC8&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=t6lxMmYGXtZwG9O_Ld_o5g&_nc_tpa=Q5bMBQKpQAQnxHNKyO4YtmKMubu_MhJ1HdTeGpJv-wuvjB2SN-Y4ToLZQJrCZc7cwghk2eSPDOUaa2dL&oh=00_AQRmuRQ36qRBd6raa7aVT_ANeVayGKmu26WUduFonqy0TQ&oe=6AEE8664",
+  "permalink": "https://www.instagram.com/p/BTEP1wZj843/",
+  "timestamp": "2017-04-19T12:08:06+0000",
+  "caption": "\"What good is the warmth of summer, without the cold of winter to give it sweetness.\"\nJohn Steinbeck\n#südtirol #altoadige #alpes #suldental #stilfserjoch",
+  "place": "",
+  "crop_box": [
+    260,
+    69,
+    617,
+    348
+  ],
+  "question_image": "2026-11-02-question.jpg"
 }
