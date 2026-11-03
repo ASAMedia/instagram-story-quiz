@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-11-02",
-    "round": 56,
-    "post_id": "17866789255111913",
-    "media_id": "17866789255111913",
-    "media_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/627687730_18443982013111913_77079756738943522_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=z3v1JcvvnF0Q7kNvwGXCwYJ&_nc_oc=AdoV5bKRxNFxcDQNcAVBQYIgSibyafDdAvUbW_dISg8Ia-ZywTz9BSkIiphgDnscBC8&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=t6lxMmYGXtZwG9O_Ld_o5g&_nc_tpa=Q5bMBQKpQAQnxHNKyO4YtmKMubu_MhJ1HdTeGpJv-wuvjB2SN-Y4ToLZQJrCZc7cwghk2eSPDOUaa2dL&oh=00_AQRmuRQ36qRBd6raa7aVT_ANeVayGKmu26WUduFonqy0TQ&oe=6AEE8664",
-    "permalink": "https://www.instagram.com/p/BTEP1wZj843/",
-    "timestamp": "2017-04-19T12:08:06+0000",
-    "caption": "\"What good is the warmth of summer, without the cold of winter to give it sweetness.\"\nJohn Steinbeck\n#südtirol #altoadige #alpes #suldental #stilfserjoch",
-    "place": "",
-    "crop_box": [
-      260,
-      69,
-      617,
-      348
-    ],
-    "question_image": "2026-11-02-question.jpg",
-    "question_story_id": "18097030955659172",
-    "question_published_at": "2026-11-02T15:34:29+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-11-02-reveal.jpg",
-    "reveal_story_id": "18129883792880622"
-  }
+  "stage": "question_prepared",
+  "date": "2026-11-03",
+  "round": 57,
+  "post_id": "18272666815059596",
+  "media_id": "18272666815059596",
+  "media_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/637739762_18563081392059596_6188773425445104011_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mujuV7seqCAQ7kNvwHUkHek&_nc_oc=AdpOMQZnVkALSbAAfJd-LDLXHFys7mGBiXy8hemGPaTz4ezYowPR-CbbJUm5fNItK9Y&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=04IKO8FlKDF6E-1Io-u7Ug&_nc_tpa=Q5bMBQJISOuHVFLEZBUn6tCyBI1LjtNIIjtgOGMm6DX0UMxq1qw1xcikH95C-ctU0FiDxaaBDepRYx1N&oh=00_AQRSke-4D9-qDFxN_c-zKwuJyjHVaI0zWNT88z-ocGqFYw&oe=6AEFC074",
+  "permalink": "https://www.instagram.com/p/CYGxd7hjch0/",
+  "timestamp": "2021-12-30T11:46:38+0000",
+  "caption": "Der Innenraum ist erstaunlicherweise sehr gut erhalten, obwohl schon jahrelang dem Verfall ausgesetzt.\n\n#lostplaces #lostplacesgermany #weimarerland #verloreneorte #verfalleneorte #nachteule #nachtundnebel #nachtfotografie #schalttechnik #schaltstelle #rost #neueorteentdecken",
+  "place": "Landkreis Weimarer Land",
+  "crop_box": [
+    434,
+    639,
+    1065,
+    1132
+  ],
+  "question_image": "2026-11-03-question.jpg"
 }
