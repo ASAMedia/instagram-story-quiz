@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-11-06",
-  "round": 60,
-  "post_id": "17876798680011225",
-  "media_id": "17876798680011225",
-  "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/639492749_18566093089011225_1714927612797981899_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=NIDhqipO7iAQ7kNvwFRKEmj&_nc_oc=AdqHPb7wkwnJ9UiBxpdeFk8Up8Yy5MdM1nEnT7U0oo1bpyVn2J0y-wFkgwZBpPHyBCM&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=qDCo2hwHMkIq2RlGgt_lww&_nc_tpa=Q5bMBQKKXQZp0Y_B-FtwvlARWY_eYeJgGGkWDtiawreFLvdw5ohBtCIfIP1AfQhngdLJplWN0j_LFRO0&oh=00_AQTmkvIbuAHA3wEKQPrS2MtgvcyqO3WxljG7rW4BYnFq7A&oe=6AF3C13C",
-  "permalink": "https://www.instagram.com/p/BSwAKYTjyFD/",
-  "timestamp": "2017-04-11T15:26:18+0000",
-  "caption": "The politic and international security workshop is running amazing. Isn't it cool to become a part of the government for 4 days?\n#planspiel #workshop #usa🇺🇸 #uno #weimar #ejbw",
-  "place": "",
-  "crop_box": [
-    312,
-    289,
-    793,
-    665
-  ],
-  "question_image": "2026-11-06-question.jpg",
-  "question_story_id": "17925542889223166",
-  "question_published_at": "2026-11-06T14:07:36+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-11-06-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-11-06",
+    "round": 60,
+    "post_id": "17876798680011225",
+    "media_id": "17876798680011225",
+    "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/639492749_18566093089011225_1714927612797981899_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=NIDhqipO7iAQ7kNvwFRKEmj&_nc_oc=AdqHPb7wkwnJ9UiBxpdeFk8Up8Yy5MdM1nEnT7U0oo1bpyVn2J0y-wFkgwZBpPHyBCM&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=qDCo2hwHMkIq2RlGgt_lww&_nc_tpa=Q5bMBQKKXQZp0Y_B-FtwvlARWY_eYeJgGGkWDtiawreFLvdw5ohBtCIfIP1AfQhngdLJplWN0j_LFRO0&oh=00_AQTmkvIbuAHA3wEKQPrS2MtgvcyqO3WxljG7rW4BYnFq7A&oe=6AF3C13C",
+    "permalink": "https://www.instagram.com/p/BSwAKYTjyFD/",
+    "timestamp": "2017-04-11T15:26:18+0000",
+    "caption": "The politic and international security workshop is running amazing. Isn't it cool to become a part of the government for 4 days?\n#planspiel #workshop #usa🇺🇸 #uno #weimar #ejbw",
+    "place": "",
+    "crop_box": [
+      312,
+      289,
+      793,
+      665
+    ],
+    "question_image": "2026-11-06-question.jpg",
+    "question_story_id": "17925542889223166",
+    "question_published_at": "2026-11-06T14:07:36+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-11-06-reveal.jpg",
+    "reveal_story_id": "17923362888242817"
+  }
 }
