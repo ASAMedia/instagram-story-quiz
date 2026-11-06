@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-11-05",
-    "round": 59,
-    "post_id": "17898775124304089",
-    "media_id": "17898775124304089",
-    "media_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/620538968_18062489885304089_4534704848630365784_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=E3Z-85Y8GIgQ7kNvwHzwSJh&_nc_oc=AdqSKxet5SNfbVbVFfP5N8US4D0A_a4UOckKLKXRcljkE0k2vReW9eZAjKzNyHKk93E&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6MymSet-qvI5vy8S9aGwRg&_nc_tpa=Q5bMBQK9qQNg7F-lGE8OREKQbAkVDLzTuFcTDSvXN1ELSwsCcByffVv_aweIMjFZJVq_gLReEuCyl-2B&oh=00_AQSgGBVTqPha4DyVdsTpmvTTHZM2HbSzDG0Ed8A7ZvG8Qg&oe=6AF265B1",
-    "permalink": "https://www.instagram.com/p/CWdwwEvDydP/",
-    "timestamp": "2021-11-19T17:00:07+0000",
-    "caption": "*\n\n #berlintagundnacht #berlinarchitecture #behrensbauberlin #behrensbau #hochschule #unterwegsinberlin #berlin🇩🇪 #berlinerleben #symetry #berlinbrandenburg  #altegebäude #fotografie #glassdach #gründerzentrum #deutschland_greatshots #unterwegsindeutschland  #erlebnissesammeln\n\n@berlingraphy_ @berli",
-    "place": "Behrensbau",
-    "crop_box": [
-      435,
-      53,
-      1164,
-      623
-    ],
-    "question_image": "2026-11-05-question.jpg",
-    "question_story_id": "18416869363085613",
-    "question_published_at": "2026-11-05T14:30:11+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-11-05-reveal.jpg",
-    "reveal_story_id": "18100863401084278"
-  }
+  "stage": "question_prepared",
+  "date": "2026-11-06",
+  "round": 60,
+  "post_id": "17876798680011225",
+  "media_id": "17876798680011225",
+  "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/639492749_18566093089011225_1714927612797981899_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=NIDhqipO7iAQ7kNvwFRKEmj&_nc_oc=AdqHPb7wkwnJ9UiBxpdeFk8Up8Yy5MdM1nEnT7U0oo1bpyVn2J0y-wFkgwZBpPHyBCM&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=qDCo2hwHMkIq2RlGgt_lww&_nc_tpa=Q5bMBQKKXQZp0Y_B-FtwvlARWY_eYeJgGGkWDtiawreFLvdw5ohBtCIfIP1AfQhngdLJplWN0j_LFRO0&oh=00_AQTmkvIbuAHA3wEKQPrS2MtgvcyqO3WxljG7rW4BYnFq7A&oe=6AF3C13C",
+  "permalink": "https://www.instagram.com/p/BSwAKYTjyFD/",
+  "timestamp": "2017-04-11T15:26:18+0000",
+  "caption": "The politic and international security workshop is running amazing. Isn't it cool to become a part of the government for 4 days?\n#planspiel #workshop #usa🇺🇸 #uno #weimar #ejbw",
+  "place": "",
+  "crop_box": [
+    312,
+    289,
+    793,
+    665
+  ],
+  "question_image": "2026-11-06-question.jpg"
 }
