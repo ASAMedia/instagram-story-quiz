@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-11-06",
-    "round": 60,
-    "post_id": "17876798680011225",
-    "media_id": "17876798680011225",
-    "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/639492749_18566093089011225_1714927612797981899_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=NIDhqipO7iAQ7kNvwFRKEmj&_nc_oc=AdqHPb7wkwnJ9UiBxpdeFk8Up8Yy5MdM1nEnT7U0oo1bpyVn2J0y-wFkgwZBpPHyBCM&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=qDCo2hwHMkIq2RlGgt_lww&_nc_tpa=Q5bMBQKKXQZp0Y_B-FtwvlARWY_eYeJgGGkWDtiawreFLvdw5ohBtCIfIP1AfQhngdLJplWN0j_LFRO0&oh=00_AQTmkvIbuAHA3wEKQPrS2MtgvcyqO3WxljG7rW4BYnFq7A&oe=6AF3C13C",
-    "permalink": "https://www.instagram.com/p/BSwAKYTjyFD/",
-    "timestamp": "2017-04-11T15:26:18+0000",
-    "caption": "The politic and international security workshop is running amazing. Isn't it cool to become a part of the government for 4 days?\n#planspiel #workshop #usa🇺🇸 #uno #weimar #ejbw",
-    "place": "",
-    "crop_box": [
-      312,
-      289,
-      793,
-      665
-    ],
-    "question_image": "2026-11-06-question.jpg",
-    "question_story_id": "17925542889223166",
-    "question_published_at": "2026-11-06T14:07:36+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-11-06-reveal.jpg",
-    "reveal_story_id": "17923362888242817"
-  }
+  "stage": "question_prepared",
+  "date": "2026-11-07",
+  "round": 61,
+  "post_id": "18005321308715935",
+  "media_id": "18279154744188359",
+  "media_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/669404749_18435558013188359_7642200085137166061_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=gmQr0fTMluAQ7kNvwEfJqRs&_nc_oc=AdpR8zaVB--ogTISuaFOgcF9eVMBdGgPSxIRIVH7CmHz7tvtjaNjCjsdDL4TQdXvaYw&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=l_UmfLrLvnsJ5QqTzPEpgw&_nc_tpa=Q5bMBQJRPCCyklqZC88DLk4JdeYzljejGZD1VeJTCJE7wTkN5cfNPK_QMZIaSZrts6mjjOm_mb0OOCyY&oh=00_AQRtUElFEH4JXkOP79sPtk90zaVGdTLzx5TMNDFNmOJ3Tw&oe=6AF4F697",
+  "permalink": "https://www.instagram.com/p/CrPxSj-s9oo/",
+  "timestamp": "2023-04-20T05:34:44+0000",
+  "caption": "Städte mit Bunten Kästen die zweite. Auch in Erfurt können schöne Grafittis gefunden werden. Am Ende sind auch nochmal ein paar Weimarer Bilder dabei. \n\n#erfurt #erfurtgraffiti #weimar #stadtwerkeweimar #weimarerland #stromkastenkunst",
+  "place": "Erfurt",
+  "crop_box": [
+    222,
+    937,
+    906,
+    1472
+  ],
+  "question_image": "2026-11-07-question.jpg"
 }
