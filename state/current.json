@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-11-07",
-  "round": 61,
-  "post_id": "18005321308715935",
-  "media_id": "18279154744188359",
-  "media_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/669404749_18435558013188359_7642200085137166061_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=gmQr0fTMluAQ7kNvwEfJqRs&_nc_oc=AdpR8zaVB--ogTISuaFOgcF9eVMBdGgPSxIRIVH7CmHz7tvtjaNjCjsdDL4TQdXvaYw&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=l_UmfLrLvnsJ5QqTzPEpgw&_nc_tpa=Q5bMBQJRPCCyklqZC88DLk4JdeYzljejGZD1VeJTCJE7wTkN5cfNPK_QMZIaSZrts6mjjOm_mb0OOCyY&oh=00_AQRtUElFEH4JXkOP79sPtk90zaVGdTLzx5TMNDFNmOJ3Tw&oe=6AF4F697",
-  "permalink": "https://www.instagram.com/p/CrPxSj-s9oo/",
-  "timestamp": "2023-04-20T05:34:44+0000",
-  "caption": "Städte mit Bunten Kästen die zweite. Auch in Erfurt können schöne Grafittis gefunden werden. Am Ende sind auch nochmal ein paar Weimarer Bilder dabei. \n\n#erfurt #erfurtgraffiti #weimar #stadtwerkeweimar #weimarerland #stromkastenkunst",
-  "place": "Erfurt",
-  "crop_box": [
-    222,
-    937,
-    906,
-    1472
-  ],
-  "question_image": "2026-11-07-question.jpg",
-  "question_story_id": "18063451220795782",
-  "question_published_at": "2026-11-07T12:51:23+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-11-07-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-11-07",
+    "round": 61,
+    "post_id": "18005321308715935",
+    "media_id": "18279154744188359",
+    "media_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/669404749_18435558013188359_7642200085137166061_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=gmQr0fTMluAQ7kNvwEfJqRs&_nc_oc=AdpR8zaVB--ogTISuaFOgcF9eVMBdGgPSxIRIVH7CmHz7tvtjaNjCjsdDL4TQdXvaYw&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=l_UmfLrLvnsJ5QqTzPEpgw&_nc_tpa=Q5bMBQJRPCCyklqZC88DLk4JdeYzljejGZD1VeJTCJE7wTkN5cfNPK_QMZIaSZrts6mjjOm_mb0OOCyY&oh=00_AQRtUElFEH4JXkOP79sPtk90zaVGdTLzx5TMNDFNmOJ3Tw&oe=6AF4F697",
+    "permalink": "https://www.instagram.com/p/CrPxSj-s9oo/",
+    "timestamp": "2023-04-20T05:34:44+0000",
+    "caption": "Städte mit Bunten Kästen die zweite. Auch in Erfurt können schöne Grafittis gefunden werden. Am Ende sind auch nochmal ein paar Weimarer Bilder dabei. \n\n#erfurt #erfurtgraffiti #weimar #stadtwerkeweimar #weimarerland #stromkastenkunst",
+    "place": "Erfurt",
+    "crop_box": [
+      222,
+      937,
+      906,
+      1472
+    ],
+    "question_image": "2026-11-07-question.jpg",
+    "question_story_id": "18063451220795782",
+    "question_published_at": "2026-11-07T12:51:23+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-11-07-reveal.jpg",
+    "reveal_story_id": "18111376418223871"
+  }
 }
