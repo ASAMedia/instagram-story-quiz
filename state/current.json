@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-11-08",
-  "round": 62,
-  "post_id": "17848804874677426",
-  "media_id": "17848804874677426",
-  "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/618614329_18054441230677426_1686243425180673917_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=onpsrNgO5I0Q7kNvwFkDQB9&_nc_oc=Adq2Ikkots4_PFpHQk6IUWtk8uFhTp-sRMxoXOuATe6oe40wyuZQFSpoCLSPP7GZirE&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=25YmOsBYwxEH-1-L8jPRzw&_nc_tpa=Q5bMBQK2uKDFsw6Rw_N-BbZRyp3SVBAIbDRWXBPcwqd52SkNrtyr0asSRI8b6l4CaJCQ6xT0DcoBzUuL&oh=00_AQRL5q_cM5Nnx0D2x-rzc_1HLcf_RpUauhzJ3y0HAzoBgA&oe=6AF654A2",
-  "permalink": "https://www.instagram.com/p/CWlYWKHD53S/",
-  "timestamp": "2021-11-22T16:00:47+0000",
-  "caption": "*\n#htwberlin #oberschöneweide\n#technologiezentrum #berlintagundnacht #altefabrik #berlinarchitecture  #hochschule #unterwegsinberlin #berlin🇩🇪 #berlinerleben #symetry #berlinbrandenburg  #altegebäude #fotografie #glassdach #gründerzentrum #deutschland_greatshots #unterwegsindeutschland  #erlebnisses",
-  "place": "Oberschöneweide, Berlin, Germany",
-  "crop_box": [
-    81,
-    306,
-    552,
-    674
-  ],
-  "question_image": "2026-11-08-question.jpg",
-  "question_story_id": "18102970868544363",
-  "question_published_at": "2026-11-08T13:13:39+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-11-08-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-11-08",
+    "round": 62,
+    "post_id": "17848804874677426",
+    "media_id": "17848804874677426",
+    "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/618614329_18054441230677426_1686243425180673917_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=onpsrNgO5I0Q7kNvwFkDQB9&_nc_oc=Adq2Ikkots4_PFpHQk6IUWtk8uFhTp-sRMxoXOuATe6oe40wyuZQFSpoCLSPP7GZirE&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=25YmOsBYwxEH-1-L8jPRzw&_nc_tpa=Q5bMBQK2uKDFsw6Rw_N-BbZRyp3SVBAIbDRWXBPcwqd52SkNrtyr0asSRI8b6l4CaJCQ6xT0DcoBzUuL&oh=00_AQRL5q_cM5Nnx0D2x-rzc_1HLcf_RpUauhzJ3y0HAzoBgA&oe=6AF654A2",
+    "permalink": "https://www.instagram.com/p/CWlYWKHD53S/",
+    "timestamp": "2021-11-22T16:00:47+0000",
+    "caption": "*\n#htwberlin #oberschöneweide\n#technologiezentrum #berlintagundnacht #altefabrik #berlinarchitecture  #hochschule #unterwegsinberlin #berlin🇩🇪 #berlinerleben #symetry #berlinbrandenburg  #altegebäude #fotografie #glassdach #gründerzentrum #deutschland_greatshots #unterwegsindeutschland  #erlebnisses",
+    "place": "Oberschöneweide, Berlin, Germany",
+    "crop_box": [
+      81,
+      306,
+      552,
+      674
+    ],
+    "question_image": "2026-11-08-question.jpg",
+    "question_story_id": "18102970868544363",
+    "question_published_at": "2026-11-08T13:13:39+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-11-08-reveal.jpg",
+    "reveal_story_id": "18090627017277411"
+  }
 }
