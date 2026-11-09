@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-11-08",
-    "round": 62,
-    "post_id": "17848804874677426",
-    "media_id": "17848804874677426",
-    "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/618614329_18054441230677426_1686243425180673917_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=onpsrNgO5I0Q7kNvwFkDQB9&_nc_oc=Adq2Ikkots4_PFpHQk6IUWtk8uFhTp-sRMxoXOuATe6oe40wyuZQFSpoCLSPP7GZirE&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=25YmOsBYwxEH-1-L8jPRzw&_nc_tpa=Q5bMBQK2uKDFsw6Rw_N-BbZRyp3SVBAIbDRWXBPcwqd52SkNrtyr0asSRI8b6l4CaJCQ6xT0DcoBzUuL&oh=00_AQRL5q_cM5Nnx0D2x-rzc_1HLcf_RpUauhzJ3y0HAzoBgA&oe=6AF654A2",
-    "permalink": "https://www.instagram.com/p/CWlYWKHD53S/",
-    "timestamp": "2021-11-22T16:00:47+0000",
-    "caption": "*\n#htwberlin #oberschöneweide\n#technologiezentrum #berlintagundnacht #altefabrik #berlinarchitecture  #hochschule #unterwegsinberlin #berlin🇩🇪 #berlinerleben #symetry #berlinbrandenburg  #altegebäude #fotografie #glassdach #gründerzentrum #deutschland_greatshots #unterwegsindeutschland  #erlebnisses",
-    "place": "Oberschöneweide, Berlin, Germany",
-    "crop_box": [
-      81,
-      306,
-      552,
-      674
-    ],
-    "question_image": "2026-11-08-question.jpg",
-    "question_story_id": "18102970868544363",
-    "question_published_at": "2026-11-08T13:13:39+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-11-08-reveal.jpg",
-    "reveal_story_id": "18090627017277411"
-  }
+  "stage": "question_prepared",
+  "date": "2026-11-09",
+  "round": 63,
+  "post_id": "17919474314596106",
+  "media_id": "18231576505124404",
+  "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/656079937_18415752649124404_6988427267886241461_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=YTRKy83e9FoQ7kNvwGyVxXG&_nc_oc=Adr1JddGvIrO8kktoG9EgHiahWPrdGLI6IvAD4RrG43byxHlCc8_Jo6dkKfpB1Zrfxk&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ojXFzFyGkUsZ5iiVUsBx8Q&_nc_tpa=Q5bMBQJ3g3FekQT3Usw7SotoRhoQZLvWWXlqxv4t1L9qcOvOH_8gwpFrAjt-WRL6eyhAMQjnGrfFxnkG&oh=00_AQSd-2XMRke4T7l_ZxGvKmgFvKr6UIla6G_cZ7Om6uB4JA&oe=6AF7CC76",
+  "permalink": "https://www.instagram.com/p/CiFibpcDkuh/",
+  "timestamp": "2022-09-04T13:29:57+0000",
+  "caption": "Stockholm ist als einladende Metropole bekannt, die jeden begrüßt, so wie er ist. Die moderne urbane Kultur der schwedischen Hauptstadt steht im Einklang mit jahrhundertealter Geschichte und Liebe zur Natur.\n01.08.22\n\n#stockholm #stockholmcity #visitsweden #modernarchitecture #sunset #reflections",
+  "place": "Stockholm",
+  "crop_box": [
+    175,
+    222,
+    971,
+    844
+  ],
+  "question_image": "2026-11-09-question.jpg"
 }
