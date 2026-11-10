@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-11-09",
-    "round": 63,
-    "post_id": "17919474314596106",
-    "media_id": "18231576505124404",
-    "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/656079937_18415752649124404_6988427267886241461_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=YTRKy83e9FoQ7kNvwGyVxXG&_nc_oc=Adr1JddGvIrO8kktoG9EgHiahWPrdGLI6IvAD4RrG43byxHlCc8_Jo6dkKfpB1Zrfxk&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ojXFzFyGkUsZ5iiVUsBx8Q&_nc_tpa=Q5bMBQJ3g3FekQT3Usw7SotoRhoQZLvWWXlqxv4t1L9qcOvOH_8gwpFrAjt-WRL6eyhAMQjnGrfFxnkG&oh=00_AQSd-2XMRke4T7l_ZxGvKmgFvKr6UIla6G_cZ7Om6uB4JA&oe=6AF7CC76",
-    "permalink": "https://www.instagram.com/p/CiFibpcDkuh/",
-    "timestamp": "2022-09-04T13:29:57+0000",
-    "caption": "Stockholm ist als einladende Metropole bekannt, die jeden begrüßt, so wie er ist. Die moderne urbane Kultur der schwedischen Hauptstadt steht im Einklang mit jahrhundertealter Geschichte und Liebe zur Natur.\n01.08.22\n\n#stockholm #stockholmcity #visitsweden #modernarchitecture #sunset #reflections",
-    "place": "Stockholm",
-    "crop_box": [
-      175,
-      222,
-      971,
-      844
-    ],
-    "question_image": "2026-11-09-question.jpg",
-    "question_story_id": "18023741387955564",
-    "question_published_at": "2026-11-09T15:59:31+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-11-09-reveal.jpg",
-    "reveal_story_id": "17944364802096507"
-  }
+  "stage": "question_prepared",
+  "date": "2026-11-10",
+  "round": 64,
+  "post_id": "17939365096874136",
+  "media_id": "17978279083472285",
+  "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/655897112_18145259338472285_8117296819519138674_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=nXEi9d30sroQ7kNvwHMwArV&_nc_oc=AdruWgpFTpQUotahKoRTiIH67yHo2ZUDJMGSuwNyiI_vXh7QZcnzY104iJ3FMZsG_X4&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=RvFw5tAvFOGk-FlbD5R06Q&_nc_tpa=Q5bMBQJ18yPFa3czbnJHJ0W8r8KY6Z3PYgRSpE9f2gWUOD5yem8eiPWRqPjVhybLel0HXB0s_DHKQ3-v&oh=00_AQTp0XQ3iCV7ywRakybMhGfx-faQqyOs76nrD7jI5r77wA&oe=6AF8E610",
+  "permalink": "https://www.instagram.com/p/CZuHccKjpul/",
+  "timestamp": "2022-02-08T15:00:26+0000",
+  "caption": "Hochschule für Musik  und das Carl-August-Denkmal in Weimar. \n➡️Swipe to see before/after. \n\n#hochschulefürmusikweimar #hochschulefürmusik #platzderdemokratie #carlaugust #weimar #nacht #stadtbeinacht #thühringen_entdecken #thueringen_entdecken #kulturstadt #handyfotografie  #weimarlove #langzeitbel",
+  "place": "Platz Der Demokratie",
+  "crop_box": [
+    871,
+    1108,
+    1428,
+    1543
+  ],
+  "question_image": "2026-11-10-question.jpg"
 }
