@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-11-10",
-  "round": 64,
-  "post_id": "17939365096874136",
-  "media_id": "17978279083472285",
-  "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/655897112_18145259338472285_8117296819519138674_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=nXEi9d30sroQ7kNvwHMwArV&_nc_oc=AdruWgpFTpQUotahKoRTiIH67yHo2ZUDJMGSuwNyiI_vXh7QZcnzY104iJ3FMZsG_X4&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=RvFw5tAvFOGk-FlbD5R06Q&_nc_tpa=Q5bMBQJ18yPFa3czbnJHJ0W8r8KY6Z3PYgRSpE9f2gWUOD5yem8eiPWRqPjVhybLel0HXB0s_DHKQ3-v&oh=00_AQTp0XQ3iCV7ywRakybMhGfx-faQqyOs76nrD7jI5r77wA&oe=6AF8E610",
-  "permalink": "https://www.instagram.com/p/CZuHccKjpul/",
-  "timestamp": "2022-02-08T15:00:26+0000",
-  "caption": "Hochschule für Musik  und das Carl-August-Denkmal in Weimar. \n➡️Swipe to see before/after. \n\n#hochschulefürmusikweimar #hochschulefürmusik #platzderdemokratie #carlaugust #weimar #nacht #stadtbeinacht #thühringen_entdecken #thueringen_entdecken #kulturstadt #handyfotografie  #weimarlove #langzeitbel",
-  "place": "Platz Der Demokratie",
-  "crop_box": [
-    871,
-    1108,
-    1428,
-    1543
-  ],
-  "question_image": "2026-11-10-question.jpg",
-  "question_story_id": "18093166838226610",
-  "question_published_at": "2026-11-10T14:45:25+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-11-10-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-11-10",
+    "round": 64,
+    "post_id": "17939365096874136",
+    "media_id": "17978279083472285",
+    "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/655897112_18145259338472285_8117296819519138674_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=nXEi9d30sroQ7kNvwHMwArV&_nc_oc=AdruWgpFTpQUotahKoRTiIH67yHo2ZUDJMGSuwNyiI_vXh7QZcnzY104iJ3FMZsG_X4&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=RvFw5tAvFOGk-FlbD5R06Q&_nc_tpa=Q5bMBQJ18yPFa3czbnJHJ0W8r8KY6Z3PYgRSpE9f2gWUOD5yem8eiPWRqPjVhybLel0HXB0s_DHKQ3-v&oh=00_AQTp0XQ3iCV7ywRakybMhGfx-faQqyOs76nrD7jI5r77wA&oe=6AF8E610",
+    "permalink": "https://www.instagram.com/p/CZuHccKjpul/",
+    "timestamp": "2022-02-08T15:00:26+0000",
+    "caption": "Hochschule für Musik  und das Carl-August-Denkmal in Weimar. \n➡️Swipe to see before/after. \n\n#hochschulefürmusikweimar #hochschulefürmusik #platzderdemokratie #carlaugust #weimar #nacht #stadtbeinacht #thühringen_entdecken #thueringen_entdecken #kulturstadt #handyfotografie  #weimarlove #langzeitbel",
+    "place": "Platz Der Demokratie",
+    "crop_box": [
+      871,
+      1108,
+      1428,
+      1543
+    ],
+    "question_image": "2026-11-10-question.jpg",
+    "question_story_id": "18093166838226610",
+    "question_published_at": "2026-11-10T14:45:25+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-11-10-reveal.jpg",
+    "reveal_story_id": "17991264141117195"
+  }
 }
