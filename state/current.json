@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-11-11",
-  "round": 65,
-  "post_id": "17892224135410208",
-  "media_id": "17892224135410208",
-  "media_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/620414081_18070279085410208_5605832469709972271_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=itQiOxk8DOEQ7kNvwHnL01r&_nc_oc=AdoQ02TbPsWxgZ94dPqk86pv8ceutaPA48fEMESiGtshc0RxcZPUV9vTkdN50g1a5oY&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=rxO8DbM-miNfCgHj96c2uA&_nc_tpa=Q5bMBQLlFlKN9zH5wqWsS84qHilW44HMEWPNsirEwjVVmdczUN3mlL22XHcPu84ZIRQUPjHGSVM74sfF&oh=00_AQTZl7K_eBtsiM7NGrC-AAnKYnm_0mgjZTcVb5sLNy_YNw&oe=6AFA61AE",
-  "permalink": "https://www.instagram.com/p/CUonkRgDzwp/",
-  "timestamp": "2021-10-05T05:08:43+0000",
-  "caption": "*\n\n#österreichurlaub #wandernmachtglücklich #tirol #almen #wanderlust #bergsteigen  #alpen #outdoorphotography #bluesky #berglandschaft #überblick #seefeldintirol #seefeldtirol  #naturerleben #naturephotography #bergpanorama #dieweltentdecken #leutaschtal #leutasch #leutaschtutmirgut#waldundwiese #w",
-  "place": "Leutaschtal",
-  "crop_box": [
-    230,
-    566,
-    1037,
-    1197
-  ],
-  "question_image": "2026-11-11-question.jpg",
-  "question_story_id": "18145386946608516",
-  "question_published_at": "2026-11-11T14:01:53+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-11-11-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-11-11",
+    "round": 65,
+    "post_id": "17892224135410208",
+    "media_id": "17892224135410208",
+    "media_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/620414081_18070279085410208_5605832469709972271_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=itQiOxk8DOEQ7kNvwHnL01r&_nc_oc=AdoQ02TbPsWxgZ94dPqk86pv8ceutaPA48fEMESiGtshc0RxcZPUV9vTkdN50g1a5oY&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=rxO8DbM-miNfCgHj96c2uA&_nc_tpa=Q5bMBQLlFlKN9zH5wqWsS84qHilW44HMEWPNsirEwjVVmdczUN3mlL22XHcPu84ZIRQUPjHGSVM74sfF&oh=00_AQTZl7K_eBtsiM7NGrC-AAnKYnm_0mgjZTcVb5sLNy_YNw&oe=6AFA61AE",
+    "permalink": "https://www.instagram.com/p/CUonkRgDzwp/",
+    "timestamp": "2021-10-05T05:08:43+0000",
+    "caption": "*\n\n#österreichurlaub #wandernmachtglücklich #tirol #almen #wanderlust #bergsteigen  #alpen #outdoorphotography #bluesky #berglandschaft #überblick #seefeldintirol #seefeldtirol  #naturerleben #naturephotography #bergpanorama #dieweltentdecken #leutaschtal #leutasch #leutaschtutmirgut#waldundwiese #w",
+    "place": "Leutaschtal",
+    "crop_box": [
+      230,
+      566,
+      1037,
+      1197
+    ],
+    "question_image": "2026-11-11-question.jpg",
+    "question_story_id": "18145386946608516",
+    "question_published_at": "2026-11-11T14:01:53+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-11-11-reveal.jpg",
+    "reveal_story_id": "18025864916712630"
+  }
 }
