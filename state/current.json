@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-11-12",
-    "round": 66,
-    "post_id": "17935462198826195",
-    "media_id": "17935462198826195",
-    "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/621832549_18091651981826195_2708976970242786690_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=1nZFeUuQzcIQ7kNvwHW3HcG&_nc_oc=AdpuMssxrMxzhv6hcw4jMVtKgZp6OyzXltL8rnnncMsFSd2ZHJLyCIpuzP_qlFnXv78&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=o1IdxoMLNTNzELgHsVgX6A&_nc_tpa=Q5bMBQK0phUUlP8AHmuBRicd01pBX0P6bENk9nNa9qnyFpyr6_TdVAmWSpYKK6IO-jRWycGIF-NAHf7p&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRNWZUSWIxrSE-n64OIZYkH40Nm-TyxBNkmKrPVzm-x6g&oe=6AFBB295",
-    "permalink": "https://www.instagram.com/p/CZUgm1EDX7u/",
-    "timestamp": "2022-01-29T16:20:03+0000",
-    "caption": "*\n\n#christlum #achenkirch #langlauf #achenkirch🇦🇹 #achenseetirol #skiurlaubösterreich #skifahren #abfahrtski #aufgehtsabgehts #blauerhimmel #schneelandschaft #alpenliebe #tirol #djimavicair2 #abendstimmung",
-    "place": "Achenkirch, Tirol, Austria",
-    "crop_box": [
-      656,
-      192,
-      1219,
-      632
-    ],
-    "question_image": "2026-11-12-question.jpg",
-    "question_story_id": "17967208005247556",
-    "question_published_at": "2026-11-12T15:01:42+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-11-12-reveal.jpg",
-    "reveal_story_id": "18139090822635341"
-  }
+  "stage": "question_prepared",
+  "date": "2026-11-13",
+  "round": 67,
+  "post_id": "17944740964849962",
+  "media_id": "17931901238318291",
+  "media_url": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-15/650740373_18095181794318291_4949978202187462044_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=WdJvX6vo3AYQ7kNvwFpZLj7&_nc_oc=Ado5CYcGWnR_0mBwqOB2CCNqK_EDgndkBMC3pHr8gkyOW7j3hJTTiOMb72zbicEoKS0&_nc_zt=23&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=m9lCDJ16C6A0YsgyJtKD7A&_nc_tpa=Q5bMBQI7YjV4xfKdug0u7ethWPmR5SkBJvSoGaJg02jObYurheQV_o4U-lQ5v-MhP5H223HU7PsByj22&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQoQ-RXEJelBrntzKUkt1P5MOx7P-3xJykKgqkLpjuDhg&oe=6AFCF9AB",
+  "permalink": "https://www.instagram.com/p/Cda2Wwwjc79/",
+  "timestamp": "2022-05-11T13:31:07+0000",
+  "caption": "Eindrücke vom Glockenturm der Gedenkstätte Buchenwald 2/2\n\n#buchenwald #gedenkstätte #konzentrationslager #vergangenheitsbewältigung #weimarundumgebung #weimar #weimarbeinacht #dronenfotografie #djimavicair2",
+  "place": "Weimar",
+  "crop_box": [
+    441,
+    527,
+    1127,
+    1063
+  ],
+  "question_image": "2026-11-13-question.jpg"
 }
