@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-11-14",
-    "round": 68,
-    "post_id": "17957572850067349",
-    "media_id": "18154911799261125",
-    "media_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/656404499_18313381366261125_3829546713563835233_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=_Lu9FD7gr3kQ7kNvwFARQgE&_nc_oc=AdppFgnNuEzozmyDQ4U0UvWKGODcolapkCbz6twynMA1W_swO8UAJ5K_PQIDG9b0KO4&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=scFEMJWBeLUIY0GZ-UDSOA&_nc_tpa=Q5bMBQJZwJrQBLHGxPi7Ws0GrdWUHJ_c_4qAFA52OzKt6nBsUM_YgS3OhO2-xD1nfmdk2w6r_gLaM3ZZ&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSqq701GmmcUjOVZZtplVPkw5oUlAESfuTa0EXFiAYEHg&oe=6AFE204A",
-    "permalink": "https://www.instagram.com/p/Ci5Y1KyjUvK/",
-    "timestamp": "2022-09-24T16:46:33+0000",
-    "caption": "Die Stadt Prato in der Toskana ist wegen ihrer beliebten Sehenswürdigkeiten und der wunderbaren Landschaft in der Umgebung eine Reise wert. Weite Olivenfelder und eine exotische Fauna machen die Stadt zu einem wahren Urlaubs-Idyll.\n18.08.2022 \n\n#toscana #bellaitalia #abendstimmung #prato #firenze #i",
-    "place": "Prato",
-    "crop_box": [
-      780,
-      721,
-      1296,
-      1124
-    ],
-    "question_image": "2026-11-14-question.jpg",
-    "question_story_id": "17896792602683639",
-    "question_published_at": "2026-11-14T13:23:07+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-11-14-reveal.jpg",
-    "reveal_story_id": "18145640473714591"
-  }
+  "stage": "question_prepared",
+  "date": "2026-11-15",
+  "round": 69,
+  "post_id": "18038641720345741",
+  "media_id": "18268020910077319",
+  "media_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/656553438_18510786445077319_8380193798328284507_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=U_x26tBPJMIQ7kNvwExnd6Q&_nc_oc=Adrbh1DOVB_B0VR-36odrt0ENM_WVDcDkLQcY2GeoDEB4GITEsPfQq-nJTkyfjTJC70&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=fagQ5gRR0xVlgLI5r0Xo_g&_nc_tpa=Q5bMBQLC839UKD2q8hVp-LCSR_3egsOKTpZapdqGwhQnaTPya16IMtu9m_66EEW-xw9ICdqShKfDC2Fj&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQIwxg6C5o4bCBSE16xNHI6E8uVP3_r9UtVgtazHtXqiw&oe=6AFF86E6",
+  "permalink": "https://www.instagram.com/p/Cdi5LdeDScI/",
+  "timestamp": "2022-05-14T16:29:43+0000",
+  "caption": "Die Staatliche Gemeinschaftsschule Wenigenjena während der Modernisierungsarbeiten 3/3\n\n#jenaundumgebung #jenalobeda #wenigenjena #schuleimwandel #modernisierung #digitalerwandel #jenacity #lostplaces #sonnenuntergang #sonnenschein #goldenhour",
+  "place": "Jena",
+  "crop_box": [
+    529,
+    289,
+    1286,
+    881
+  ],
+  "question_image": "2026-11-15-question.jpg"
 }
