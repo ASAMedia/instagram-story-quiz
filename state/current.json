@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-11-15",
-  "round": 69,
-  "post_id": "18038641720345741",
-  "media_id": "18268020910077319",
-  "media_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/656553438_18510786445077319_8380193798328284507_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=U_x26tBPJMIQ7kNvwExnd6Q&_nc_oc=Adrbh1DOVB_B0VR-36odrt0ENM_WVDcDkLQcY2GeoDEB4GITEsPfQq-nJTkyfjTJC70&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=fagQ5gRR0xVlgLI5r0Xo_g&_nc_tpa=Q5bMBQLC839UKD2q8hVp-LCSR_3egsOKTpZapdqGwhQnaTPya16IMtu9m_66EEW-xw9ICdqShKfDC2Fj&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQIwxg6C5o4bCBSE16xNHI6E8uVP3_r9UtVgtazHtXqiw&oe=6AFF86E6",
-  "permalink": "https://www.instagram.com/p/Cdi5LdeDScI/",
-  "timestamp": "2022-05-14T16:29:43+0000",
-  "caption": "Die Staatliche Gemeinschaftsschule Wenigenjena während der Modernisierungsarbeiten 3/3\n\n#jenaundumgebung #jenalobeda #wenigenjena #schuleimwandel #modernisierung #digitalerwandel #jenacity #lostplaces #sonnenuntergang #sonnenschein #goldenhour",
-  "place": "Jena",
-  "crop_box": [
-    529,
-    289,
-    1286,
-    881
-  ],
-  "question_image": "2026-11-15-question.jpg",
-  "question_story_id": "18092324411262639",
-  "question_published_at": "2026-11-15T13:50:25+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-11-15-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-11-15",
+    "round": 69,
+    "post_id": "18038641720345741",
+    "media_id": "18268020910077319",
+    "media_url": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/656553438_18510786445077319_8380193798328284507_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=U_x26tBPJMIQ7kNvwExnd6Q&_nc_oc=Adrbh1DOVB_B0VR-36odrt0ENM_WVDcDkLQcY2GeoDEB4GITEsPfQq-nJTkyfjTJC70&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=fagQ5gRR0xVlgLI5r0Xo_g&_nc_tpa=Q5bMBQLC839UKD2q8hVp-LCSR_3egsOKTpZapdqGwhQnaTPya16IMtu9m_66EEW-xw9ICdqShKfDC2Fj&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQIwxg6C5o4bCBSE16xNHI6E8uVP3_r9UtVgtazHtXqiw&oe=6AFF86E6",
+    "permalink": "https://www.instagram.com/p/Cdi5LdeDScI/",
+    "timestamp": "2022-05-14T16:29:43+0000",
+    "caption": "Die Staatliche Gemeinschaftsschule Wenigenjena während der Modernisierungsarbeiten 3/3\n\n#jenaundumgebung #jenalobeda #wenigenjena #schuleimwandel #modernisierung #digitalerwandel #jenacity #lostplaces #sonnenuntergang #sonnenschein #goldenhour",
+    "place": "Jena",
+    "crop_box": [
+      529,
+      289,
+      1286,
+      881
+    ],
+    "question_image": "2026-11-15-question.jpg",
+    "question_story_id": "18092324411262639",
+    "question_published_at": "2026-11-15T13:50:25+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-11-15-reveal.jpg",
+    "reveal_story_id": "18121263107068329"
+  }
 }
