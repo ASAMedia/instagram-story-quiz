@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-11-16",
-    "round": 70,
-    "post_id": "17885954813574218",
-    "media_id": "17885954813574218",
-    "media_url": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/618681602_18075273917574218_7090362108629084190_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=dYdN5WU5HZMQ7kNvwGT4k6z&_nc_oc=AdoCUZZ_1T0h9mqoiyOWOE1fri6jgN2wNnBT-5m4i8BtluGh3-TwdPn8RIy3N1tzGcA&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=25JGFphG6pqAXjxC2-t_-w&_nc_tpa=Q5bMBQI54Y5IkyGiP0u-hkRMKonKOR5Vf4e64pY9huQdNI6wqJatDfAPkZPyTTsOIjC5_a9fUmzczgnX&_nc_ct=RQgsPBUKFQIAAAA&oh=00_AQQNxXvFDSiW4dtzo9KmV7yuV3nNEFSlKXXbrbccEYCaTQ&oe=6B00E4FF",
-    "permalink": "https://www.instagram.com/p/CX3s6ncDhs-/",
-    "timestamp": "2021-12-24T15:18:15+0000",
-    "caption": "Merry Christmas!\nTake yourself some time to relief and enjoy.\n\n#christmas #christmastree #santa #santaclaus #weihnachten #weihnachtsbaum #weihnachtsdekoration #weihnachtsmann #beleuchtung #festderfamilie #staysafe #stressrelief #lichterkette #warmundgemütlich #weihnachtsschmuck",
-    "place": "Unterm Weihnachtsbaum",
-    "crop_box": [
-      558,
-      436,
-      1000,
-      781
-    ],
-    "question_image": "2026-11-16-question.jpg",
-    "question_story_id": "18118285076162206",
-    "question_published_at": "2026-11-16T15:33:18+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-11-16-reveal.jpg",
-    "reveal_story_id": "18117036719112556"
-  }
+  "stage": "question_prepared",
+  "date": "2026-11-17",
+  "round": 71,
+  "post_id": "17954808463722017",
+  "media_id": "17944019785980131",
+  "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/649508682_18098083825980131_7921542495534032519_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JXvEZxD2rCkQ7kNvwGD0TpD&_nc_oc=AdoD8Ha02H9LmKLygnAlB8EOdBykwtMjdeHTSPd_Af0SxfSuL0nhpxG4IMGpd7u-22I&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=iugsy64UH3Ie9NhtqWRWdw&_nc_tpa=Q5bMBQIWQINLzooupId8RApfATh24mBAoMjHdvODEmLvyWouwLW45Vo1k9CZLR0kTgjBmjA1jSghJSAN&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQT83eD3ssXSY6JG8my7lHm0SsH8842ZE3gPaNGdn-n-cw&oe=6B025923",
+  "permalink": "https://www.instagram.com/p/CdTIgG5DWDB/",
+  "timestamp": "2022-05-08T13:35:45+0000",
+  "caption": "Parkschule Weimar\nZum Schuljahr 2021/22 konnte die Parkschule Weimar in das frisch sanierte Gebäude am Rathenauplatz umziehen. \n\n#parkschuleweimar #weimarerklassik #weimarerland #weimarcity #weimarundumgebung #renovieren #dunkelistdienacht",
+  "place": "Weimar",
+  "crop_box": [
+    126,
+    595,
+    755,
+    1087
+  ],
+  "question_image": "2026-11-17-question.jpg"
 }
