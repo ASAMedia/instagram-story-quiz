@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-11-17",
-    "round": 71,
-    "post_id": "17954808463722017",
-    "media_id": "17944019785980131",
-    "media_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/649508682_18098083825980131_7921542495534032519_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JXvEZxD2rCkQ7kNvwGD0TpD&_nc_oc=AdoD8Ha02H9LmKLygnAlB8EOdBykwtMjdeHTSPd_Af0SxfSuL0nhpxG4IMGpd7u-22I&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=iugsy64UH3Ie9NhtqWRWdw&_nc_tpa=Q5bMBQIWQINLzooupId8RApfATh24mBAoMjHdvODEmLvyWouwLW45Vo1k9CZLR0kTgjBmjA1jSghJSAN&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQT83eD3ssXSY6JG8my7lHm0SsH8842ZE3gPaNGdn-n-cw&oe=6B025923",
-    "permalink": "https://www.instagram.com/p/CdTIgG5DWDB/",
-    "timestamp": "2022-05-08T13:35:45+0000",
-    "caption": "Parkschule Weimar\nZum Schuljahr 2021/22 konnte die Parkschule Weimar in das frisch sanierte Gebäude am Rathenauplatz umziehen. \n\n#parkschuleweimar #weimarerklassik #weimarerland #weimarcity #weimarundumgebung #renovieren #dunkelistdienacht",
-    "place": "Weimar",
-    "crop_box": [
-      126,
-      595,
-      755,
-      1087
-    ],
-    "question_image": "2026-11-17-question.jpg",
-    "question_story_id": "18111319771967052",
-    "question_published_at": "2026-11-17T15:53:08+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-11-17-reveal.jpg",
-    "reveal_story_id": "18136789931500570"
-  }
+  "stage": "question_prepared",
+  "date": "2026-11-18",
+  "round": 72,
+  "post_id": "18063925103528140",
+  "media_id": "18118858601084531",
+  "media_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/861637487_18432765022146031_306644080807659515_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pussVun_nk8Q7kNvwGeBqbT&_nc_oc=Adoccj8b6UneHNAsoeaxBMI6boNquZjt7MnwGhmOlhfsfDAqwcWXuCnQfLxIK-0gN3o&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=l6iZvq9Qgysuezl4fFl_wQ&_nc_tpa=Q5bMBQIMLsW7EmcRGENv6BELBQypXA_tXZxX7szXhoMU6s4wJ6GynEUfcUPli-44BmQ_n2Ggw5-nqJlF&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQSPRGr6ReMAHUHkOObj5TXOUzYKM-9NAG2e1irIhprvg&oe=6B03907C",
+  "permalink": "https://www.instagram.com/p/DexBQAQDU_J/",
+  "timestamp": "2026-10-21T18:10:14+0000",
+  "caption": "Im Frühling die Sehnsucht nach Meer gestillt und zum entspannen an der Ostsee gewesen.",
+  "place": "Ostsee",
+  "crop_box": [
+    120,
+    501,
+    756,
+    998
+  ],
+  "question_image": "2026-11-18-question.jpg"
 }
