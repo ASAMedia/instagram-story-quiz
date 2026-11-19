@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-11-18",
-    "round": 72,
-    "post_id": "18063925103528140",
-    "media_id": "18118858601084531",
-    "media_url": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/861637487_18432765022146031_306644080807659515_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pussVun_nk8Q7kNvwGeBqbT&_nc_oc=Adoccj8b6UneHNAsoeaxBMI6boNquZjt7MnwGhmOlhfsfDAqwcWXuCnQfLxIK-0gN3o&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=l6iZvq9Qgysuezl4fFl_wQ&_nc_tpa=Q5bMBQIMLsW7EmcRGENv6BELBQypXA_tXZxX7szXhoMU6s4wJ6GynEUfcUPli-44BmQ_n2Ggw5-nqJlF&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQSPRGr6ReMAHUHkOObj5TXOUzYKM-9NAG2e1irIhprvg&oe=6B03907C",
-    "permalink": "https://www.instagram.com/p/DexBQAQDU_J/",
-    "timestamp": "2026-10-21T18:10:14+0000",
-    "caption": "Im Frühling die Sehnsucht nach Meer gestillt und zum entspannen an der Ostsee gewesen.",
-    "place": "Ostsee",
-    "crop_box": [
-      120,
-      501,
-      756,
-      998
-    ],
-    "question_image": "2026-11-18-question.jpg",
-    "question_story_id": "18202690117383011",
-    "question_published_at": "2026-11-18T15:30:46+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-11-18-reveal.jpg",
-    "reveal_story_id": "17998166874019937"
-  }
+  "stage": "question_prepared",
+  "date": "2026-11-19",
+  "round": 73,
+  "post_id": "18061728790334804",
+  "media_id": "17994139168537532",
+  "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/656268048_18132760714537532_6245463920599810796_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Isb27rNFp9gQ7kNvwEA-Wvq&_nc_oc=Adr0mQbLVMCdNUqYqGoXIXLMQdbbxHbG04ocU6WkyKTKlp2F-Qj_TxKPhIkq5pTEI3g&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=5FapnQKMqLadMWUQ8KXndg&_nc_tpa=Q5bMBQI4Kqs3aATytJIrgpAqT1S44fPf-XB7GTRnStan_HFIQZQ69MEmAiRhoQkYe0lwxmdRpiTN2cSI&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQTP7N6oud1G4kw9E4oRxhx3wxmU4DbNix4CtJfPKEJWw&oe=6B04D34F",
+  "permalink": "https://www.instagram.com/p/CivJ75RjEFy/",
+  "timestamp": "2022-09-20T17:24:00+0000",
+  "caption": "Auf dem Weg in die ehemalige Hauptstadt Italiens (1865 - 1871) Florenz mit Zwischenstopp in Bologna.\n16.08.2022\n\n#bologna #toscana #bellaitalia #abendstimmung #prato #firenze #italy #italytravel #unterwegsmitfreunden",
+  "place": "Bologna",
+  "crop_box": [
+    642,
+    433,
+    1317,
+    961
+  ],
+  "question_image": "2026-11-19-question.jpg"
 }
