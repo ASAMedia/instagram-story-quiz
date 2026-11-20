@@ -1,30 +1,19 @@
 {
-  "stage": "idle",
-  "last": {
-    "stage": "reveal_prepared",
-    "date": "2026-11-19",
-    "round": 73,
-    "post_id": "18061728790334804",
-    "media_id": "17994139168537532",
-    "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/656268048_18132760714537532_6245463920599810796_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Isb27rNFp9gQ7kNvwEA-Wvq&_nc_oc=Adr0mQbLVMCdNUqYqGoXIXLMQdbbxHbG04ocU6WkyKTKlp2F-Qj_TxKPhIkq5pTEI3g&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=5FapnQKMqLadMWUQ8KXndg&_nc_tpa=Q5bMBQI4Kqs3aATytJIrgpAqT1S44fPf-XB7GTRnStan_HFIQZQ69MEmAiRhoQkYe0lwxmdRpiTN2cSI&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQTP7N6oud1G4kw9E4oRxhx3wxmU4DbNix4CtJfPKEJWw&oe=6B04D34F",
-    "permalink": "https://www.instagram.com/p/CivJ75RjEFy/",
-    "timestamp": "2022-09-20T17:24:00+0000",
-    "caption": "Auf dem Weg in die ehemalige Hauptstadt Italiens (1865 - 1871) Florenz mit Zwischenstopp in Bologna.\n16.08.2022\n\n#bologna #toscana #bellaitalia #abendstimmung #prato #firenze #italy #italytravel #unterwegsmitfreunden",
-    "place": "Bologna",
-    "crop_box": [
-      642,
-      433,
-      1317,
-      961
-    ],
-    "question_image": "2026-11-19-question.jpg",
-    "question_story_id": "18138801322656104",
-    "question_published_at": "2026-11-19T15:38:29+0000",
-    "answers": {
-      "total": 0,
-      "correct": 0
-    },
-    "reveal_image": "2026-11-19-reveal.jpg",
-    "reveal_story_id": "18125790220978055"
-  }
+  "stage": "question_prepared",
+  "date": "2026-11-20",
+  "round": 74,
+  "post_id": "17984905690853301",
+  "media_id": "18248111494144756",
+  "media_url": "https://scontent-qro3-1.cdninstagram.com/v/t51.82787-15/658445894_18399419377144756_1842829185815141858_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BkomgExEj0gQ7kNvwF36Jhu&_nc_oc=AdqUtTRzcg3AQIxrfeVxmGzRukKTvXG9U4R1W95cj-Oic6VrJI3yZRSxZrSl0xxGJsI&_nc_zt=23&_nc_ht=scontent-qro3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=WjBiFcvwUXTlt4R25dCbgw&_nc_tpa=Q5bMBQKt5iS2vNYPsQqWGwPoFQvh3mNs2fxOBd-QSZRNx4pNsBzPnsLxP5AG4NaD1vgqgVQSFs--DdBr&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRv8oJKriX6nPAnF6QIRwKyFsvAXeW8mxmmK-jBrNj5QA&oe=6B062695",
+  "permalink": "https://www.instagram.com/p/CofkmvqDPrP/",
+  "timestamp": "2023-02-10T19:17:33+0000",
+  "caption": "Schifoan in der Winterwelt Schmiedefeld. Bei guten Wetter und Bedingungen lohnt es sich hier das Skifahren zu erlernen oder wieder reinzukommen, bevor es zu steileren Pisten geht. \nJanuar 2023 \n\n#skifahren #schmiedefeldamrennsteig #abfahrt #winterweltschmiedefeld #winterlandschaft #schifoan",
+  "place": "Winterwelt Schmiedefeld",
+  "crop_box": [
+    675,
+    800,
+    1317,
+    1302
+  ],
+  "question_image": "2026-11-20-question.jpg"
 }
