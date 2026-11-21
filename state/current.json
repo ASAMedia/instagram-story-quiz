@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-11-20",
-  "round": 74,
-  "post_id": "17984905690853301",
-  "media_id": "18248111494144756",
-  "media_url": "https://scontent-qro3-1.cdninstagram.com/v/t51.82787-15/658445894_18399419377144756_1842829185815141858_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BkomgExEj0gQ7kNvwF36Jhu&_nc_oc=AdqUtTRzcg3AQIxrfeVxmGzRukKTvXG9U4R1W95cj-Oic6VrJI3yZRSxZrSl0xxGJsI&_nc_zt=23&_nc_ht=scontent-qro3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=WjBiFcvwUXTlt4R25dCbgw&_nc_tpa=Q5bMBQKt5iS2vNYPsQqWGwPoFQvh3mNs2fxOBd-QSZRNx4pNsBzPnsLxP5AG4NaD1vgqgVQSFs--DdBr&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRv8oJKriX6nPAnF6QIRwKyFsvAXeW8mxmmK-jBrNj5QA&oe=6B062695",
-  "permalink": "https://www.instagram.com/p/CofkmvqDPrP/",
-  "timestamp": "2023-02-10T19:17:33+0000",
-  "caption": "Schifoan in der Winterwelt Schmiedefeld. Bei guten Wetter und Bedingungen lohnt es sich hier das Skifahren zu erlernen oder wieder reinzukommen, bevor es zu steileren Pisten geht. \nJanuar 2023 \n\n#skifahren #schmiedefeldamrennsteig #abfahrt #winterweltschmiedefeld #winterlandschaft #schifoan",
-  "place": "Winterwelt Schmiedefeld",
-  "crop_box": [
-    675,
-    800,
-    1317,
-    1302
-  ],
-  "question_image": "2026-11-20-question.jpg",
-  "question_story_id": "18135103123797247",
-  "question_published_at": "2026-11-20T15:18:02+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-11-20-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-11-20",
+    "round": 74,
+    "post_id": "17984905690853301",
+    "media_id": "18248111494144756",
+    "media_url": "https://scontent-qro3-1.cdninstagram.com/v/t51.82787-15/658445894_18399419377144756_1842829185815141858_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BkomgExEj0gQ7kNvwF36Jhu&_nc_oc=AdqUtTRzcg3AQIxrfeVxmGzRukKTvXG9U4R1W95cj-Oic6VrJI3yZRSxZrSl0xxGJsI&_nc_zt=23&_nc_ht=scontent-qro3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=WjBiFcvwUXTlt4R25dCbgw&_nc_tpa=Q5bMBQKt5iS2vNYPsQqWGwPoFQvh3mNs2fxOBd-QSZRNx4pNsBzPnsLxP5AG4NaD1vgqgVQSFs--DdBr&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRv8oJKriX6nPAnF6QIRwKyFsvAXeW8mxmmK-jBrNj5QA&oe=6B062695",
+    "permalink": "https://www.instagram.com/p/CofkmvqDPrP/",
+    "timestamp": "2023-02-10T19:17:33+0000",
+    "caption": "Schifoan in der Winterwelt Schmiedefeld. Bei guten Wetter und Bedingungen lohnt es sich hier das Skifahren zu erlernen oder wieder reinzukommen, bevor es zu steileren Pisten geht. \nJanuar 2023 \n\n#skifahren #schmiedefeldamrennsteig #abfahrt #winterweltschmiedefeld #winterlandschaft #schifoan",
+    "place": "Winterwelt Schmiedefeld",
+    "crop_box": [
+      675,
+      800,
+      1317,
+      1302
+    ],
+    "question_image": "2026-11-20-question.jpg",
+    "question_story_id": "18135103123797247",
+    "question_published_at": "2026-11-20T15:18:02+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-11-20-reveal.jpg",
+    "reveal_story_id": "17940246528405151"
+  }
 }
