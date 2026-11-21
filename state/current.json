@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-11-21",
-  "round": 75,
-  "post_id": "17934811943080319",
-  "media_id": "17934811943080319",
-  "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/623113682_18074352734080319_6919565016011137665_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=McSKRhcqS5gQ7kNvwGpb57N&_nc_oc=AdoNLfD1JZF6iZWwlkemMGnpp0qvpWcfDwn86T1qU--FY02O2IWOdjCwgJbB4BmmE9g&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=kEkXu3t-71BsBoh4DM0YRA&_nc_tpa=Q5bMBQLEqarglnZVOfYGt7sX6LEYOkYXeqYQvgCyOIzt-7j5AaAcDSBJOiT2QuAuagZMLAtEmWLgZNUx&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTBUiCPZTAJNOpfoZEplnC34x88r2qGktoKp2iM9CBqUw&oe=6B076625",
-  "permalink": "https://www.instagram.com/p/CeyQ6b5jzpc/",
-  "timestamp": "2022-06-14T12:17:07+0000",
-  "caption": "Buttelstedt von oben\n\n#buttelstedt #regelschule #gymnasium #buttelstedt📌 #lyonelfeiningergymnasium #weimarundumgebung #thueringenentdecken #inthueringenzuhause #dronenfotografie #djimavicair2 #summertime",
-  "place": "Buttelstedt",
-  "crop_box": [
-    263,
-    1002,
-    908,
-    1506
-  ],
-  "question_image": "2026-11-21-question.jpg",
-  "question_story_id": "18111079364308509",
-  "question_published_at": "2026-11-21T14:31:30+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-11-21-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-11-21",
+    "round": 75,
+    "post_id": "17934811943080319",
+    "media_id": "17934811943080319",
+    "media_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/623113682_18074352734080319_6919565016011137665_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=McSKRhcqS5gQ7kNvwGpb57N&_nc_oc=AdoNLfD1JZF6iZWwlkemMGnpp0qvpWcfDwn86T1qU--FY02O2IWOdjCwgJbB4BmmE9g&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=kEkXu3t-71BsBoh4DM0YRA&_nc_tpa=Q5bMBQLEqarglnZVOfYGt7sX6LEYOkYXeqYQvgCyOIzt-7j5AaAcDSBJOiT2QuAuagZMLAtEmWLgZNUx&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTBUiCPZTAJNOpfoZEplnC34x88r2qGktoKp2iM9CBqUw&oe=6B076625",
+    "permalink": "https://www.instagram.com/p/CeyQ6b5jzpc/",
+    "timestamp": "2022-06-14T12:17:07+0000",
+    "caption": "Buttelstedt von oben\n\n#buttelstedt #regelschule #gymnasium #buttelstedt📌 #lyonelfeiningergymnasium #weimarundumgebung #thueringenentdecken #inthueringenzuhause #dronenfotografie #djimavicair2 #summertime",
+    "place": "Buttelstedt",
+    "crop_box": [
+      263,
+      1002,
+      908,
+      1506
+    ],
+    "question_image": "2026-11-21-question.jpg",
+    "question_story_id": "18111079364308509",
+    "question_published_at": "2026-11-21T14:31:30+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-11-21-reveal.jpg",
+    "reveal_story_id": "18156474679527808"
+  }
 }
