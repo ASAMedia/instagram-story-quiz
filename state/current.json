@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-11-23",
-  "round": 77,
-  "post_id": "17866467103097954",
-  "media_id": "17866467103097954",
-  "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/628223454_18444876169097954_9004326971288394274_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=cGfGaWKcNksQ7kNvwFnqkk2&_nc_oc=AdqfAeUIMCS9miZZxmyofmAm6Vwjf3opNmasNGGEnNVn5r83zd50sfVVD95yKJMyDEE&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=1bqdPRJOtyptaET5MQjCTQ&_nc_tpa=Q5bMBQLcAfaEdGCo9xmyH8CKGpYrKUpd_CrIxyLSdEYDA0a1UmmQIAqwUCIeDjOoUwB03Wp5FvISnz8F&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQT450edRz5doCToDmHSNFQRTW-cVdQLGsv9vrJOD1Cb8w&oe=6B0A53B9",
-  "permalink": "https://www.instagram.com/p/BSy34CMjNUG/",
-  "timestamp": "2017-04-12T18:11:37+0000",
-  "caption": "Every time we look at the world we only see it through a hole.",
-  "place": "",
-  "crop_box": [
-    460,
-    391,
-    1077,
-    873
-  ],
-  "question_image": "2026-11-23-question.jpg",
-  "question_story_id": "18012802370777557",
-  "question_published_at": "2026-11-23T17:56:04+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-11-23-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-11-23",
+    "round": 77,
+    "post_id": "17866467103097954",
+    "media_id": "17866467103097954",
+    "media_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/628223454_18444876169097954_9004326971288394274_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=cGfGaWKcNksQ7kNvwFnqkk2&_nc_oc=AdqfAeUIMCS9miZZxmyofmAm6Vwjf3opNmasNGGEnNVn5r83zd50sfVVD95yKJMyDEE&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=1bqdPRJOtyptaET5MQjCTQ&_nc_tpa=Q5bMBQLcAfaEdGCo9xmyH8CKGpYrKUpd_CrIxyLSdEYDA0a1UmmQIAqwUCIeDjOoUwB03Wp5FvISnz8F&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQT450edRz5doCToDmHSNFQRTW-cVdQLGsv9vrJOD1Cb8w&oe=6B0A53B9",
+    "permalink": "https://www.instagram.com/p/BSy34CMjNUG/",
+    "timestamp": "2017-04-12T18:11:37+0000",
+    "caption": "Every time we look at the world we only see it through a hole.",
+    "place": "",
+    "crop_box": [
+      460,
+      391,
+      1077,
+      873
+    ],
+    "question_image": "2026-11-23-question.jpg",
+    "question_story_id": "18012802370777557",
+    "question_published_at": "2026-11-23T17:56:04+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-11-23-reveal.jpg",
+    "reveal_story_id": "18061895255801382"
+  }
 }
