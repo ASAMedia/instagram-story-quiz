@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-11-24",
-  "round": 78,
-  "post_id": "18152552206214635",
-  "media_id": "18152552206214635",
-  "media_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/629473320_18341498662214635_7431824346123390936_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=4UMj86N90c0Q7kNvwGRRqlr&_nc_oc=AdolskmDyS1GfhXu5jDbJDMYFMgOttLQ3pcvF_I4xHUSQKzxOtH2WuvjWburtjpER4k&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=mN7a1_Eoo8vi6aj9DJ5vOw&_nc_tpa=Q5bMBQJ-V3Ylxg9Fn-ffN6oLR9ng6LLOihSkxJUXuicbER_R9eL4U__sa39pIerIsRqPQe7_Xs9iibUr&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQmt3CDykGq2W22_rM3w3-232aUfhAWuw7zrPKfqwDmyA&oe=6B0B97C6",
-  "permalink": "https://www.instagram.com/p/CYjkBJiDEDD/",
-  "timestamp": "2022-01-10T16:07:05+0000",
-  "caption": "Rofanspitze am Achensee. Kleines skigebiet, dafür wenig Personen und breite freie Pisten.\n\n#rofan #rofanspitze #maurachamachensee #achensee #achenseetirol #skiurlaubösterreich #skifahren #abfahrtski #aufgehtsabgehts #wolkenhimmel #schneelandschaft #alpenliebe #tirol",
-  "place": "Rofanspitze",
-  "crop_box": [
-    240,
-    654,
-    664,
-    985
-  ],
-  "question_image": "2026-11-24-question.jpg",
-  "question_story_id": "17914305276574863",
-  "question_published_at": "2026-11-24T17:28:58+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-11-24-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-11-24",
+    "round": 78,
+    "post_id": "18152552206214635",
+    "media_id": "18152552206214635",
+    "media_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/629473320_18341498662214635_7431824346123390936_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=4UMj86N90c0Q7kNvwGRRqlr&_nc_oc=AdolskmDyS1GfhXu5jDbJDMYFMgOttLQ3pcvF_I4xHUSQKzxOtH2WuvjWburtjpER4k&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=mN7a1_Eoo8vi6aj9DJ5vOw&_nc_tpa=Q5bMBQJ-V3Ylxg9Fn-ffN6oLR9ng6LLOihSkxJUXuicbER_R9eL4U__sa39pIerIsRqPQe7_Xs9iibUr&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQmt3CDykGq2W22_rM3w3-232aUfhAWuw7zrPKfqwDmyA&oe=6B0B97C6",
+    "permalink": "https://www.instagram.com/p/CYjkBJiDEDD/",
+    "timestamp": "2022-01-10T16:07:05+0000",
+    "caption": "Rofanspitze am Achensee. Kleines skigebiet, dafür wenig Personen und breite freie Pisten.\n\n#rofan #rofanspitze #maurachamachensee #achensee #achenseetirol #skiurlaubösterreich #skifahren #abfahrtski #aufgehtsabgehts #wolkenhimmel #schneelandschaft #alpenliebe #tirol",
+    "place": "Rofanspitze",
+    "crop_box": [
+      240,
+      654,
+      664,
+      985
+    ],
+    "question_image": "2026-11-24-question.jpg",
+    "question_story_id": "17914305276574863",
+    "question_published_at": "2026-11-24T17:28:58+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-11-24-reveal.jpg",
+    "reveal_story_id": "18104705672546498"
+  }
 }
