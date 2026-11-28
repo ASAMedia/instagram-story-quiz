@@ -1,26 +1,30 @@
 {
-  "stage": "reveal_prepared",
-  "date": "2026-11-27",
-  "round": 81,
-  "post_id": "18165873328089988",
-  "media_id": "18165873328089988",
-  "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/631925531_18377088463089988_1725839599494638703_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8pjDCtts9BYQ7kNvwFJ3_dt&_nc_oc=AdoDpts7wdIaHAejiALOpXzVR53vJDdI7qCMR--LMEOHkcQnS8ur4bP452gYsAAc_pA&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=oqSyzl9M29bs-azb23NrhQ&_nc_tpa=Q5bMBQJZ7TpqHTy0xu_q1lkibDk_wbewXLWi9BNvmteUozNFzA7x8lcmrLW78AvRdqAdgrqJfErcbbfq&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQXlAc16U0ZIdJHW87wB2e2gCv2rn6-FlM_M4JIHQFVv1Q&oe=6B0F7B4E",
-  "permalink": "https://www.instagram.com/p/CTWQluej4Uy/",
-  "timestamp": "2021-09-03T05:30:13+0000",
-  "caption": "*\n\n#berlinfernsehturm #berlinmesse #funkturmberlin #iccberlin #fernsehturmberlin #berlinbeitag #berlinerleben #berlinzentrum #schlosscharlottenburg #berlin🇩🇪 #berlinvonoben #drachenberg #teufelsberg #highcontrast #cityscape #skylineberlin\n\n@berliner_fernsehturm @visit_berlin",
-  "place": "Berliner Fernsehturm",
-  "crop_box": [
-    382,
-    869,
-    1093,
-    1425
-  ],
-  "question_image": "2026-11-27-question.jpg",
-  "question_story_id": "18121366658108195",
-  "question_published_at": "2026-11-27T16:30:44+0000",
-  "answers": {
-    "total": 0,
-    "correct": 0
-  },
-  "reveal_image": "2026-11-27-reveal.jpg"
+  "stage": "idle",
+  "last": {
+    "stage": "reveal_prepared",
+    "date": "2026-11-27",
+    "round": 81,
+    "post_id": "18165873328089988",
+    "media_id": "18165873328089988",
+    "media_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/631925531_18377088463089988_1725839599494638703_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8pjDCtts9BYQ7kNvwFJ3_dt&_nc_oc=AdoDpts7wdIaHAejiALOpXzVR53vJDdI7qCMR--LMEOHkcQnS8ur4bP452gYsAAc_pA&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=oqSyzl9M29bs-azb23NrhQ&_nc_tpa=Q5bMBQJZ7TpqHTy0xu_q1lkibDk_wbewXLWi9BNvmteUozNFzA7x8lcmrLW78AvRdqAdgrqJfErcbbfq&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQXlAc16U0ZIdJHW87wB2e2gCv2rn6-FlM_M4JIHQFVv1Q&oe=6B0F7B4E",
+    "permalink": "https://www.instagram.com/p/CTWQluej4Uy/",
+    "timestamp": "2021-09-03T05:30:13+0000",
+    "caption": "*\n\n#berlinfernsehturm #berlinmesse #funkturmberlin #iccberlin #fernsehturmberlin #berlinbeitag #berlinerleben #berlinzentrum #schlosscharlottenburg #berlin🇩🇪 #berlinvonoben #drachenberg #teufelsberg #highcontrast #cityscape #skylineberlin\n\n@berliner_fernsehturm @visit_berlin",
+    "place": "Berliner Fernsehturm",
+    "crop_box": [
+      382,
+      869,
+      1093,
+      1425
+    ],
+    "question_image": "2026-11-27-question.jpg",
+    "question_story_id": "18121366658108195",
+    "question_published_at": "2026-11-27T16:30:44+0000",
+    "answers": {
+      "total": 0,
+      "correct": 0
+    },
+    "reveal_image": "2026-11-27-reveal.jpg",
+    "reveal_story_id": "17914812960659907"
+  }
 }
